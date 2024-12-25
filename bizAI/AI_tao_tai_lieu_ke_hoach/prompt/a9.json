@@ -1,0 +1,178 @@
+{
+    "CHART_DATA": {
+      "fixedCapital": [
+        { "name": "[Hạng mục 1]", "value": "[X]" },
+        { "name": "[Hạng mục 2]", "value": "[X]" },
+        { "name": "[Hạng mục 3]", "value": "[X]" },
+        { "name": "[Hạng mục 4]", "value": "[X]" }
+      ],
+      "workingCapital": [
+        { "name": "[Khoản mục 1]", "value": "[X]" },
+        { "name": "[Khoản mục 2]", "value": "[X]" },
+        { "name": "[Khoản mục 3]", "value": "[X]" },
+        { "name": "[Khoản mục 4]", "value": "[X]" }
+      ],
+      "capitalTimeline": [
+        { "phase": "[Giai đoạn 1]", "capital": "[X]", "time": "[Thời gian 1]" },
+        { "phase": "[Giai đoạn 2]", "capital": "[X]", "time": "[Thời gian 2]" },
+        { "phase": "[Giai đoạn 3]", "capital": "[X]", "time": "[Thời gian 3]" }
+      ],
+      "investmentStructure": [
+        { "type": "[Loại 1]", "value": "[X]" },
+        { "type": "[Loại 2]", "value": "[X]" },
+        { "type": "[Loại 3]", "value": "[X]" }
+      ],
+      "returnProjection": [
+        {
+          "year": "[Năm 1]",
+          "revenue": "[X]",
+          "profit": "[X]",
+          "investment": "[X]"
+        },
+        {
+          "year": "[Năm 2]",
+          "revenue": "[X]",
+          "profit": "[X]",
+          "investment": "[X]"
+        },
+        {
+          "year": "[Năm 3]",
+          "revenue": "[X]",
+          "profit": "[X]",
+          "investment": "[X]"
+        }
+      ],
+      "paybackAnalysis": [
+        { "year": "[Năm 1]", "cashflow": "[X]" },
+        { "year": "[Năm 2]", "cashflow": "[X]" },
+        { "year": "[Năm 3]", "cashflow": "[X]" },
+        { "year": "[Năm 4]", "cashflow": "[X]" }
+      ]
+    },
+    "TEXT_CONTENT": {
+      "title": "9. KINH PHÍ CẦN THIẾT",
+      "sectionA": {
+        "title": "A. Tổng vốn cần thiết",
+        "fixed": {
+          "title": "Vốn cố định",
+          "details": [
+            {
+              "name": "[Hạng mục 1]",
+              "amount": "[Số tiền 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Hạng mục 2]",
+              "amount": "[Số tiền 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Hạng mục 3]",
+              "amount": "[Số tiền 3]",
+              "desc": "[Mô tả 3]"
+            },
+            {
+              "name": "[Hạng mục 4]",
+              "amount": "[Số tiền 4]",
+              "desc": "[Mô tả 4]"
+            }
+          ]
+        },
+        "working": {
+          "title": "Vốn lưu động",
+          "details": [
+            {
+              "name": "[Khoản mục 1]",
+              "amount": "[Số tiền 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Khoản mục 2]",
+              "amount": "[Số tiền 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Khoản mục 3]",
+              "amount": "[Số tiền 3]",
+              "desc": "[Mô tả 3]"
+            },
+            {
+              "name": "[Khoản mục 4]",
+              "amount": "[Số tiền 4]",
+              "desc": "[Mô tả 4]"
+            }
+          ]
+        },
+        "timing": {
+          "title": "Thời điểm cần vốn",
+          "phases": [
+            {
+              "name": "[Giai đoạn 1]",
+              "amount": "[Số tiền 1]",
+              "time": "[Thời gian 1]",
+              "purpose": "[Mục đích 1]"
+            },
+            {
+              "name": "[Giai đoạn 2]",
+              "amount": "[Số tiền 2]",
+              "time": "[Thời gian 2]",
+              "purpose": "[Mục đích 2]"
+            },
+            {
+              "name": "[Giai đoạn 3]",
+              "amount": "[Số tiền 3]",
+              "time": "[Thời gian 3]",
+              "purpose": "[Mục đích 3]"
+            }
+          ]
+        }
+      },
+      "sectionB": {
+        "title": "B. Yêu cầu đối với nhà đầu tư",
+        "investment": {
+          "title": "Hình thức đầu tư",
+          "forms": [
+            {
+              "type": "[Hình thức 1]",
+              "ratio": "[Tỷ lệ 1]",
+              "value": "[Giá trị 1]",
+              "terms": "[Điều khoản 1]"
+            },
+            {
+              "type": "[Hình thức 2]",
+              "ratio": "[Tỷ lệ 2]",
+              "value": "[Giá trị 2]",
+              "terms": "[Điều khoản 2]"
+            },
+            {
+              "type": "[Hình thức 3]",
+              "ratio": "[Tỷ lệ 3]",
+              "value": "[Giá trị 3]",
+              "terms": "[Điều khoản 3]"
+            }
+          ]
+        },
+        "usage": {
+          "title": "Kế hoạch sử dụng vốn",
+          "details": {
+            "purpose": [
+              "[Mục đích 1]",
+              "[Mục đích 2]",
+              "[Mục đích 3]",
+              "[Mục đích 4]"
+            ],
+            "timeline": "[Thời gian thực hiện]",
+            "efficiency": "[Hiệu quả dự kiến]"
+          }
+        },
+        "return": {
+          "title": "Phương án hoàn vốn",
+          "details": {
+            "period": "[Thời gian]",
+            "roi": "[Tỷ suất sinh lời]",
+            "dividend": "[Cổ tức]"
+          }
+        }
+      }
+    }
+  }

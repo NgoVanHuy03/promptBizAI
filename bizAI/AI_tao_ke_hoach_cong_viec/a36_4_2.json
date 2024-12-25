@@ -1,0 +1,336 @@
+{
+  "TEXT_CONTENT": {
+    "title": "KẾ HOẠCH CHI TIẾT QUÝ 1",
+    "months": {
+      "month11": {
+        "title": "Tháng 11",
+        "weeks": {
+          "week1": {
+            "days": [
+              {
+                "date": "Ngày 1",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 2",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 3",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 4",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 5",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 6",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 7",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              }
+            ]
+          },
+          "week2": {
+            "days": [
+              {
+                "date": "Ngày 8",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 9",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 10",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 11",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 12",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 13",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 14",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              }
+            ]
+          },
+          "week3": {
+            "days": [
+              {
+                "date": "Ngày 15",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 16",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 17",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 18",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 19",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 20",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 21",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              }
+            ]
+          },
+          "week4": {
+            "days": [
+              {
+                "date": "Ngày 22",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 23",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 24",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 25",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 26",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 27",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              },
+              {
+                "date": "Ngày 28",
+                "issues": [
+                  "Vấn đề 1: [Mô tả vấn đề]",
+                  "Vấn đề 2: [Mô tả vấn đề]"
+                ],
+                "solutions": [
+                  "Giải pháp 1: [Mô tả giải pháp]",
+                  "Giải pháp 2: [Mô tả giải pháp]"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

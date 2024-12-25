@@ -1,0 +1,290 @@
+{
+    "TEXT_CONTENT": {
+      "title": "2. DỰ KIẾN DOANH THU VÀ CHI PHÍ",
+      "sectionA": {
+        "title": "A. Dự kiến doanh thu",
+        "productRevenue": {
+          "title": "Doanh thu theo sản phẩm/dịch vụ",
+          "items": [
+            {
+              "name": "[Sản phẩm 1]",
+              "details": {
+                "quantity": "[Số lượng/tháng]",
+                "price": "[Giá/đơn vị]",
+                "revenue": "[Doanh thu/tháng]",
+                "proportion": "[Tỷ lệ %]"
+              }
+            },
+            {
+              "name": "[Sản phẩm 2]",
+              "details": {
+                "quantity": "[Số lượng/tháng]",
+                "price": "[Giá/đơn vị]",
+                "revenue": "[Doanh thu/tháng]",
+                "proportion": "[Tỷ lệ %]"
+              }
+            },
+            {
+              "name": "[Sản phẩm 3]",
+              "details": {
+                "quantity": "[Số lượng/tháng]",
+                "price": "[Giá/đơn vị]",
+                "revenue": "[Doanh thu/tháng]",
+                "proportion": "[Tỷ lệ %]"
+              }
+            }
+          ]
+        },
+        "timeProjection": {
+          "title": "Dự báo theo thời gian",
+          "firstYear": {
+            "title": "Năm 1 (năm hiện tại)",
+            "quarters": [
+              {
+                "period": "Quý 1",
+                "revenue": "[Doanh thu Q1]",
+                "target": "[Mục tiêu Q1]",
+                "note": "[Ghi chú Q1]"
+              },
+              {
+                "period": "Quý 2",
+                "revenue": "[Doanh thu Q2]",
+                "target": "[Mục tiêu Q2]",
+                "note": "[Ghi chú Q2]"
+              },
+              {
+                "period": "Quý 3",
+                "revenue": "[Doanh thu Q3]",
+                "target": "[Mục tiêu Q3]",
+                "note": "[Ghi chú Q3]"
+              },
+              {
+                "period": "Quý 4",
+                "revenue": "[Doanh thu Q4]",
+                "target": "[Mục tiêu Q4]",
+                "note": "[Ghi chú Q4]"
+              }
+            ]
+          },
+          "futureForecast": {
+            "title": "Năm 2-3 (năm hiện tại + 1 - Năm hiện tại + 2)",
+            "items": [
+              {
+                "name": "Tốc độ tăng trưởng",
+                "details": ["[Tăng trưởng năm 2]", "[Tăng trưởng năm 3]"]
+              },
+              {
+                "name": "Doanh thu kỳ vọng",
+                "details": ["[Doanh thu năm 2]", "[Doanh thu năm 3]"]
+              },
+              {
+                "name": "Yếu tố ảnh hưởng",
+                "details": [
+                  "[Yếu tố 1]",
+                  "[Yếu tố 2]",
+                  "[Yếu tố 3]"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "sectionB": {
+        "title": "B. Dự kiến chi phí",
+        "fixedCosts": {
+          "title": "Chi phí cố định",
+          "categories": [
+            {
+              "name": "Chi phí nhân sự",
+              "items": [
+                {
+                  "title": "Lương cơ bản",
+                  "amount": "[Tổng lương/tháng]",
+                  "details": [
+                    "[Chi tiết lương 1]",
+                    "[Chi tiết lương 2]",
+                    "[Chi tiết lương 3]"
+                  ]
+                },
+                {
+                  "title": "Phụ cấp",
+                  "amount": "[Tổng phụ cấp/tháng]",
+                  "details": [
+                    "[Chi tiết phụ cấp 1]",
+                    "[Chi tiết phụ cấp 2]",
+                    "[Chi tiết phụ cấp 3]"
+                  ]
+                },
+                {
+                  "title": "BHXH, BHYT",
+                  "amount": "[Tổng bảo hiểm/tháng]",
+                  "details": [
+                    "[Chi tiết BH 1]",
+                    "[Chi tiết BH 2]",
+                    "[Chi tiết BH 3]"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chi phí vận hành",
+              "items": [
+                {
+                  "title": "Thuê mặt bằng",
+                  "amount": "[Chi phí thuê/tháng]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+                },
+                {
+                  "title": "Khấu hao TSCĐ",
+                  "amount": "[Chi phí khấu hao/tháng]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+                },
+                {
+                  "title": "Bảo trì thiết bị",
+                  "amount": "[Chi phí bảo trì/tháng]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+                }
+              ]
+            },
+            {
+              "name": "Chi phí quản lý",
+              "items": [
+                {
+                  "title": "Văn phòng phẩm",
+                  "amount": "[Chi phí VPP/tháng]"
+                },
+                {
+                  "title": "Tiện ích",
+                  "amount": "[Chi phí tiện ích/tháng]",
+                  "details": [
+                    "[Chi tiết 1]",
+                    "[Chi tiết 2]",
+                    "[Chi tiết 3]"
+                  ]
+                },
+                {
+                  "title": "Bảo hiểm",
+                  "amount": "[Chi phí bảo hiểm/tháng]"
+                }
+              ]
+            }
+          ]
+        },
+        "variableCosts": {
+          "title": "Chi phí biến đổi",
+          "categories": [
+            {
+              "name": "Chi phí nguyên vật liệu",
+              "items": [
+                {
+                  "title": "Nguyên liệu chính",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]", "[Chi tiết 3]"]
+                },
+                {
+                  "title": "Vật liệu phụ",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]", "[Chi tiết 3]"]
+                },
+                {
+                  "title": "Bao bì đóng gói",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+                }
+              ]
+            },
+            {
+              "name": "Chi phí bán hàng",
+              "items": [
+                {
+                  "title": "Marketing",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+                },
+                {
+                  "title": "Hoa hồng",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết]"]
+                },
+                {
+                  "title": "Vận chuyển",
+                  "amount": "[Tỷ lệ % doanh thu]",
+                  "details": ["[Chi tiết]"]
+                }
+              ]
+            }
+          ]
+        },
+        "financialCosts": {
+          "title": "Chi phí tài chính",
+          "items": [
+            {
+              "title": "Lãi vay",
+              "amount": "[Chi phí lãi/tháng]",
+              "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+            },
+            {
+              "title": "Phí ngân hàng",
+              "amount": "[Chi phí phí/tháng]",
+              "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+            },
+            {
+              "title": "Chi phí bảo lãnh",
+              "amount": "[Chi phí bảo lãnh/tháng]",
+              "details": ["[Chi tiết]"]
+            }
+          ]
+        }
+      },
+      "sectionC": {
+        "title": "C. Phân tích biên lợi nhuận",
+        "profitMargin": {
+          "title": "Tỷ suất lợi nhuận",
+          "items": [
+            {
+              "name": "Lợi nhuận gộp",
+              "value": "[Tỷ lệ %]",
+              "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+            },
+            {
+              "name": "Lợi nhuận hoạt động",
+              "value": "[Tỷ lệ %]",
+              "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+            },
+            {
+              "name": "Lợi nhuận ròng",
+              "value": "[Tỷ lệ %]",
+              "details": ["[Chi tiết 1]", "[Chi tiết 2]"]
+            }
+          ]
+        },
+        "sensitivityAnalysis": {
+          "title": "Phân tích độ nhạy",
+          "items": [
+            {
+              "name": "Biến động giá bán",
+              "details": ["[Kịch bản 1]", "[Kịch bản 2]"]
+            },
+            {
+              "name": "Biến động chi phí",
+              "details": ["[Kịch bản 1]", "[Kịch bản 2]"]
+            },
+            {
+              "name": "Kịch bản tài chính",
+              "details": ["[Kịch bản 1]", "[Kịch bản 2]", "[Kịch bản 3]"]
+            }
+          ]
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+
+

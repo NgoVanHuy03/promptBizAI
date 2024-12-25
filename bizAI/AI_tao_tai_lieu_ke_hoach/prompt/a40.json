@@ -1,0 +1,305 @@
+{
+    "TEXT_CONTENT": {
+    "title": "4. PHÂN TÍCH CHỈ TIÊU TÀI CHÍNH",
+    "sectionA": {
+      "title": "A. Hệ số khả năng thanh khoản",
+      "currentRatio": {
+        "title": "Khả năng thanh toán hiện hành",
+        "items": [
+          {
+            "name": "Công thức",
+            "value": "[Công thức tính]",
+            "calculation": "[Kết quả tính toán]",
+            "note": "[Chi tiết tính toán]"
+          },
+          {
+            "name": "Chỉ tiêu mục tiêu",
+            "value": "[Giá trị mục tiêu]",
+            "status": "[Trạng thái]",
+            "note": "[Đánh giá]"
+          },
+          {
+            "name": "Phân tích xu hướng",
+            "details": [
+              "[Xu hướng 1]",
+              "[Xu hướng 2]",
+              "[Xu hướng 3]"
+            ]
+          },
+          {
+            "name": "Biện pháp cải thiện",
+            "details": [
+              "[Biện pháp 1]",
+              "[Biện pháp 2]",
+              "[Biện pháp 3]"
+            ]
+          }
+        ]
+      },
+      "quickRatio": {
+        "title": "Khả năng thanh toán nhanh",
+        "items": [
+          {
+            "name": "Công thức",
+            "value": "[Công thức tính]",
+            "calculation": "[Kết quả tính toán]",
+            "note": "[Chi tiết tính toán]"
+          },
+          {
+            "name": "Chỉ tiêu mục tiêu",
+            "value": "[Giá trị mục tiêu]",
+            "status": "[Trạng thái]",
+            "note": "[Đánh giá]"
+          },
+          {
+            "name": "Đánh giá rủi ro",
+            "details": [
+              "[Rủi ro 1]",
+              "[Rủi ro 2]",
+              "[Rủi ro 3]"
+            ]
+          },
+          {
+            "name": "Giải pháp duy trì",
+            "details": [
+              "[Giải pháp 1]",
+              "[Giải pháp 2]",
+              "[Giải pháp 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Chỉ tiêu cấu trúc vốn và tài sản",
+      "debtRatio": {
+        "title": "Hệ số nợ",
+        "items": [
+          {
+            "name": "Tổng nợ/Tổng tài sản",
+            "value": "[Tỷ lệ]",
+            "status": "[Trạng thái]",
+            "note": "[Chi tiết]"
+          },
+          {
+            "name": "Nợ dài hạn/Vốn chủ sở hữu",
+            "value": "[Tỷ lệ]",
+            "status": "[Trạng thái]",
+            "note": "[Chi tiết]"
+          },
+          {
+            "name": "Mức độ đòn bẩy",
+            "value": "[Mức độ]",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Rủi ro tài chính",
+            "details": [
+              "[Rủi ro 1]",
+              "[Rủi ro 2]",
+              "[Rủi ro 3]"
+            ]
+          }
+        ]
+      },
+      "assetStructure": {
+        "title": "Cơ cấu tài sản",
+        "items": [
+          {
+            "name": "Tài sản ngắn hạn/Tổng tài sản",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Tài sản dài hạn/Tổng tài sản",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Hiệu quả sử dụng",
+            "details": [
+              "[Đánh giá 1]",
+              "[Đánh giá 2]",
+              "[Đánh giá 3]"
+            ]
+          },
+          {
+            "name": "Chiến lược điều chỉnh",
+            "details": [
+              "[Chiến lược 1]",
+              "[Chiến lược 2]",
+              "[Chiến lược 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Hiệu quả sử dụng vốn",
+      "assetTurnover": {
+        "title": "Vòng quay tài sản",
+        "items": [
+          {
+            "name": "Doanh thu/Tổng tài sản",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Vòng quay hàng tồn kho",
+            "value": "[Số vòng]",
+            "note": "[Ghi chú]"
+          },
+          {
+            "name": "Kỳ thu tiền bình quân",
+            "value": "[Số ngày]",
+            "note": "[Ghi chú]"
+          },
+          {
+            "name": "Kỳ trả tiền bình quân",
+            "value": "[Số ngày]",
+            "note": "[Ghi chú]"
+          }
+        ]
+      },
+      "cashCycle": {
+        "title": "Chu kỳ tiền mặt",
+        "items": [
+          {
+            "name": "Thời gian một vòng quay",
+            "value": "[Số ngày]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Nhu cầu vốn lưu động",
+            "value": "[Số tiền]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Biện pháp tối ưu",
+            "details": [
+              "[Biện pháp 1]",
+              "[Biện pháp 2]",
+              "[Biện pháp 3]"
+            ]
+          },
+          {
+            "name": "Dự phòng rủi ro",
+            "details": [
+              "[Dự phòng 1]",
+              "[Dự phòng 2]",
+              "[Dự phòng 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionD": {
+      "title": "D. Hệ số sinh lời",
+      "profitability": {
+        "title": "Tỷ suất lợi nhuận",
+        "items": [
+          {
+            "name": "Biên lợi nhuận gộp",
+            "value": "[Tỷ lệ]",
+            "status": "[Trạng thái]",
+            "note": "[Ghi chú]"
+          },
+          {
+            "name": "Biên lợi nhuận ròng",
+            "value": "[Tỷ lệ]",
+            "status": "[Trạng thái]",
+            "note": "[Ghi chú]"
+          },
+          {
+            "name": "So sánh ngành",
+            "details": [
+              "[So sánh 1]",
+              "[So sánh 2]",
+              "[So sánh 3]"
+            ]
+          },
+          {
+            "name": "Xu hướng phát triển",
+            "details": [
+              "[Xu hướng 1]",
+              "[Xu hướng 2]",
+              "[Xu hướng 3]"
+            ]
+          }
+        ]
+      },
+      "capitalEfficiency": {
+        "title": "Hiệu quả sử dụng vốn",
+        "items": [
+          {
+            "name": "ROE",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]",
+            "status": "[Trạng thái]"
+          },
+          {
+            "name": "ROA",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]",
+            "status": "[Trạng thái]"
+          },
+          {
+            "name": "ROIC",
+            "value": "[Tỷ lệ]",
+            "calculation": "[Cách tính]",
+            "status": "[Trạng thái]"
+          },
+          {
+            "name": "Phân tích Du Pont",
+            "details": [
+              "[Phân tích 1]",
+              "[Phân tích 2]",
+              "[Phân tích 3]"
+            ]
+          }
+        ]
+      },
+      "comparison": {
+        "title": "Phân tích so sánh",
+        "items": [
+          {
+            "name": "So với đối thủ",
+            "details": [
+              "[So sánh 1]",
+              "[So sánh 2]",
+              "[So sánh 3]"
+            ]
+          },
+          {
+            "name": "So với trung bình ngành",
+            "details": [
+              "[So sánh 1]",
+              "[So sánh 2]",
+              "[So sánh 3]"
+            ]
+          },
+          {
+            "name": "Điểm mạnh/yếu",
+            "details": [
+              "[Điểm 1]",
+              "[Điểm 2]",
+              "[Điểm 3]"
+            ]
+          },
+          {
+            "name": "Giải pháp cải thiện",
+            "details": [
+              "[Giải pháp 1]",
+              "[Giải pháp 2]",
+              "[Giải pháp 3]"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

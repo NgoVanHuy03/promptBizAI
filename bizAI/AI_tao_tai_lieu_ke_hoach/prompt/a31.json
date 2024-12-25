@@ -1,0 +1,217 @@
+{
+  "CONTENT": {
+    "title": "6. DỰ TOÁN CHI PHÍ",
+    "sections": {
+      "directCosts": {
+        "title": "A. Chi phí trực tiếp",
+        "subsections": {
+          "materials": {
+            "title": "Nguyên vật liệu chính",
+            "items": [
+              {
+                "label": "[Định mức]",
+                "content": "[Chi tiết về định mức sử dụng các nguyên liệu]"
+              },
+              {
+                "label": "[Đơn giá]",
+                "content": "[Chi tiết về đơn giá các nguyên liệu]"
+              },
+              {
+                "label": "[Vận chuyển]",
+                "content": "[Chi tiết về chi phí vận chuyển]"
+              },
+              {
+                "label": "[Hao hụt]",
+                "content": "[Chi tiết về tỷ lệ hao hụt cho phép]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí nguyên liệu]"
+              }
+            ]
+          },
+          "labor": {
+            "title": "Lao động trực tiếp",
+            "items": [
+              {
+                "label": "[Số lượng]",
+                "content": "[Chi tiết về số lượng công nhân]"
+              },
+              {
+                "label": "[Đơn giá]",
+                "content": "[Chi tiết về đơn giá nhân công]"
+              },
+              {
+                "label": "[Phụ cấp]",
+                "content": "[Chi tiết về phụ cấp sản xuất]"
+              },
+              {
+                "label": "[Bảo hiểm]",
+                "content": "[Chi tiết về chi phí bảo hiểm]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí lao động]"
+              }
+            ]
+          },
+          "auxiliaryMaterials": {
+            "title": "Chi phí phụ liệu",
+            "items": [
+              {
+                "label": "[Vật liệu]",
+                "content": "[Chi tiết về vật liệu phụ]"
+              },
+              {
+                "label": "[Bao bì]",
+                "content": "[Chi tiết về bao bì đóng gói]"
+              },
+              {
+                "label": "[Phụ tùng]",
+                "content": "[Chi tiết về phụ tùng thay thế]"
+              },
+              {
+                "label": "[Công cụ]",
+                "content": "[Chi tiết về công cụ dụng cụ]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí phụ liệu]"
+              }
+            ]
+          }
+        }
+      },
+      "indirectCosts": {
+        "title": "B. Chi phí gián tiếp",
+        "subsections": {
+          "production": {
+            "title": "Chi phí sản xuất chung",
+            "items": [
+              {
+                "label": "[Quản đốc]",
+                "content": "[Chi tiết về lương quản đốc]"
+              },
+              {
+                "label": "[Điện nước]",
+                "content": "[Chi tiết về chi phí điện nước]"
+              },
+              {
+                "label": "[Bảo trì]",
+                "content": "[Chi tiết về chi phí bảo trì]"
+              },
+              {
+                "label": "[Vệ sinh]",
+                "content": "[Chi tiết về chi phí vệ sinh]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí sản xuất chung]"
+              }
+            ]
+          },
+          "management": {
+            "title": "Chi phí quản lý",
+            "items": [
+              {
+                "label": "[Nhân viên]",
+                "content": "[Chi tiết về lương nhân viên]"
+              },
+              {
+                "label": "[Văn phòng]",
+                "content": "[Chi tiết về văn phòng phẩm]"
+              },
+              {
+                "label": "[Công tác]",
+                "content": "[Chi tiết về công tác phí]"
+              },
+              {
+                "label": "[Thuê]",
+                "content": "[Chi tiết về chi phí thuê văn phòng]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí quản lý]"
+              }
+            ]
+          },
+          "sales": {
+            "title": "Chi phí bán hàng",
+            "items": [
+              {
+                "label": "[Marketing]",
+                "content": "[Chi tiết về chi phí marketing]"
+              },
+              {
+                "label": "[Vận chuyển]",
+                "content": "[Chi tiết về chi phí vận chuyển]"
+              },
+              {
+                "label": "[Hoa hồng]",
+                "content": "[Chi tiết về chi phí hoa hồng]"
+              },
+              {
+                "label": "[Bảo hành]",
+                "content": "[Chi tiết về chi phí bảo hành]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí bán hàng]"
+              }
+            ]
+          },
+          "operation": {
+            "title": "Chi phí sử dụng",
+            "items": [
+              {
+                "label": "[Bảo dưỡng]",
+                "content": "[Chi tiết về chi phí bảo dưỡng]"
+              },
+              {
+                "label": "[Năng lượng]",
+                "content": "[Chi tiết về chi phí năng lượng]"
+              },
+              {
+                "label": "[Phụ tùng]",
+                "content": "[Chi tiết về chi phí phụ tùng]"
+              },
+              {
+                "label": "[Đào tạo]",
+                "content": "[Chi tiết về chi phí đào tạo]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí sử dụng]"
+              }
+            ]
+          },
+          "depreciation": {
+            "title": "Khấu hao máy móc thiết bị",
+            "items": [
+              {
+                "label": "[Nguyên giá]",
+                "content": "[Chi tiết về nguyên giá tài sản]"
+              },
+              {
+                "label": "[Thời gian]",
+                "content": "[Chi tiết về thời gian khấu hao]"
+              },
+              {
+                "label": "[Phương pháp]",
+                "content": "[Chi tiết về phương pháp tính]"
+              },
+              {
+                "label": "[Giá trị]",
+                "content": "[Chi tiết về giá trị còn lại]"
+              },
+              {
+                "label": "[Tổng chi phí]",
+                "content": "[Chi tiết về tổng chi phí khấu hao]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

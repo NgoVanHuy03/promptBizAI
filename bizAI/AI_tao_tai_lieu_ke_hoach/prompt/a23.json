@@ -1,0 +1,157 @@
+{
+  "CONTENT": {
+    "title": "7. CHÍNH SÁCH GIÁ BÁN",
+    "sections": {
+      "penetration": {
+        "title": "A. Định giá thâm nhập",
+        "items": [
+          {
+            "label": "[Giá khởi điểm]",
+            "content": "[Mức giá theo nhóm sản phẩm]"
+          },
+          {
+            "label": "[Thời gian]",
+            "content": "[Thời hạn áp dụng]"
+          },
+          {
+            "label": "[Điều kiện]",
+            "content": "[Điều kiện áp dụng]"
+          },
+          {
+            "label": "[Lộ trình]",
+            "content": "[Kế hoạch tăng giá]"
+          },
+          {
+            "label": "[Mục tiêu]",
+            "content": "[Chỉ tiêu thị phần]"
+          }
+        ]
+      },
+      "competitive": {
+        "title": "B. Định giá cạnh tranh",
+        "items": [
+          {
+            "label": "[Phân tích]",
+            "content": "[Giá đối thủ]"
+          },
+          {
+            "label": "[Vị thế]",
+            "content": "[Định vị giá]"
+          },
+          {
+            "label": "[Biên độ]",
+            "content": "[Phạm vi điều chỉnh]"
+          },
+          {
+            "label": "[Phản ứng]",
+            "content": "[Chính sách phản ứng]"
+          },
+          {
+            "label": "[Lợi nhuận]",
+            "content": "[Duy trì lợi nhuận]"
+          }
+        ]
+      },
+      "skimming": {
+        "title": "C. Định giá hớt váng",
+        "items": [
+          {
+            "label": "[Giá cao cấp]",
+            "content": "[Chi tiết giá premium]"
+          },
+          {
+            "label": "[Đối tượng]",
+            "content": "[Khách hàng mục tiêu]"
+          },
+          {
+            "label": "[Giá trị]",
+            "content": "[Giá trị gia tăng]"
+          },
+          {
+            "label": "[Thời điểm]",
+            "content": "[Thời gian áp dụng]"
+          },
+          {
+            "label": "[Điều kiện]",
+            "content": "[Điều kiện thị trường]"
+          }
+        ]
+      },
+      "costBased": {
+        "title": "D. Định giá theo chi phí",
+        "items": [
+          {
+            "label": "[Chi phí]",
+            "content": "[Cấu trúc chi phí]"
+          },
+          {
+            "label": "[Biên]",
+            "content": "[Tỷ suất lợi nhuận]"
+          },
+          {
+            "label": "[Hòa vốn]",
+            "content": "[Điểm hòa vốn]"
+          },
+          {
+            "label": "[Phương pháp]",
+            "content": "[Cách tính giá]"
+          },
+          {
+            "label": "[Cập nhật]",
+            "content": "[Quy trình cập nhật]"
+          }
+        ]
+      },
+      "discount": {
+        "title": "E. Chính sách chiết khấu",
+        "items": [
+          {
+            "label": "[Số lượng]",
+            "content": "[Chiết khấu theo số lượng]"
+          },
+          {
+            "label": "[Thanh toán]",
+            "content": "[Chiết khấu thanh toán]"
+          },
+          {
+            "label": "[Mùa vụ]",
+            "content": "[Chiết khấu theo mùa]"
+          },
+          {
+            "label": "[Khách hàng]",
+            "content": "[Chiết khấu nhóm KH]"
+          },
+          {
+            "label": "[Quy trình]",
+            "content": "[Cách áp dụng]"
+          }
+        ]
+      },
+      "adjustment": {
+        "title": "F. Điều chỉnh giá",
+        "items": [
+          {
+            "label": "[Điều kiện]",
+            "content": "[Điều kiện điều chỉnh]"
+          },
+          {
+            "label": "[Biên độ]",
+            "content": "[Giới hạn điều chỉnh]"
+          },
+          {
+            "label": "[Thẩm quyền]",
+            "content": "[Phân quyền quyết định]"
+          },
+          {
+            "label": "[Thông báo]",
+            "content": "[Quy trình thông báo]"
+          },
+          {
+            "label": "[Phản hồi]",
+            "content": "[Xử lý phản hồi]"
+          }
+        ]
+      }
+    }
+  }
+}

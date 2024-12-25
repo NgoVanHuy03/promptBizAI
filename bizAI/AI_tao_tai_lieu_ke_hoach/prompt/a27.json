@@ -1,0 +1,180 @@
+{
+  "TEXT_CONTENT": {
+    "title": "2. QUY TRÌNH VẬN HÀNH",
+    "sections": {
+      "productionProcess": {
+        "title": "A. Quy trình sản xuất",
+        "subsections": {
+          "projectBased": {
+            "title": "Sản xuất dạng dự án",
+            "items": [
+              {
+                "label": "[Đặc điểm]",
+                "content": "[Mô tả loại hình sản xuất]"
+              },
+              {
+                "label": "[Quy trình]",
+                "content": "[Các bước thực hiện]"
+              },
+              {
+                "label": "[Tiến độ]",
+                "content": "[Cách quản lý tiến độ]"
+              },
+              {
+                "label": "[Chất lượng]",
+                "content": "[Kiểm soát chất lượng]"
+              },
+              {
+                "label": "[Nguồn lực]",
+                "content": "[Quản lý nguồn lực]"
+              }
+            ]
+          },
+          "batchProduction": {
+            "title": "Sản xuất theo lô",
+            "items": [
+              {
+                "label": "[Quy mô]",
+                "content": "[Kích thước lô]"
+              },
+              {
+                "label": "[Chu kỳ]", 
+                "content": "[Tần suất sản xuất]"
+              },
+              {
+                "label": "[Điều phối]",
+                "content": "[Cách điều phối]"
+              },
+              {
+                "label": "[Tồn kho]",
+                "content": "[Quản lý tồn kho]"
+              },
+              {
+                "label": "[Chất lượng]",
+                "content": "[Kiểm soát chất lượng]"
+              }
+            ]
+          },
+          "massProduction": {
+            "title": "Sản xuất hàng loạt",
+            "items": [
+              {
+                "label": "[Dây chuyền]",
+                "content": "[Mô tả dây chuyền]"
+              },
+              {
+                "label": "[Tốc độ]",
+                "content": "[Tốc độ sản xuất]"
+              },
+              {
+                "label": "[Cân bằng]",
+                "content": "[Cân bằng chuyền]"
+              },
+              {
+                "label": "[Kiểm soát]",
+                "content": "[Kiểm soát quá trình]"
+              },
+              {
+                "label": "[Sự cố]",
+                "content": "[Xử lý sự cố]"
+              }
+            ]
+          },
+          "continuousProduction": {
+            "title": "Sản xuất liên tục",
+            "items": [
+              {
+                "label": "[Vận hành]",
+                "content": "[Quy trình vận hành]"
+              },
+              {
+                "label": "[Thiết bị]",
+                "content": "[Yêu cầu thiết bị]"
+              },
+              {
+                "label": "[Bảo trì]",
+                "content": "[Bảo trì bảo dưỡng]"
+              },
+              {
+                "label": "[Kiểm soát]",
+                "content": "[Kiểm soát chất lượng]"
+              },
+              {
+                "label": "[Quản lý]",
+                "content": "[Quản lý vận hành]"
+              }
+            ]
+          }
+        }
+      },
+      "capacity": {
+        "title": "B. Công suất thiết kế và thực tế",
+        "subsections": {
+          "designCapacity": {
+            "title": "Công suất thiết kế",
+            "items": [
+              {
+                "label": "[Năng lực]",
+                "content": "[Năng lực tối đa]"
+              },
+              {
+                "label": "[Điều kiện]",
+                "content": "[Điều kiện vận hành]"
+              },
+              {
+                "label": "[Nguồn lực]",
+                "content": "[Yêu cầu nguồn lực]"
+              },
+              {
+                "label": "[Giới hạn]",
+                "content": "[Giới hạn kỹ thuật]"
+              }
+            ]
+          },
+          "actualCapacity": {
+            "title": "Công suất thực tế",
+            "items": [
+              {
+                "label": "[Hiện tại]",
+                "content": "[Công suất hiện tại]"
+              },
+              {
+                "label": "[Tỷ lệ]",
+                "content": "[Tỷ lệ vận hành]"
+              },
+              {
+                "label": "[Nghẽn]",
+                "content": "[Điểm nghẽn]"
+              },
+              {
+                "label": "[Giải pháp]",
+                "content": "[Giải pháp cải thiện]"
+              }
+            ]
+          },
+          "capacityImprovement": {
+            "title": "Kế hoạch nâng cao công suất",
+            "items": [
+              {
+                "label": "[Ngắn hạn]",
+                "content": "[Mục tiêu ngắn hạn]"
+              },
+              {
+                "label": "[Dài hạn]",
+                "content": "[Mục tiêu dài hạn]"
+              },
+              {
+                "label": "[Giải pháp]",
+                "content": "[Giải pháp thực hiện]"
+              },
+              {
+                "label": "[Đầu tư]",
+                "content": "[Kế hoạch đầu tư]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

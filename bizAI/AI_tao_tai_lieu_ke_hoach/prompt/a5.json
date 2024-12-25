@@ -1,0 +1,297 @@
+{
+    "CHART_DATA": {
+      "competitiveAnalysis": {
+        "productComparison": [
+          {
+            "category": "[Tiêu chí đánh giá 1]",
+            "myBusiness": "[X]",
+            "competitor1": "[X]",
+            "competitor2": "[X]"
+          },
+          {
+            "category": "[Tiêu chí đánh giá 2]",
+            "myBusiness": "[X]",
+            "competitor1": "[X]",
+            "competitor2": "[X]"
+          },
+          {
+            "category": "[Tiêu chí đánh giá 3]",
+            "myBusiness": "[X]",
+            "competitor1": "[X]",
+            "competitor2": "[X]"
+          },
+          {
+            "category": "[Tiêu chí đánh giá 4]",
+            "myBusiness": "[X]",
+            "competitor1": "[X]",
+            "competitor2": "[X]"
+          }
+        ],
+        "technology": [
+          {
+            "attribute": "[Thuộc tính công nghệ 1]",
+            "value": "[X]",
+            "fullMark": "[X]"
+          },
+          {
+            "attribute": "[Thuộc tính công nghệ 2]",
+            "value": "[X]",
+            "fullMark": "[X]"
+          },
+          {
+            "attribute": "[Thuộc tính công nghệ 3]",
+            "value": "[X]",
+            "fullMark": "[X]"
+          },
+          {
+            "attribute": "[Thuộc tính công nghệ 4]",
+            "value": "[X]",
+            "fullMark": "[X]"
+          }
+        ],
+        "resources": [
+          {
+            "name": "[Nguồn lực 1]",
+            "value": "[X]"
+          },
+          {
+            "name": "[Nguồn lực 2]",
+            "value": "[X]"
+          },
+          {
+            "name": "[Nguồn lực 3]",
+            "value": "[X]"
+          }
+        ]
+      },
+      "successFactors": {
+        "positioning": [
+          {
+            "factor": "[Yếu tố thành công 1]",
+            "score": "[X]"
+          },
+          {
+            "factor": "[Yếu tố thành công 2]",
+            "score": "[X]"
+          },
+          {
+            "factor": "[Yếu tố thành công 3]",
+            "score": "[X]"
+          },
+          {
+            "factor": "[Yếu tố thành công 4]",
+            "score": "[X]"
+          }
+        ],
+        "development": [
+          {
+            "phase": "[Giai đoạn 1]",
+            "target": "[X]",
+            "achieved": "[X]"
+          },
+          {
+            "phase": "[Giai đoạn 2]",
+            "target": "[X]",
+            "achieved": "[X]"
+          },
+          {
+            "phase": "[Giai đoạn 3]",
+            "target": "[X]",
+            "achieved": "[X]"
+          }
+        ]
+      },
+      "loyalty": {
+        "programs": [
+          {
+            "name": "[Chương trình 1]",
+            "value": "[X]"
+          },
+          {
+            "name": "[Chương trình 2]",
+            "value": "[X]"
+          },
+          {
+            "name": "[Chương trình 3]",
+            "value": "[X]"
+          },
+          {
+            "name": "[Chương trình 4]",
+            "value": "[X]"
+          }
+        ],
+        "satisfaction": [
+          {
+            "category": "[Hạng mục 1]",
+            "rating": "[X]"
+          },
+          {
+            "category": "[Hạng mục 2]",
+            "rating": "[X]"
+          },
+          {
+            "category": "[Hạng mục 3]",
+            "rating": "[X]"
+          },
+          {
+            "category": "[Hạng mục 4]",
+            "rating": "[X]"
+          }
+        ],
+        "retention": [
+          {
+            "month": "[T1]",
+            "rate": "[X]"
+          },
+          {
+            "month": "[T3]",
+            "rate": "[X]"
+          },
+          {
+            "month": "[T6]",
+            "rate": "[X]"
+          },
+          {
+            "month": "[T12]",
+            "rate": "[X]"
+          }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "5. LỢI THẾ CẠNH TRANH",
+      "sectionA": {
+        "title": "A. Điểm khác biệt với đối thủ",
+        "product": {
+          "title": "So sánh sản phẩm/dịch vụ",
+          "features": {
+            "title": "Tính năng vượt trội",
+            "points": [
+              "[Tính năng 1]",
+              "[Tính năng 2]",
+              "[Tính năng 3]",
+              "[Tính năng 4]"
+            ]
+          },
+          "quality": {
+            "title": "Chất lượng",
+            "points": [
+              "[Tiêu chuẩn 1]",
+              "[Tiêu chuẩn 2]",
+              "[Tiêu chuẩn 3]",
+              "[Tiêu chuẩn 4]"
+            ]
+          }
+        },
+        "technology": {
+          "title": "Công nghệ/Quy trình",
+          "points": [
+            {
+              "name": "[Công nghệ 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Công nghệ 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Công nghệ 3]",
+              "desc": "[Mô tả 3]"
+            }
+          ]
+        },
+        "resources": {
+          "title": "Nguồn lực",
+          "items": [
+            {
+              "name": "[Nguồn lực 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Nguồn lực 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Nguồn lực 3]",
+              "desc": "[Mô tả 3]"
+            }
+          ]
+        }
+      },
+      "sectionB": {
+        "title": "B. Cách thức tạo thành công",
+        "positioning": {
+          "title": "Chiến lược định vị",
+          "brand": "[Định vị thương hiệu]",
+          "image": "[Hình ảnh]",
+          "values": "[Giá trị cốt lõi]"
+        },
+        "development": {
+          "title": "Chiến lược phát triển",
+          "shortTerm": {
+            "title": "Mục tiêu ngắn hạn",
+            "goals": [
+              "[Mục tiêu 1]",
+              "[Mục tiêu 2]",
+              "[Mục tiêu 3]"
+            ]
+          },
+          "midTerm": {
+            "title": "Mục tiêu trung hạn",
+            "goals": [
+              "[Mục tiêu 1]",
+              "[Mục tiêu 2]",
+              "[Mục tiêu 3]"
+            ]
+          },
+          "longTerm": {
+            "title": "Mục tiêu dài hạn",
+            "goals": [
+              "[Mục tiêu 1]",
+              "[Mục tiêu 2]",
+              "[Mục tiêu 3]"
+            ]
+          }
+        }
+      },
+      "sectionC": {
+        "title": "C. Chiến lược xây dựng lòng trung thành",
+        "programs": {
+          "title": "Chương trình khách hàng",
+          "care": {
+            "title": "Chính sách chăm sóc",
+            "points": [
+              "[Chính sách 1]",
+              "[Chính sách 2]",
+              "[Chính sách 3]"
+            ]
+          },
+          "points": {
+            "title": "Chương trình tích điểm",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          }
+        },
+        "service": {
+          "title": "Dịch vụ sau bán hàng",
+          "items": [
+            {
+              "name": "[Dịch vụ 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Dịch vụ 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Dịch vụ 3]",
+              "desc": "[Mô tả 3]"
+            }
+          ]
+        }
+      }
+    }
+  }

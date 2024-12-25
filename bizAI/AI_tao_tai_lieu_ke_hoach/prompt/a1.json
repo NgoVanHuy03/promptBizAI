@@ -1,0 +1,100 @@
+{
+    "TEXT_CONTENT": {
+      "title": "1. NÊU VẤN ĐỀ",
+      "sectionA": {
+        "title": "A. Mô tả vấn đề/nhu cầu của khách hàng",
+        "marketStatus": {
+          "title": "Thực trạng thị trường",
+          "intro": "Qua khảo sát thực tế tại [khu vực khảo sát] - nơi [đặc điểm nổi bật của khu vực], [thị trường] đang bộc lộ những hạn chế nghiêm trọng:",
+          "chartCaption": "[Biểu đồ thể hiện mức độ nghiêm trọng của các vấn đề]",
+          "issues": [
+            "[Vấn đề 1: Thời gian chờ đợi + con số cụ thể]",
+            "[Vấn đề 2: Chi phí + mức giá cụ thể]",
+            "[Vấn đề 3: Vấn đề về điều kiện vệ sinh]"
+          ]
+        },
+        "customerNeeds": {
+          "title": "Nhu cầu của khách hàng",
+          "chartCaption": "[Biểu đồ phân khúc khách hàng]",
+          "intro": "[Khảo sát trực tiếp X khách hàng] cho thấy những nhu cầu cấp thiết:",
+          "needs": [
+            "[Nhu cầu 1: Yêu cầu về thời gian]",
+            "[Nhu cầu 2: Yêu cầu về giá cả]",
+            "[Nhu cầu 3: Yêu cầu về vệ sinh]",
+            "[Nhu cầu 4: Yêu cầu về sự đa dạng]"
+          ]
+        },
+        "consequences": {
+          "title": "Hậu quả khi không giải quyết được vấn đề",
+          "items": [
+            "[X% + hậu quả về thói quen ăn uống]",
+            "[X% + hậu quả về hiệu suất làm việc]",
+            "[X% + hậu quả về chi phí phát sinh]"
+          ]
+        }
+      },
+      "sectionB": {
+        "title": "B. Dữ liệu hỗ trợ",
+        "marketData": {
+          "title": "Số liệu thị trường",
+          "chartCaption": "[Biểu đồ tăng trưởng ngành]",
+          "stats": [
+            "[Quy mô thị trường hiện tại + năm]",
+            "[Tốc độ tăng trưởng hàng năm]",
+            "[Dự báo tương lai + năm]"
+          ]
+        },
+        "surveyResults": {
+          "title": "Kết quả khảo sát",
+          "chartCaption": "[Biểu đồ tần suất sử dụng]"
+        },
+        "opportunities": {
+          "title": "Cơ hội kinh doanh",
+          "points": [
+            "[Số lượng khách hàng tiềm năng]",
+            "[Dự kiến doanh thu/năm/cửa hàng]",
+            "[Kế hoạch mở rộng X năm đầu]",
+            "[Tỷ suất lợi nhuận kỳ vọng]"
+          ]
+        }
+      }
+    },
+    "CHART_DATA": {
+      "marketResearch": [
+        {
+          "year": "[X]",
+          "value": "[X]"
+        },
+        {
+          "year": "[X]",
+          "value": "[X]"
+        },
+        {
+          "year": "[X]",
+          "value": "[X]"
+        },
+        {
+          "year": "[X]",
+          "value": "[X]"
+        },
+        {
+          "year": "[X]",
+          "value": "[X]"
+        }
+      ],
+      "customerSegments": [
+        {
+          "name": "[Phân khúc 1]",
+          "value": "[X]"
+        },
+        {
+          "name": "[Phân khúc 2]",
+          "value": "[X]"
+        },
+        {
+          "name": "[Phân khúc 3]",
+          "value": "[X]"
+        }
+      ]
+    }
+  }

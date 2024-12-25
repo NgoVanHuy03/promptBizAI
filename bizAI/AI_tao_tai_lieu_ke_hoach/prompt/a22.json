@@ -1,0 +1,132 @@
+{
+  "CONTENT": {
+    "title": "6. DANH MỤC SẢN PHẨM",
+    "sections": {
+      "structure": {
+        "title": "A. Cơ cấu danh mục",
+        "items": [
+          {
+            "label": "[Dòng sản phẩm]",
+            "content": "[Danh sách các dòng sản phẩm chính]"
+          },
+          {
+            "label": "[Phân nhóm]",
+            "content": "[Chi tiết số lượng SKU theo nhóm]"
+          },
+          {
+            "label": "[Số lượng SKU]",
+            "content": "[Tổng số SKU và biến động]"
+          },
+          {
+            "label": "[Tỷ trọng]",
+            "content": "[Phân bổ doanh thu]"
+          },
+          {
+            "label": "[Biên lợi nhuận]",
+            "content": "[Chi tiết biên lợi nhuận theo nhóm]"
+          }
+        ]
+      },
+      "width": {
+        "title": "B. Chiều rộng danh mục",
+        "items": [
+          {
+            "label": "[Số lượng dòng]",
+            "content": "[Chi tiết số lượng]"
+          },
+          {
+            "label": "[Phân khúc]",
+            "content": "[Các phân khúc giá]"
+          },
+          {
+            "label": "[Độ phủ]",
+            "content": "[Mức độ phủ thị trường]"
+          },
+          {
+            "label": "[Đáp ứng]",
+            "content": "[Khả năng đáp ứng nhu cầu]"
+          },
+          {
+            "label": "[Mở rộng]",
+            "content": "[Kế hoạch mở rộng]"
+          }
+        ]
+      },
+      "depth": {
+        "title": "C. Chiều sâu danh mục",
+        "items": [
+          {
+            "label": "[Biến thể]",
+            "content": "[Các biến thể sản phẩm]"
+          },
+          {
+            "label": "[Phiên bản]",
+            "content": "[Các phiên bản khác nhau]"
+          },
+          {
+            "label": "[Tùy chọn]",
+            "content": "[Các tùy chọn cho khách]"
+          },
+          {
+            "label": "[Chuyên biệt]",
+            "content": "[Mức độ chuyên biệt]"
+          },
+          {
+            "label": "[Phức tạp]",
+            "content": "[Độ phức tạp menu]"
+          }
+        ]
+      },
+      "management": {
+        "title": "D. Quản lý danh mục",
+        "items": [
+          {
+            "label": "[Nguyên tắc]",
+            "content": "[Nguyên tắc phát triển]"
+          },
+          {
+            "label": "[Tiêu chí loại]",
+            "content": "[Tiêu chí loại bỏ]"
+          },
+          {
+            "label": "[Chu kỳ]",
+            "content": "[Chu kỳ cập nhật]"
+          },
+          {
+            "label": "[Đánh giá]",
+            "content": "[Tiêu chí đánh giá]"
+          },
+          {
+            "label": "[Tối ưu]",
+            "content": "[Chiến lược tối ưu]"
+          }
+        ]
+      },
+      "analysis": {
+        "title": "E. Phân tích hiệu quả",
+        "items": [
+          {
+            "label": "[Doanh số]",
+            "content": "[Doanh số theo dòng]"
+          },
+          {
+            "label": "[Tăng trưởng]",
+            "content": "[Tỷ lệ tăng trưởng]"
+          },
+          {
+            "label": "[Chi phí]",
+            "content": "[Cơ cấu chi phí]"
+          },
+          {
+            "label": "[ROI]",
+            "content": "[ROI theo danh mục]"
+          },
+          {
+            "label": "[Xu hướng]",
+            "content": "[Xu hướng thị trường]"
+          }
+        ]
+      }
+    }
+  }
+}

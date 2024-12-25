@@ -1,0 +1,176 @@
+{
+  "CONTENT": {
+    "title": "7. QUẢN TRỊ CHẤT LƯỢNG SẢN PHẨM",
+    "sections": {
+      "certainDecisions": {
+        "title": "A. Ra quyết định trong điều kiện chắc chắn",
+        "items": [
+          {
+            "label": "[Đầu vào]",
+            "content": "[Chi tiết về dữ liệu đầu vào]"
+          },
+          {
+            "label": "[Tiêu chí]",
+            "content": "[Chi tiết về tiêu chí đánh giá]"
+          },
+          {
+            "label": "[Quy trình]",
+            "content": "[Chi tiết về quy trình kiểm soát]"
+          },
+          {
+            "label": "[Thực hiện]",
+            "content": "[Chi tiết về các bước thực hiện]"
+          },
+          {
+            "label": "[Đánh giá]",
+            "content": "[Chi tiết về phương pháp đánh giá]"
+          }
+        ]
+      },
+      "uncertainDecisions": {
+        "title": "B. Ra quyết định trong điều kiện không chắc chắn",
+        "subsections": {
+          "maximax": {
+            "title": "Phương pháp Maximax",
+            "items": [
+              {
+                "label": "[Nguyên tắc]",
+                "content": "[Chi tiết về nguyên tắc áp dụng]"
+              },
+              {
+                "label": "[Ma trận]",
+                "content": "[Chi tiết về ma trận quyết định]"
+              },
+              {
+                "label": "[Phân tích]",
+                "content": "[Chi tiết về phân tích kết quả]"
+              },
+              {
+                "label": "[Lựa chọn]",
+                "content": "[Chi tiết về lựa chọn phương án]"
+              }
+            ]
+          },
+          "maximin": {
+            "title": "Phương pháp Maximin",
+            "items": [
+              {
+                "label": "[Nguyên tắc]",
+                "content": "[Chi tiết về nguyên tắc áp dụng]"
+              },
+              {
+                "label": "[Ma trận]",
+                "content": "[Chi tiết về ma trận quyết định]"
+              },
+              {
+                "label": "[Rủi ro]",
+                "content": "[Chi tiết về phân tích rủi ro]"
+              },
+              {
+                "label": "[Phương án]",
+                "content": "[Chi tiết về phương án an toàn]"
+              }
+            ]
+          },
+          "equalOdds": {
+            "title": "Phương pháp may rủi ngang nhau",
+            "items": [
+              {
+                "label": "[Xác suất]",
+                "content": "[Chi tiết về xác suất xảy ra]"
+              },
+              {
+                "label": "[Kỳ vọng]",
+                "content": "[Chi tiết về giá trị kỳ vọng]"
+              },
+              {
+                "label": "[Độ nhạy]",
+                "content": "[Chi tiết về phân tích độ nhạy]"
+              },
+              {
+                "label": "[Tối ưu]",
+                "content": "[Chi tiết về lựa chọn tối ưu]"
+              }
+            ]
+          },
+          "minimumRegret": {
+            "title": "Phương pháp giá trị bỏ lỡ thấp nhất",
+            "items": [
+              {
+                "label": "[Chi phí]",
+                "content": "[Chi tiết về tính toán chi phí cơ hội]"
+              },
+              {
+                "label": "[Ma trận]",
+                "content": "[Chi tiết về ma trận hối tiếc]"
+              },
+              {
+                "label": "[So sánh]",
+                "content": "[Chi tiết về phân tích so sánh]"
+              },
+              {
+                "label": "[Quyết định]",
+                "content": "[Chi tiết về quyết định cuối cùng]"
+              }
+            ]
+          }
+        }
+      },
+      "equipmentSelection": {
+        "title": "C. Tiêu chí lựa chọn máy móc thiết bị",
+        "subsections": {
+          "npv": {
+            "title": "Giá trị hiện tại thuần (NPV)",
+            "items": [
+              {
+                "label": "[Đầu tư]",
+                "content": "[Chi tiết về chi phí đầu tư]"
+              },
+              {
+                "label": "[Dòng tiền]",
+                "content": "[Chi tiết về dòng tiền tương lai]"
+              },
+              {
+                "label": "[Chiết khấu]",
+                "content": "[Chi tiết về tỷ lệ chiết khấu]"
+              },
+              {
+                "label": "[Hoàn vốn]",
+                "content": "[Chi tiết về thời gian hoàn vốn]"
+              },
+              {
+                "label": "[Hiệu quả]",
+                "content": "[Chi tiết về phân tích hiệu quả]"
+              }
+            ]
+          },
+          "irr": {
+            "title": "Hệ số hoàn vốn nội bộ (IRR)",
+            "items": [
+              {
+                "label": "[IRR]",
+                "content": "[Chi tiết về tính toán IRR]"
+              },
+              {
+                "label": "[So sánh]",
+                "content": "[Chi tiết về so sánh chi phí vốn]"
+              },
+              {
+                "label": "[Độ nhạy]",
+                "content": "[Chi tiết về phân tích độ nhạy]"
+              },
+              {
+                "label": "[Đầu tư]",
+                "content": "[Chi tiết về quyết định đầu tư]"
+              },
+              {
+                "label": "[Rủi ro]",
+                "content": "[Chi tiết về rủi ro đầu tư]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

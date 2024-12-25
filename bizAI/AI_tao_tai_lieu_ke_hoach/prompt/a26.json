@@ -1,0 +1,164 @@
+{
+  "CONTENT": {
+    "title": "1. THIẾT KẾ SẢN PHẨM/DỊCH VỤ",
+    "sections": {
+      "productStructure": {
+        "title": "A. Mô tả cơ cấu sản phẩm",
+        "subsections": {
+          "overview": {
+            "title": "Cấu trúc tổng thể",
+            "items": [
+              {
+                "label": "[Mô tả chung]",
+                "content": "[Giới thiệu mô hình kinh doanh]"
+              },
+              {
+                "label": "[Bộ phận chính]",
+                "content": "[Danh sách các khu vực chính]"
+              },
+              {
+                "label": "[Vận hành]", 
+                "content": "[Cách thức vận hành]"
+              },
+              {
+                "label": "[Đặc điểm]",
+                "content": "[Điểm nổi bật]"
+              }
+            ]
+          },
+          "components": {
+            "title": "Chi tiết thành phần",
+            "items": [
+              {
+                "label": "[F&B]",
+                "content": "[Chi tiết menu F&B]"
+              },
+              {
+                "label": "[Không gian]", 
+                "content": "[Chi tiết thiết kế]"
+              },
+              {
+                "label": "[Dịch vụ]",
+                "content": "[Chi tiết dịch vụ]"
+              },
+              {
+                "label": "[Tích hợp]",
+                "content": "[Mối quan hệ các thành phần]"
+              }
+            ]
+          },
+          "differences": {
+            "title": "Điểm khác biệt",
+            "items": [
+              {
+                "label": "[So sánh]",
+                "content": "[So sánh đối thủ]"
+              },
+              {
+                "label": "[Công nghệ]",
+                "content": "[Công nghệ sử dụng]"
+              },
+              {
+                "label": "[Tính năng]",
+                "content": "[Tính năng đặc biệt]" 
+              },
+              {
+                "label": "[Lợi thế]",
+                "content": "[Lợi thế cạnh tranh]"
+              }
+            ]
+          },
+          "suitability": {
+            "title": "Tính phù hợp",
+            "items": [
+              {
+                "label": "[Nhu cầu KH]",
+                "content": "[Đáp ứng nhu cầu]"
+              },
+              {
+                "label": "[Năng lực]",
+                "content": "[Khả năng sản xuất]"
+              },
+              {
+                "label": "[Thời gian]", 
+                "content": "[Thời gian chế biến]"
+              },
+              {
+                "label": "[Chi phí]",
+                "content": "[Cơ cấu chi phí]"
+              }
+            ]
+          }
+        }
+      },
+      "technicalRequirements": {
+        "title": "B. Yêu cầu kỹ thuật",
+        "subsections": {
+          "specifications": {
+            "title": "Đặc điểm kỹ thuật", 
+            "items": [
+              {
+                "label": "[Thông số]",
+                "content": "[Thông số kỹ thuật]"
+              },
+              {
+                "label": "[Tiêu chuẩn]",
+                "content": "[Tiêu chuẩn áp dụng]" 
+              },
+              {
+                "label": "[Chất lượng]",
+                "content": "[Yêu cầu chất lượng]"
+              },
+              {
+                "label": "[Đánh giá]",
+                "content": "[Chỉ tiêu đánh giá]"
+              }
+            ]
+          },
+          "control": {
+            "title": "Khả năng kiểm soát",
+            "items": [
+              {
+                "label": "[Điểm kiểm soát]",
+                "content": "[Các điểm kiểm soát]"
+              },
+              {
+                "label": "[Đo lường]",
+                "content": "[Phương pháp đo]"
+              },
+              {
+                "label": "[Tần suất]",
+                "content": "[Tần suất kiểm tra]"
+              },
+              {
+                "label": "[Xử lý]",
+                "content": "[Xử lý sai lệch]"
+              }
+            ]
+          },
+          "optimization": {
+            "title": "Tối ưu hóa",
+            "items": [
+              {
+                "label": "[Nguyên liệu]",
+                "content": "[Tối ưu nguyên liệu]"
+              },
+              {
+                "label": "[Quy trình]", 
+                "content": "[Tối ưu quy trình]"
+              },
+              {
+                "label": "[Tiêu chuẩn]",
+                "content": "[Tiêu chuẩn hóa]"
+              },
+              {
+                "label": "[Lắp lẫn]",
+                "content": "[Khả năng thay thế]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

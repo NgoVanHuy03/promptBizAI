@@ -1,0 +1,510 @@
+{
+    "TEXT_CONTENT": {
+      "title": "KẾ HOẠCH CHI TIẾT QUÝ 2",
+      "months": {
+        "month4": {
+          "title": "Tháng 4",
+          "weeks": {
+            "week1": {
+              "days": [
+                {
+                  "date": "Ngày 1",
+                  "task": "[Công việc ngày 1]"
+                },
+                {
+                  "date": "Ngày 2",
+                  "task": "[Công việc ngày 2]"
+                },
+                {
+                  "date": "Ngày 3",
+                  "task": "[Công việc ngày 3]"
+                },
+                {
+                  "date": "Ngày 4",
+                  "task": "[Công việc ngày 4]"
+                },
+                {
+                  "date": "Ngày 5",
+                  "task": "[Công việc ngày 5]"
+                },
+                {
+                  "date": "Ngày 6",
+                  "task": "[Công việc ngày 6]"
+                },
+                {
+                  "date": "Ngày 7",
+                  "task": "[Công việc ngày 7]"
+                }
+              ]
+            },
+            "week2": {
+              "days": [
+                {
+                  "date": "Ngày 8",
+                  "task": "[Công việc ngày 8]"
+                },
+                {
+                  "date": "Ngày 9",
+                  "task": "[Công việc ngày 9]"
+                },
+                {
+                  "date": "Ngày 10",
+                  "task": "[Công việc ngày 10]"
+                },
+                {
+                  "date": "Ngày 11",
+                  "task": "[Công việc ngày 11]"
+                },
+                {
+                  "date": "Ngày 12",
+                  "task": "[Công việc ngày 12]"
+                },
+                {
+                  "date": "Ngày 13",
+                  "task": "[Công việc ngày 13]"
+                },
+                {
+                  "date": "Ngày 14",
+                  "task": "[Công việc ngày 14]"
+                }
+              ]
+            },
+            "week3": {
+              "days": [
+                {
+                  "date": "Ngày 15",
+                  "task": "[Công việc ngày 15]"
+                },
+                {
+                  "date": "Ngày 16",
+                  "task": "[Công việc ngày 16]"
+                },
+                {
+                  "date": "Ngày 17",
+                  "task": "[Công việc ngày 17]"
+                },
+                {
+                  "date": "Ngày 18",
+                  "task": "[Công việc ngày 18]"
+                },
+                {
+                  "date": "Ngày 19",
+                  "task": "[Công việc ngày 19]"
+                },
+                {
+                  "date": "Ngày 20",
+                  "task": "[Công việc ngày 20]"
+                },
+                {
+                  "date": "Ngày 21",
+                  "task": "[Công việc ngày 21]"
+                }
+              ]
+            },
+            "week4": {
+              "days": [
+                {
+                  "date": "Ngày 22",
+                  "task": "[Công việc ngày 22]"
+                },
+                {
+                  "date": "Ngày 23",
+                  "task": "[Công việc ngày 23]"
+                },
+                {
+                  "date": "Ngày 24",
+                  "task": "[Công việc ngày 24]"
+                },
+                {
+                  "date": "Ngày 25",
+                  "task": "[Công việc ngày 25]"
+                },
+                {
+                  "date": "Ngày 26",
+                  "task": "[Công việc ngày 26]"
+                },
+                {
+                  "date": "Ngày 27",
+                  "task": "[Công việc ngày 27]"
+                },
+                {
+                  "date": "Ngày 28",
+                  "task": "[Công việc ngày 28]"
+                }
+              ]
+            }
+          }
+        },
+        "month5": {
+          "title": "Tháng 5",
+          "weeks": {
+            "week1": {
+              "days": [
+                {
+                  "date": "Ngày 1",
+                  "task": "[Công việc ngày 1]"
+                },
+                {
+                  "date": "Ngày 2",
+                  "task": "[Công việc ngày 2]"
+                },
+                {
+                  "date": "Ngày 3",
+                  "task": "[Công việc ngày 3]"
+                },
+                {
+                  "date": "Ngày 4",
+                  "task": "[Công việc ngày 4]"
+                },
+                {
+                  "date": "Ngày 5",
+                  "task": "[Công việc ngày 5]"
+                },
+                {
+                  "date": "Ngày 6",
+                  "task": "[Công việc ngày 6]"
+                },
+                {
+                  "date": "Ngày 7",
+                  "task": "[Công việc ngày 7]"
+                }
+              ]
+            },
+            "week2": {
+              "days": [
+                {
+                  "date": "Ngày 8",
+                  "task": "[Công việc ngày 8]"
+                },
+                {
+                  "date": "Ngày 9",
+                  "task": "[Công việc ngày 9]"
+                },
+                {
+                  "date": "Ngày 10",
+                  "task": "[Công việc ngày 10]"
+                },
+                {
+                  "date": "Ngày 11",
+                  "task": "[Công việc ngày 11]"
+                },
+                {
+                  "date": "Ngày 12",
+                  "task": "[Công việc ngày 12]"
+                },
+                {
+                  "date": "Ngày 13",
+                  "task": "[Công việc ngày 13]"
+                },
+                {
+                  "date": "Ngày 14",
+                  "task": "[Công việc ngày 14]"
+                }
+              ]
+            },
+            "week3": {
+              "days": [
+                {
+                  "date": "Ngày 15",
+                  "task": "[Công việc ngày 15]"
+                },
+                {
+                  "date": "Ngày 16",
+                  "task": "[Công việc ngày 16]"
+                },
+                {
+                  "date": "Ngày 17",
+                  "task": "[Công việc ngày 17]"
+                },
+                {
+                  "date": "Ngày 18",
+                  "task": "[Công việc ngày 18]"
+                },
+                {
+                  "date": "Ngày 19",
+                  "task": "[Công việc ngày 19]"
+                },
+                {
+                  "date": "Ngày 20",
+                  "task": "[Công việc ngày 20]"
+                },
+                {
+                  "date": "Ngày 21",
+                  "task": "[Công việc ngày 21]"
+                }
+              ]
+            },
+            "week4": {
+              "days": [
+                {
+                  "date": "Ngày 22",
+                  "task": "[Công việc ngày 22]"
+                },
+                {
+                  "date": "Ngày 23",
+                  "task": "[Công việc ngày 23]"
+                },
+                {
+                  "date": "Ngày 24",
+                  "task": "[Công việc ngày 24]"
+                },
+                {
+                  "date": "Ngày 25",
+                  "task": "[Công việc ngày 25]"
+                },
+                {
+                  "date": "Ngày 26",
+                  "task": "[Công việc ngày 26]"
+                },
+                {
+                  "date": "Ngày 27",
+                  "task": "[Công việc ngày 27]"
+                },
+                {
+                  "date": "Ngày 28",
+                  "task": "[Công việc ngày 28]"
+                }
+              ]
+            }
+          }
+        },
+        "month6": {
+          "title": "Tháng 6",
+          "weeks": {
+            "week1": {
+              "days": [
+                {
+                  "date": "Ngày 1",
+                  "task": "[Công việc ngày 1]"
+                },
+                {
+                  "date": "Ngày 2",
+                  "task": "[Công việc ngày 2]"
+                },
+                {
+                  "date": "Ngày 3",
+                  "task": "[Công việc ngày 3]"
+                },
+                {
+                  "date": "Ngày 4",
+                  "task": "[Công việc ngày 4]"
+                },
+                {
+                  "date": "Ngày 5",
+                  "task": "[Công việc ngày 5]"
+                },
+                {
+                  "date": "Ngày 6",
+                  "task": "[Công việc ngày 6]"
+                },
+                {
+                  "date": "Ngày 7",
+                  "task": "[Công việc ngày 7]"
+                }
+              ]
+            },
+            "week2": {
+              "days": [
+                {
+                  "date": "Ngày 8",
+                  "task": "[Công việc ngày 8]"
+                },
+                {
+                  "date": "Ngày 9",
+                  "task": "[Công việc ngày 9]"
+                },
+                {
+                  "date": "Ngày 10",
+                  "task": "[Công việc ngày 10]"
+                },
+                {
+                  "date": "Ngày 11",
+                  "task": "[Công việc ngày 11]"
+                },
+                {
+                  "date": "Ngày 12",
+                  "task": "[Công việc ngày 12]"
+                },
+                {
+                  "date": "Ngày 13",
+                  "task": "[Công việc ngày 13]"
+                },
+                {
+                  "date": "Ngày 14",
+                  "task": "[Công việc ngày 14]"
+                }
+              ]
+            },
+            "week3": {
+              "days": [
+                {
+                  "date": "Ngày 15",
+                  "task": "[Công việc ngày 15]"
+                },
+                {
+                  "date": "Ngày 16",
+                  "task": "[Công việc ngày 16]"
+                },
+                {
+                  "date": "Ngày 17",
+                  "task": "[Công việc ngày 17]"
+                },
+                {
+                  "date": "Ngày 18",
+                  "task": "[Công việc ngày 18]"
+                },
+                {
+                  "date": "Ngày 19",
+                  "task": "[Công việc ngày 19]"
+                },
+                {
+                  "date": "Ngày 20",
+                  "task": "[Công việc ngày 20]"
+                },
+                {
+                  "date": "Ngày 21",
+                  "task": "[Công việc ngày 21]"
+                }
+              ]
+            },
+            "week4": {
+              "days": [
+                {
+                  "date": "Ngày 22",
+                  "task": "[Công việc ngày 22]"
+                },
+                {
+                  "date": "Ngày 23",
+                  "task": "[Công việc ngày 23]"
+                },
+                {
+                  "date": "Ngày 24",
+                  "task": "[Công việc ngày 24]"
+                },
+                {
+                  "date": "Ngày 25",
+                  "task": "[Công việc ngày 25]"
+                },
+                {
+                  "date": "Ngày 26",
+                  "task": "[Công việc ngày 26]"
+                },
+                {
+                  "date": "Ngày 27",
+                  "task": "[Công việc ngày 27]"
+                },
+                {
+                  "date": "Ngày 28",
+                  "task": "[Công việc ngày 28]"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "weeklyMetrics": {
+        "month4": {
+          "week1": {
+            "kpis": [
+              "[KPI 1 tuần 1]",
+              "[KPI 2 tuần 1]",
+              "[KPI 3 tuần 1]"
+            ],
+            "priority": "[Mức độ quan trọng]"
+          },
+          "week2": {
+            "kpis": [
+              "[KPI 1 tuần 2]",
+              "[KPI 2 tuần 2]",
+              "[KPI 3 tuần 2]"
+            ],
+            "priority": "[Mức độ quan trọng]"
+          },
+          "week3": {
+            "kpis": [
+              "[KPI 1 tuần 3]",
+              "[KPI 2 tuần 3]",
+              "[KPI 3 tuần 3]"
+            ],
+            "priority": "[Mức độ quan trọng]"
+          },
+          "week4": {
+            "kpis": [
+              "[KPI 1 tuần 4]",
+              "[KPI 2 tuần 4]",
+              "[KPI 3 tuần 4]"
+            ],
+            "priority": "[Mức độ quan trọng]"
+          }
+      },
+      "month5": {
+        "week1": {
+          "kpis": [
+            "[KPI 1 tuần 1]",
+            "[KPI 2 tuần 1]",
+            "[KPI 3 tuần 1]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week2": {
+          "kpis": [
+            "[KPI 1 tuần 2]",
+            "[KPI 2 tuần 2]",
+            "[KPI 3 tuần 2]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week3": {
+          "kpis": [
+            "[KPI 1 tuần 3]",
+            "[KPI 2 tuần 3]",
+            "[KPI 3 tuần 3]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week4": {
+          "kpis": [
+            "[KPI 1 tuần 4]",
+            "[KPI 2 tuần 4]",
+            "[KPI 3 tuần 4]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        }
+      },
+      "month6": {
+        "week1": {
+          "kpis": [
+            "[KPI 1 tuần 1]",
+            "[KPI 2 tuần 1]",
+            "[KPI 3 tuần 1]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week2": {
+          "kpis": [
+            "[KPI 1 tuần 2]",
+            "[KPI 2 tuần 2]",
+            "[KPI 3 tuần 2]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week3": {
+          "kpis": [
+            "[KPI 1 tuần 3]",
+            "[KPI 2 tuần 3]",
+            "[KPI 3 tuần 3]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        },
+        "week4": {
+          "kpis": [
+            "[KPI 1 tuần 4]",
+            "[KPI 2 tuần 4]",
+            "[KPI 3 tuần 4]"
+          ],
+          "priority": "[Mức độ quan trọng]"
+        }
+      }
+    }
+  }
+}

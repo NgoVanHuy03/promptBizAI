@@ -1,0 +1,206 @@
+{
+  "CONTENT": {
+    "title": "4. BỐ TRÍ MẶT BẰNG",
+    "sections": {
+      "layoutCriteria": {
+        "title": "A. Tiêu chí bố trí",
+        "subsections": {
+          "processFlow": {
+            "title": "Tuân thủ quy trình công nghệ sản xuất",
+            "items": [
+              {
+                "label": "[Tiêu chí 1]",
+                "content": "[Chi tiết về sơ đồ quy trình]"
+              },
+              {
+                "label": "[Tiêu chí 2]",
+                "content": "[Chi tiết về dây chuyền sản xuất]"
+              },
+              {
+                "label": "[Tiêu chí 3]",
+                "content": "[Chi tiết về khoảng cách di chuyển]"
+              },
+              {
+                "label": "[Tiêu chí 4]",
+                "content": "[Chi tiết về thời gian chu kỳ]"
+              }
+            ]
+          },
+          "spaceUtilization": {
+            "title": "Sử dụng hợp lý không gian và diện tích",
+            "items": [
+              {
+                "label": "[Tiêu chí 1]",
+                "content": "[Chi tiết về phân vùng chức năng]"
+              },
+              {
+                "label": "[Tiêu chí 2]",
+                "content": "[Chi tiết về tỷ lệ sử dụng]"
+              },
+              {
+                "label": "[Tiêu chí 3]",
+                "content": "[Chi tiết về không gian làm việc]"
+              },
+              {
+                "label": "[Tiêu chí 4]",
+                "content": "[Chi tiết về khu vực phụ trợ]"
+              }
+            ]
+          },
+          "trafficFlow": {
+            "title": "Tránh dòng vận chuyển ngược chiều",
+            "items": [
+              {
+                "label": "[Tiêu chí 1]",
+                "content": "[Chi tiết về luồng vật liệu]"
+              },
+              {
+                "label": "[Tiêu chí 2]",
+                "content": "[Chi tiết về luồng sản phẩm]"
+              },
+              {
+                "label": "[Tiêu chí 3]",
+                "content": "[Chi tiết về điểm giao cắt]"
+              },
+              {
+                "label": "[Tiêu chí 4]",
+                "content": "[Chi tiết về tối ưu di chuyển]"
+              }
+            ]
+          },
+          "safety": {
+            "title": "Đảm bảo an toàn sản xuất",
+            "items": [
+              {
+                "label": "[Tiêu chí 1]",
+                "content": "[Chi tiết về lối thoát hiểm]"
+              },
+              {
+                "label": "[Tiêu chí 2]",
+                "content": "[Chi tiết về thiết bị PCCC]"
+              },
+              {
+                "label": "[Tiêu chí 3]",
+                "content": "[Chi tiết về khoảng cách an toàn]"
+              },
+              {
+                "label": "[Tiêu chí 4]",
+                "content": "[Chi tiết về biển báo cảnh báo]"
+              }
+            ]
+          },
+          "flexibility": {
+            "title": "Tính linh hoạt và khả năng mở rộng",
+            "items": [
+              {
+                "label": "[Tiêu chí 1]",
+                "content": "[Chi tiết về không gian dự phòng]"
+              },
+              {
+                "label": "[Tiêu chí 2]",
+                "content": "[Chi tiết về khả năng điều chỉnh]"
+              },
+              {
+                "label": "[Tiêu chí 3]",
+                "content": "[Chi tiết về phương án mở rộng]"
+              },
+              {
+                "label": "[Tiêu chí 4]",
+                "content": "[Chi tiết về chi phí thay đổi]"
+              }
+            ]
+          }
+        }
+      },
+      "layoutMethods": {
+        "title": "B. Phương pháp bố trí",
+        "subsections": {
+          "productBased": {
+            "title": "Chuyên môn hóa theo sản phẩm",
+            "items": [
+              {
+                "label": "[Phương pháp 1]",
+                "content": "[Chi tiết về dây chuyền sản xuất]"
+              },
+              {
+                "label": "[Phương pháp 2]",
+                "content": "[Chi tiết về phân công lao động]"
+              },
+              {
+                "label": "[Phương pháp 3]",
+                "content": "[Chi tiết về điều phối sản xuất]"
+              },
+              {
+                "label": "[Phương pháp 4]",
+                "content": "[Chi tiết về kiểm soát chất lượng]"
+              }
+            ]
+          },
+          "technologyBased": {
+            "title": "Chuyên môn hóa theo công nghệ",
+            "items": [
+              {
+                "label": "[Phương pháp 1]",
+                "content": "[Chi tiết về nhóm thiết bị]"
+              },
+              {
+                "label": "[Phương pháp 2]",
+                "content": "[Chi tiết về khu vực chuyên biệt]"
+              },
+              {
+                "label": "[Phương pháp 3]",
+                "content": "[Chi tiết về luồng di chuyển]"
+              },
+              {
+                "label": "[Phương pháp 4]",
+                "content": "[Chi tiết về quản lý vận hành]"
+              }
+            ]
+          },
+          "fixedPosition": {
+            "title": "Bố trí theo vị trí cố định",
+            "items": [
+              {
+                "label": "[Phương pháp 1]",
+                "content": "[Chi tiết về vị trí sản xuất]"
+              },
+              {
+                "label": "[Phương pháp 2]",
+                "content": "[Chi tiết về di chuyển nguyên vật liệu]"
+              },
+              {
+                "label": "[Phương pháp 3]",
+                "content": "[Chi tiết về bố trí thiết bị]"
+              },
+              {
+                "label": "[Phương pháp 4]",
+                "content": "[Chi tiết về quản lý công việc]"
+              }
+            ]
+          },
+          "mixedLayout": {
+            "title": "Bố trí kiểu hỗn hợp",
+            "items": [
+              {
+                "label": "[Phương pháp 1]",
+                "content": "[Chi tiết về kết hợp các phương pháp]"
+              },
+              {
+                "label": "[Phương pháp 2]",
+                "content": "[Chi tiết về ưu điểm áp dụng]"
+              },
+              {
+                "label": "[Phương pháp 3]",
+                "content": "[Chi tiết về khắc phục hạn chế]"
+              },
+              {
+                "label": "[Phương pháp 4]",
+                "content": "[Chi tiết về hiệu quả vận hành]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

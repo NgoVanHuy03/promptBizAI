@@ -1,0 +1,286 @@
+{
+    "CHART_DATA": {
+      "salesChannels": {
+        "distribution": [
+          { "name": "[Kênh 1]", "value": "[X]" },
+          { "name": "[Kênh 2]", "value": "[X]" },
+          { "name": "[Kênh 3]", "value": "[X]" },
+          { "name": "[Kênh 4]", "value": "[X]" }
+        ],
+        "performance": [
+          { 
+            "channel": "[Kênh 1]",
+            "revenue": "[X]",
+            "cost": "[X]",
+            "profit": "[X]"
+          },
+          {
+            "channel": "[Kênh 2]",
+            "revenue": "[X]",
+            "cost": "[X]",
+            "profit": "[X]"
+          },
+          {
+            "channel": "[Kênh 3]",
+            "revenue": "[X]",
+            "cost": "[X]",
+            "profit": "[X]"
+          },
+          {
+            "channel": "[Kênh 4]",
+            "revenue": "[X]",
+            "cost": "[X]",
+            "profit": "[X]"
+          }
+        ],
+        "costs": [
+          { "name": "[Loại chi phí 1]", "value": "[X]" },
+          { "name": "[Loại chi phí 2]", "value": "[X]" },
+          { "name": "[Loại chi phí 3]", "value": "[X]" }
+        ]
+      },
+      "marketing": {
+        "budget": [
+          { "channel": "[Kênh 1]", "allocation": "[X]" },
+          { "channel": "[Kênh 2]", "allocation": "[X]" },
+          { "channel": "[Kênh 3]", "allocation": "[X]" },
+          { "channel": "[Kênh 4]", "allocation": "[X]" }
+        ],
+        "effectiveness": [
+          {
+            "month": "[T1]",
+            "online": "[X]",
+            "offline": "[X]",
+            "target": "[X]"
+          },
+          {
+            "month": "[T2]",
+            "online": "[X]",
+            "offline": "[X]",
+            "target": "[X]"
+          },
+          {
+            "month": "[T3]",
+            "online": "[X]",
+            "offline": "[X]",
+            "target": "[X]"
+          },
+          {
+            "month": "[T4]",
+            "online": "[X]",
+            "offline": "[X]",
+            "target": "[X]"
+          }
+        ],
+        "kpis": [
+          { "metric": "[KPI 1]", "achievement": "[X]", "target": "[X]" },
+          { "metric": "[KPI 2]", "achievement": "[X]", "target": "[X]" },
+          { "metric": "[KPI 3]", "achievement": "[X]", "target": "[X]" },
+          { "metric": "[KPI 4]", "achievement": "[X]", "target": "[X]" }
+        ]
+      },
+      "delivery": {
+        "timePerformance": [
+          { "zone": "[Khu vực 1]", "actual": "[X]", "target": "[X]" },
+          { "zone": "[Khu vực 2]", "actual": "[X]", "target": "[X]" },
+          { "zone": "[Khu vực 3]", "actual": "[X]", "target": "[X]" }
+        ],
+        "satisfaction": [
+          { "aspect": "[Tiêu chí 1]", "rating": "[X]" },
+          { "aspect": "[Tiêu chí 2]", "rating": "[X]" },
+          { "aspect": "[Tiêu chí 3]", "rating": "[X]" },
+          { "aspect": "[Tiêu chí 4]", "rating": "[X]" }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "6. HOẠT ĐỘNG MARKETING VÀ BÁN HÀNG",
+      "sectionA": {
+        "title": "A. Kênh bán hàng",
+        "direct": {
+          "title": "Kênh trực tiếp",
+          "store": {
+            "title": "Cửa hàng/Showroom",
+            "locations": [
+              "[Địa chỉ 1]",
+              "[Địa chỉ 2]",
+              "[Địa chỉ 3]"
+            ]
+          },
+          "salesTeam": {
+            "title": "Đội ngũ bán hàng",
+            "details": "[Chi tiết đội ngũ]"
+          },
+          "telesales": {
+            "title": "Kênh telesales",
+            "details": "[Chi tiết hoạt động]"
+          }
+        },
+        "indirect": {
+          "title": "Kênh gián tiếp",
+          "agents": {
+            "title": "Đại lý/Nhà phân phối",
+            "details": "[Chi tiết đại lý]"
+          },
+          "ecommerce": {
+            "title": "Sàn thương mại điện tử",
+            "platforms": [
+              "[Sàn TMĐT 1]",
+              "[Sàn TMĐT 2]",
+              "[Sàn TMĐT 3]"
+            ]
+          },
+          "online": {
+            "title": "Kênh bán hàng online",
+            "platforms": [
+              "[Nền tảng 1]",
+              "[Nền tảng 2]",
+              "[Nền tảng 3]",
+              "[Nền tảng 4]"
+            ]
+          }
+        },
+        "costs": {
+          "title": "Chi phí kênh bán hàng",
+          "breakdown": [
+            {
+              "type": "[Loại chi phí 1]",
+              "amount": "[Số tiền 1]",
+              "details": "[Chi tiết 1]"
+            },
+            {
+              "type": "[Loại chi phí 2]",
+              "amount": "[Số tiền 2]",
+              "details": "[Chi tiết 2]"
+            },
+            {
+              "type": "[Loại chi phí 3]",
+              "amount": "[Số tiền 3]",
+              "details": "[Chi tiết 3]"
+            }
+          ]
+        }
+      },
+      "sectionB": {
+        "title": "B. Chiến lược marketing",
+        "online": {
+          "title": "Marketing online",
+          "channels": [
+            {
+              "name": "[Kênh 1]",
+              "platforms": ["[Nền tảng 1]", "[Nền tảng 2]", "[Nền tảng 3]", "[Nền tảng 4]"],
+              "frequency": "[Tần suất]",
+              "budget": "[Ngân sách]"
+            },
+            {
+              "name": "[Kênh 2]",
+              "strategy": "[Chiến lược]",
+              "budget": "[Ngân sách]"
+            },
+            {
+              "name": "[Kênh 3]",
+              "plan": "[Kế hoạch]",
+              "budget": "[Ngân sách]"
+            },
+            {
+              "name": "[Kênh 4]",
+              "topics": ["[Chủ đề 1]", "[Chủ đề 2]", "[Chủ đề 3]"],
+              "budget": "[Ngân sách]"
+            }
+          ]
+        },
+        "traditional": {
+          "title": "Marketing truyền thống",
+          "activities": [
+            {
+              "type": "[Loại hoạt động 1]",
+              "formats": ["[Hình thức 1]", "[Hình thức 2]", "[Hình thức 3]"],
+              "budget": "[Ngân sách]"
+            },
+            {
+              "type": "[Loại hoạt động 2]",
+              "activities": "[Chi tiết hoạt động]",
+              "budget": "[Ngân sách]"
+            },
+            {
+              "type": "[Loại hoạt động 3]",
+              "frequency": "[Tần suất]",
+              "budget": "[Ngân sách]"
+            }
+          ]
+        },
+        "budget": {
+          "title": "Ngân sách marketing",
+          "allocation": {
+            "title": "Phân bổ chi phí",
+            "total": "[Tổng ngân sách]"
+          },
+          "timeline": "[Thời gian triển khai]",
+          "kpis": [
+            "[KPI 1]",
+            "[KPI 2]",
+            "[KPI 3]",
+            "[KPI 4]"
+          ]
+        }
+      },
+      "sectionC": {
+        "title": "C. Phương thức chuyển giao sản phẩm/dịch vụ",
+        "delivery": {
+          "title": "Quy trình giao hàng",
+          "methods": {
+            "title": "Phương thức vận chuyển",
+            "options": [
+              "[Phương thức 1]",
+              "[Phương thức 2]",
+              "[Phương thức 3]"
+            ]
+          },
+          "time": {
+            "title": "Thời gian giao hàng",
+            "commitments": [
+              "[Cam kết 1]",
+              "[Cam kết 2]",
+              "[Cam kết 3]"
+            ]
+          },
+          "areas": {
+            "title": "Vùng phục vụ",
+            "zones": [
+              "[Khu vực 1]",
+              "[Khu vực 2]",
+              "[Khu vực 3]"
+            ]
+          }
+        },
+        "policy": {
+          "title": "Chính sách bán hàng",
+          "payment": {
+            "title": "Điều khoản thanh toán",
+            "methods": [
+              "[Phương thức 1]",
+              "[Phương thức 2]",
+              "[Phương thức 3]",
+              "[Phương thức 4]"
+            ]
+          },
+          "returns": {
+            "title": "Chính sách đổi trả",
+            "terms": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]",
+              "[Điều khoản 3]"
+            ]
+          },
+          "warranty": {
+            "title": "Bảo hành/Hậu mãi",
+            "services": [
+              "[Dịch vụ 1]",
+              "[Dịch vụ 2]",
+              "[Dịch vụ 3]"
+            ]
+          }
+        }
+      }
+    }
+  }

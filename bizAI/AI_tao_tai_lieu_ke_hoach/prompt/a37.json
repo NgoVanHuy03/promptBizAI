@@ -1,0 +1,334 @@
+{
+"TEXT_CONTENT": {
+    "title": "1. CƠ CẤU NGUỒN VỐN",
+    "sectionA": {
+      "title": "A. Nguồn vốn tự có",
+      "jointVenture": {
+        "title": "Vốn liên doanh, liên kết",
+        "items": [
+          {
+            "name": "Đối tác tiềm năng",
+            "details": [
+              "[Chi tiết đối tác 1]",
+              "[Chi tiết đối tác 2]",
+              "[Chi tiết đối tác 3]"
+            ]
+          },
+          {
+            "name": "Hình thức góp vốn",
+            "details": [
+              "[Hình thức góp vốn 1]",
+              "[Hình thức góp vốn 2]",
+              "[Hình thức góp vốn 3]"
+            ]
+          },
+          {
+            "name": "Tỷ lệ góp vốn",
+            "details": [
+              "[Tỷ lệ góp vốn 1]",
+              "[Tỷ lệ góp vốn 2]",
+              "[Tỷ lệ góp vốn 3]",
+              "[Tỷ lệ góp vốn 4]"
+            ]
+          },
+          {
+            "name": "Quyền và nghĩa vụ",
+            "details": [
+              "[Quyền và nghĩa vụ 1]",
+              "[Quyền và nghĩa vụ 2]",
+              "[Quyền và nghĩa vụ 3]"
+            ]
+          }
+        ]
+      },
+      "stocks": {
+        "title": "Phát hành cổ phiếu",
+        "items": [
+          {
+            "name": "Loại cổ phiếu",
+            "details": [
+              "[Loại cổ phiếu 1]",
+              "[Loại cổ phiếu 2]",
+              "[Loại cổ phiếu 3]"
+            ]
+          },
+          {
+            "name": "Số lượng phát hành",
+            "details": [
+              "[Chi tiết đợt phát hành 1]",
+              "[Chi tiết đợt phát hành 2]"
+            ]
+          },
+          {
+            "name": "Mệnh giá",
+            "details": ["[Mệnh giá cổ phiếu]"]
+          },
+          {
+            "name": "Thời điểm phát hành",
+            "details": [
+              "[Thời điểm phát hành 1]",
+              "[Thời điểm phát hành 2]"
+            ]
+          }
+        ]
+      },
+      "bonds": {
+        "title": "Phát hành trái phiếu",
+        "items": [
+          {
+            "name": "Loại trái phiếu",
+            "details": [
+              "[Loại trái phiếu 1]",
+              "[Loại trái phiếu 2]",
+              "[Loại trái phiếu 3]"
+            ]
+          },
+          {
+            "name": "Kỳ hạn",
+            "details": ["[Thời hạn trái phiếu]"]
+          },
+          {
+            "name": "Lãi suất",
+            "details": [
+              "[Lãi suất năm 1]",
+              "[Lãi suất năm 2]",
+              "[Lãi suất năm 3]"
+            ]
+          },
+          {
+            "name": "Điều kiện đảm bảo",
+            "details": [
+              "[Điều kiện đảm bảo 1]",
+              "[Điều kiện đảm bảo 2]",
+              "[Điều kiện đảm bảo 3]"
+            ]
+          }
+        ]
+      },
+      "retainedEarnings": {
+        "title": "Lợi nhuận để lại",
+        "items": [
+          {
+            "name": "Tỷ lệ giữ lại",
+            "details": ["[Tỷ lệ giữ lại lợi nhuận]"]
+          },
+          {
+            "name": "Mục đích sử dụng",
+            "details": [
+              "[Mục đích sử dụng 1]",
+              "[Mục đích sử dụng 2]",
+              "[Mục đích sử dụng 3]"
+            ]
+          },
+          {
+            "name": "Chính sách cổ tức",
+            "details": [
+              "[Chính sách cổ tức 1]",
+              "[Chính sách cổ tức 2]"
+            ]
+          },
+          {
+            "name": "Kế hoạch tái đầu tư",
+            "details": [
+              "[Kế hoạch tái đầu tư 1]",
+              "[Kế hoạch tái đầu tư 2]",
+              "[Kế hoạch tái đầu tư 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Nguồn vốn bên ngoài",
+      "bankCredit": {
+        "title": "Tín dụng ngân hàng",
+        "items": [
+          {
+            "name": "Hạn mức vay",
+            "details": [
+              "[Hạn mức vay 1]",
+              "[Hạn mức vay 2]"
+            ]
+          },
+          {
+            "name": "Lãi suất",
+            "details": [
+              "[Lãi suất 1]",
+              "[Lãi suất 2]"
+            ]
+          },
+          {
+            "name": "Thời hạn vay",
+            "details": [
+              "[Thời hạn 1]",
+              "[Thời hạn 2]"
+            ]
+          },
+          {
+            "name": "Tài sản đảm bảo",
+            "details": [
+              "[Tài sản 1]",
+              "[Tài sản 2]",
+              "[Tài sản 3]"
+            ]
+          }
+        ]
+      },
+      "leasing": {
+        "title": "Thuê tài chính",
+        "items": [
+          {
+            "name": "Tài sản thuê",
+            "details": [
+              "[Tài sản thuê 1]",
+              "[Tài sản thuê 2]",
+              "[Tài sản thuê 3]"
+            ]
+          },
+          {
+            "name": "Chi phí thuê",
+            "details": [
+              "[Chi phí thuê 1]",
+              "[Chi phí thuê 2]",
+              "[Chi phí thuê 3]"
+            ]
+          },
+          {
+            "name": "Thời hạn thuê",
+            "details": ["[Thời hạn thuê]"]
+          },
+          {
+            "name": "Điều khoản mua lại",
+            "details": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]"
+            ]
+          }
+        ]
+      },
+      "longTermLoan": {
+        "title": "Vay dài hạn",
+        "items": [
+          {
+            "name": "Mục đích vay",
+            "details": [
+              "[Mục đích 1]",
+              "[Mục đích 2]",
+              "[Mục đích 3]"
+            ]
+          },
+          {
+            "name": "Kế hoạch trả nợ",
+            "details": [
+              "[Kế hoạch 1]",
+              "[Kế hoạch 2]",
+              "[Kế hoạch 3]"
+            ]
+          },
+          {
+            "name": "Chi phí vốn",
+            "details": [
+              "[Chi phí 1]",
+              "[Chi phí 2]",
+              "[Chi phí 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Nguồn vốn khởi nghiệp",
+      "personalCapital": {
+        "title": "Vốn tự có và gia đình",
+        "items": [
+          {
+            "name": "Vốn cá nhân",
+            "details": ["[Chi tiết vốn cá nhân]"]
+          },
+          {
+            "name": "Vốn gia đình",
+            "details": ["[Chi tiết vốn gia đình]"]
+          },
+          {
+            "name": "Điều kiện sử dụng",
+            "details": [
+              "[Điều kiện 1]",
+              "[Điều kiện 2]"
+            ]
+          }
+        ]
+      },
+      "investorCapital": {
+        "title": "Vốn từ nhà đầu tư",
+        "items": [
+          {
+            "name": "Nhà đầu tư thiên thần",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Quỹ đầu tư mạo hiểm",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          }
+        ]
+      },
+      "communityFunding": {
+        "title": "Vốn cộng đồng và hỗ trợ",
+        "items": [
+          {
+            "name": "Crowdfunding",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Chương trình hỗ trợ",
+            "details": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "summary": {
+      "title": "Tổng hợp cơ cấu vốn",
+      "items": [
+        {
+          "name": "Tỷ lệ vốn tự có",
+          "details": ["[Tỷ lệ vốn tự có]"]
+        },
+        {
+          "name": "Tỷ lệ vốn vay",
+          "details": ["[Tỷ lệ vốn vay]"]
+        },
+        {
+          "name": "Chi phí sử dụng vốn",
+          "details": [
+            "[Chi phí 1]",
+            "[Chi phí 2]",
+            "[Chi phí 3]"
+          ]
+        },
+        {
+          "name": "Kế hoạch sử dụng",
+          "details": [
+            "[Kế hoạch 1]",
+            "[Kế hoạch 2]",
+            "[Kế hoạch 3]"
+          ]
+        }
+      ]
+    }
+  }
+}

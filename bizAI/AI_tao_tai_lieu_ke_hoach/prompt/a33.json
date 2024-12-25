@@ -1,0 +1,205 @@
+{
+  "CONTENT": {
+    "title": "1. NỘI DUNG KẾ HOẠCH TỔ CHỨC",
+    "sections": {
+      "legalForm": {
+        "title": "A. Lựa chọn hình thức pháp lý",
+        "subsections": {
+          "privateEnterprise": {
+            "title": "Doanh nghiệp tư nhân",
+            "items": [
+              {
+                "label": "[Đặc điểm]",
+                "content": "[Chi tiết về các đặc điểm chính]"
+              },
+              {
+                "label": "[Ưu điểm]",
+                "content": "[Chi tiết về các ưu điểm]"
+              },
+              {
+                "label": "[Nhược điểm]",
+                "content": "[Chi tiết về các nhược điểm]"
+              },
+              {
+                "label": "[Điều kiện]",
+                "content": "[Chi tiết về điều kiện thành lập]"
+              },
+              {
+                "label": "[Chi phí]",
+                "content": "[Chi tiết về chi phí thành lập]"
+              }
+            ]
+          },
+          "limitedCompany": {
+            "title": "Công ty TNHH",
+            "items": [
+              {
+                "label": "[TNHH 1TV]",
+                "content": "[Chi tiết về TNHH 1 thành viên]"
+              },
+              {
+                "label": "[TNHH >2TV]",
+                "content": "[Chi tiết về TNHH nhiều thành viên]"
+              },
+              {
+                "label": "[Quyền và nghĩa vụ]",
+                "content": "[Chi tiết về quyền và nghĩa vụ]"
+              },
+              {
+                "label": "[Vốn điều lệ]",
+                "content": "[Chi tiết về vốn điều lệ]"
+              },
+              {
+                "label": "[Quy trình]",
+                "content": "[Chi tiết về quy trình thành lập]"
+              }
+            ]
+          },
+          "jointStock": {
+            "title": "Công ty cổ phần",
+            "items": [
+              {
+                "label": "[Cổ đông]",
+                "content": "[Chi tiết về cơ cấu cổ đông]"
+              },
+              {
+                "label": "[Quản trị]",
+                "content": "[Chi tiết về quản trị công ty]"
+              },
+              {
+                "label": "[Cổ phiếu]",
+                "content": "[Chi tiết về phát hành cổ phiếu]"
+              },
+              {
+                "label": "[Quyền lợi]",
+                "content": "[Chi tiết về quyền lợi cổ đông]"
+              },
+              {
+                "label": "[Nghĩa vụ]",
+                "content": "[Chi tiết về nghĩa vụ pháp lý]"
+              }
+            ]
+          },
+          "partnership": {
+            "title": "Công ty hợp danh",
+            "items": [
+              {
+                "label": "[Thành viên]",
+                "content": "[Chi tiết về thành viên hợp danh]"
+              },
+              {
+                "label": "[Trách nhiệm]",
+                "content": "[Chi tiết về trách nhiệm pháp lý]"
+              },
+              {
+                "label": "[Quản lý]",
+                "content": "[Chi tiết về quản lý điều hành]"
+              },
+              {
+                "label": "[Lợi nhuận]",
+                "content": "[Chi tiết về phân chia lợi nhuận]"
+              },
+              {
+                "label": "[Rủi ro]",
+                "content": "[Chi tiết về rủi ro kinh doanh]"
+              }
+            ]
+          },
+          "socialEnterprise": {
+            "title": "Doanh nghiệp xã hội",
+            "items": [
+              {
+                "label": "[Mục tiêu]",
+                "content": "[Chi tiết về mục tiêu xã hội]"
+              },
+              {
+                "label": "[Mô hình]",
+                "content": "[Chi tiết về mô hình hoạt động]"
+              },
+              {
+                "label": "[Ưu đãi]",
+                "content": "[Chi tiết về ưu đãi pháp lý]"
+              },
+              {
+                "label": "[Trách nhiệm]",
+                "content": "[Chi tiết về trách nhiệm xã hội]"
+              },
+              {
+                "label": "[Báo cáo]",
+                "content": "[Chi tiết về báo cáo tác động]"
+              }
+            ]
+          }
+        }
+      },
+      "development": {
+        "title": "B. Định hướng phát triển",
+        "subsections": {
+          "naming": {
+            "title": "Đặt tên doanh nghiệp",
+            "items": [
+              {
+                "label": "[Tiêu chí]",
+                "content": "[Chi tiết về tiêu chí lựa chọn]"
+              },
+              {
+                "label": "[Kiểm tra]",
+                "content": "[Chi tiết về kiểm tra tên]"
+              },
+              {
+                "label": "[Bảo hộ]",
+                "content": "[Chi tiết về đăng ký bảo hộ]"
+              },
+              {
+                "label": "[Chi phí]",
+                "content": "[Chi tiết về chi phí đăng ký]"
+              }
+            ]
+          },
+          "missionVision": {
+            "title": "Sứ mệnh và tầm nhìn",
+            "items": [
+              {
+                "label": "[Sứ mệnh]",
+                "content": "[Chi tiết về sứ mệnh]"
+              },
+              {
+                "label": "[Tầm nhìn]",
+                "content": "[Chi tiết về tầm nhìn]"
+              },
+              {
+                "label": "[Mục tiêu]",
+                "content": "[Chi tiết về mục tiêu dài hạn]"
+              },
+              {
+                "label": "[Chiến lược]",
+                "content": "[Chi tiết về chiến lược phát triển]"
+              }
+            ]
+          },
+          "coreValues": {
+            "title": "Giá trị cốt lõi",
+            "items": [
+              {
+                "label": "[Văn hóa]",
+                "content": "[Chi tiết về văn hóa doanh nghiệp]"
+              },
+              {
+                "label": "[Nguyên tắc]",
+                "content": "[Chi tiết về nguyên tắc hoạt động]"
+              },
+              {
+                "label": "[Cam kết]",
+                "content": "[Chi tiết về cam kết với khách hàng]"
+              },
+              {
+                "label": "[Trách nhiệm]",
+                "content": "[Chi tiết về trách nhiệm xã hội]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

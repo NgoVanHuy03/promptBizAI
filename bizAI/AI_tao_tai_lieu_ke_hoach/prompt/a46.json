@@ -1,0 +1,247 @@
+{
+    "RISK_TYPES_DATA" : {
+        "title": "3. CÁC LOẠI RỦI RO CHÍNH",
+        "sections": [
+          {
+            "id": "A",
+            "title": "Rủi ro môi trường",
+            "categories": [
+              {
+                "name": "Rủi ro tự nhiên",
+                "risks": [
+                  {
+                    "name": "[Rủi ro tự nhiên 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro tự nhiên 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro tự nhiên 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro tự nhiên 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              },
+              {
+                "name": "Rủi ro địa lý",
+                "risks": [
+                  {
+                    "name": "[Rủi ro địa lý 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro địa lý 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro địa lý 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro địa lý 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "B", 
+            "title": "Rủi ro chiến lược",
+            "categories": [
+              {
+                "name": "Rủi ro thị trường",
+                "risks": [
+                  {
+                    "name": "[Rủi ro thị trường 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro thị trường 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro thị trường 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro thị trường 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              },
+              {
+                "name": "Rủi ro phát triển",
+                "risks": [
+                  {
+                    "name": "[Rủi ro phát triển 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro phát triển 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro phát triển 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro phát triển 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "C",
+            "title": "Rủi ro tài chính",
+            "categories": [
+              {
+                "name": "Rủi ro thanh khoản",
+                "risks": [
+                  {
+                    "name": "[Rủi ro thanh khoản 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro thanh khoản 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro thanh khoản 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro thanh khoản 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              },
+              {
+                "name": "Rủi ro thị trường tài chính",
+                "risks": [
+                  {
+                    "name": "[Rủi ro tài chính 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro tài chính 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro tài chính 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro tài chính 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "D",
+            "title": "Rủi ro hoạt động",
+            "categories": [
+              {
+                "name": "Rủi ro vận hành",
+                "risks": [
+                  {
+                    "name": "[Rủi ro vận hành 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro vận hành 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro vận hành 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro vận hành 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              },
+              {
+                "name": "Rủi ro chuỗi cung ứng",
+                "risks": [
+                  {
+                    "name": "[Rủi ro cung ứng 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro cung ứng 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro cung ứng 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro cung ứng 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "E",
+            "title": "Rủi ro tuân thủ",
+            "categories": [
+              {
+                "name": "Rủi ro pháp lý",
+                "risks": [
+                  {
+                    "name": "[Rủi ro pháp lý 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro pháp lý 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro pháp lý 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro pháp lý 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              },
+              {
+                "name": "Rủi ro quy định ngành",
+                "risks": [
+                  {
+                    "name": "[Rủi ro quy định 1]",
+                    "status": "[Trạng thái 1]"
+                  },
+                  {
+                    "name": "[Rủi ro quy định 2]",
+                    "status": "[Trạng thái 2]"
+                  },
+                  {
+                    "name": "[Rủi ro quy định 3]",
+                    "status": "[Trạng thái 3]"
+                  },
+                  {
+                    "name": "[Rủi ro quy định 4]",
+                    "status": "[Trạng thái 4]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }

@@ -1,0 +1,70 @@
+{
+  "COMPETITOR_ANALYSIS_DATA":{
+    "title": "5. PHÂN TÍCH ĐỐI THỦ CẠNH TRANH",
+    "sections": {
+      "directCompetitors": {
+        "title": "A. Nhận diện đối thủ trực tiếp",
+        "items": [
+          "Danh sách đối thủ: - [Đối thủ 1]: [Mô tả 1]\n- [Đối thủ 2]: [Mô tả 2]\n- [Đối thủ 3]: [Mô tả 3]\n- [Đối thủ 4]: [Mô tả 4]",
+          "Thị phần hiện tại: - [Đối thủ 1]: [X%]\n- [Đối thủ 2]: [X%]\n- [Đối thủ 3]: [X%]\n- [Đối thủ 4]: [X%]\n- [Khác]: [X%]",
+          "Vùng hoạt động: - [Đối thủ 1]: [Phạm vi 1]\n- [Đối thủ 2]: [Phạm vi 2]\n- [Đối thủ 3 & 4]: [Phạm vi 3]",
+          "Sản phẩm cạnh tranh: - [Đối thủ 1]: [Sản phẩm 1]\n- [Đối thủ 2]: [Sản phẩm 2]\n- [Đối thủ 3]: [Sản phẩm 3]\n- [Đối thủ 4]: [Sản phẩm 4]"
+        ]
+      },
+      "indirectCompetitors": {
+        "title": "B. Nhận diện đối thủ gián tiếp",
+        "items": [
+          "Sản phẩm thay thế: - [Loại SP thay thế 1]\n- [Loại SP thay thế 2]\n- [Loại SP thay thế 3]\n- [Loại SP thay thế 4]",
+          "Công nghệ thay thế: - [Công nghệ 1]\n- [Công nghệ 2]\n- [Công nghệ 3]\n- [Công nghệ 4]",
+          "Mô hình kinh doanh mới: - [Mô hình 1]\n- [Mô hình 2]\n- [Mô hình 3]\n- [Mô hình 4]",
+          "Ảnh hưởng đến thị trường: - [Ảnh hưởng 1]\n- [Ảnh hưởng 2]\n- [Ảnh hưởng 3]\n- [Ảnh hưởng 4]"
+        ]
+      },
+      "potentialCompetitors": {
+        "title": "C. Nhận diện đối thủ tiềm ẩn",
+        "items": [
+          "Doanh nghiệp tiềm năng: - [Loại DN 1]\n- [Loại DN 2]\n- [Loại DN 3]\n- [Loại DN 4]",
+          "Khả năng gia nhập: - Số lượng/năm: [X]\n- Vốn đầu tư: [X]\n- Thời gian: [X]",
+          "Tác động dự kiến: - [Tác động 1]\n- [Tác động 2]\n- [Tác động 3]\n- [Tác động 4]",
+          "Thời gian dự kiến: - [Q2/năm hiện tại]: [X]\n- [Q4/năm hiện tại]: [X]\n- [2025]: [X]"
+        ]
+      },
+      "successAnalysis": {
+        "title": "D. Phân tích thành công của đối thủ",
+        "items": [
+          "Yếu tố thành công: - [Yếu tố 1]\n- [Yếu tố 2]\n- [Yếu tố 3]\n- [Yếu tố 4]",
+          "Chiến lược áp dụng: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]",
+          "Nguồn lực sử dụng: - [Nguồn lực 1]\n- [Nguồn lực 2]\n- [Nguồn lực 3]\n- [Nguồn lực 4]",
+          "Kết quả đạt được: - [Kết quả 1]\n- [Kết quả 2]\n- [Kết quả 3]\n- [Kết quả 4]"
+        ]
+      },
+      "positioning": {
+        "title": "E. Chiến lược định vị và phân khúc",
+        "items": [
+          "Vị thế thương hiệu: - [DN 1]: [Vị thế 1]\n- [DN 2]: [Vị thế 2]\n- [DN 3]: [Vị thế 3]\n- [DN 4]: [Vị thế 4]",
+          "Phân khúc nhắm đến: - [DN 1]: [Phân khúc 1]\n- [DN 2]: [Phân khúc 2]\n- [DN 3]: [Phân khúc 3]\n- [DN 4]: [Phân khúc 4]",
+          "Chiến lược giá: - [DN 1]: [Mức giá 1]\n- [DN 2]: [Mức giá 2]\n- [DN 3]: [Mức giá 3]\n- [DN 4]: [Mức giá 4]",
+          "Kênh phân phối: - [DN 1]: [Kênh 1]\n- [DN 2]: [Kênh 2]\n- [DN 3]: [Kênh 3]\n- [DN 4]: [Kênh 4]"
+        ]
+      },
+      "ranking": {
+        "title": "F. Xếp hạng đối thủ",
+        "items": [
+          "Tiêu chí xếp hạng: - [Tiêu chí 1]\n- [Tiêu chí 2]\n- [Tiêu chí 3]\n- [Tiêu chí 4]\n- [Tiêu chí 5]",
+          "Thứ hạng thị trường: - #1: [DN 1] - [X%]\n- #2: [DN 2] - [X%]\n- #3: [DN 3] - [X%]\n- #4: [DN 4] - [X%]",
+          "Điểm mạnh đối thủ: - [DN 1]: [Điểm mạnh 1]\n- [DN 2]: [Điểm mạnh 2]\n- [DN 3]: [Điểm mạnh 3]\n- [DN 4]: [Điểm mạnh 4]",
+          "Điểm yếu đối thủ: - [DN 1]: [Điểm yếu 1]\n- [DN 2]: [Điểm yếu 2]\n- [DN 3]: [Điểm yếu 3]\n- [DN 4]: [Điểm yếu 4]"
+        ]
+      },
+      "swotAnalysis": {
+        "title": "G. Phân tích SWOT đối thủ",
+        "items": [
+          "Điểm mạnh (S): - [Strength 1]\n- [Strength 2]\n- [Strength 3]\n- [Strength 4]",
+          "Điểm yếu (W): - [Weakness 1]\n- [Weakness 2]\n- [Weakness 3]\n- [Weakness 4]",
+          "Cơ hội (O): - [Opportunity 1]\n- [Opportunity 2]\n- [Opportunity 3]\n- [Opportunity 4]",
+          "Thách thức (T): - [Threat 1]\n- [Threat 2]\n- [Threat 3]\n- [Threat 4]"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "CONTENT": {
+    "title": "4. CHÍNH SÁCH MARKETING",
+    "sections": {
+      "product4P": {
+        "title": "A. 4P cho sản phẩm",
+        "subsections": {
+          "product": {
+            "title": "Product (Sản phẩm)",
+            "items": [
+              {
+                "label": "[Đặc điểm]",
+                "content": "[Mô tả sản phẩm chính]"
+              },
+              {
+                "label": "[Chất lượng]",
+                "content": "[Tiêu chuẩn chất lượng]"
+              },
+              {
+                "label": "[Bao bì]",
+                "content": "[Mô tả bao bì]"
+              },
+              {
+                "label": "[Thương hiệu]",
+                "content": "[Định vị thương hiệu]"
+              },
+              {
+                "label": "[Dịch vụ]",
+                "content": "[Dịch vụ kèm theo]"
+              }
+            ]
+          },
+          "price": {
+            "title": "Price (Giá)",
+            "items": [
+              {
+                "label": "[Chiến lược]",
+                "content": "[Chiến lược định giá]"
+              },
+              {
+                "label": "[Chiết khấu]",
+                "content": "[Chính sách chiết khấu]"
+              },
+              {
+                "label": "[Thanh toán]",
+                "content": "[Phương thức thanh toán]"
+              },
+              {
+                "label": "[Bảng giá]",
+                "content": "[Chi tiết giá theo phân khúc]"
+              },
+              {
+                "label": "[Điều chỉnh]",
+                "content": "[Chính sách điều chỉnh giá]"
+              }
+            ]
+          },
+          "place": {
+            "title": "Place (Phân phối)",
+            "items": [
+              {
+                "label": "[Kênh phân phối]",
+                "content": "[Các kênh bán hàng]"
+              },
+              {
+                "label": "[Độ phủ]",
+                "content": "[Phạm vi phủ sóng]"
+              },
+              {
+                "label": "[Quản lý kho]",
+                "content": "[Hệ thống quản lý]"
+              },
+              {
+                "label": "[Vận chuyển]",
+                "content": "[Phương thức vận chuyển]"
+              },
+              {
+                "label": "[Giao hàng]",
+                "content": "[Chính sách giao hàng]"
+              }
+            ]
+          },
+          "promotion": {
+            "title": "Promotion (Xúc tiến)",
+            "items": [
+              {
+                "label": "[Quảng cáo]",
+                "content": "[Chiến lược quảng cáo]"
+              },
+              {
+                "label": "[Khuyến mãi]",
+                "content": "[Chương trình khuyến mãi]"
+              },
+              {
+                "label": "[PR]",
+                "content": "[Hoạt động PR]"
+              },
+              {
+                "label": "[Marketing trực tiếp]",
+                "content": "[Chiến lược marketing trực tiếp]"
+              },
+              {
+                "label": "[Digital]",
+                "content": "[Chiến lược digital marketing]"
+              }
+            ]
+          }
+        }
+      },
+      "service7P": {
+        "title": "B. 7P cho dịch vụ",
+        "subsections": {
+          "people": {
+            "title": "People (Con người)",
+            "items": [
+              {
+                "label": "[Nhân viên]",
+                "content": "[Yêu cầu nhân viên]"
+              },
+              {
+                "label": "[Đào tạo]",
+                "content": "[Chương trình đào tạo]"
+              },
+              {
+                "label": "[Động lực]",
+                "content": "[Chính sách động viên]"
+              },
+              {
+                "label": "[Đánh giá]",
+                "content": "[Phương pháp đánh giá]"
+              },
+              {
+                "label": "[Phát triển]",
+                "content": "[Chính sách phát triển]"
+              }
+            ]
+          },
+          "process": {
+            "title": "Process (Quy trình)",
+            "items": [
+              {
+                "label": "[Quy trình]",
+                "content": "[Các bước quy trình]"
+              },
+              {
+                "label": "[Tiêu chuẩn]",
+                "content": "[Tiêu chuẩn chất lượng]"
+              },
+              {
+                "label": "[Thời gian]",
+                "content": "[Thời gian thực hiện]"
+              },
+              {
+                "label": "[Khiếu nại]",
+                "content": "[Xử lý khiếu nại]"
+              },
+              {
+                "label": "[Đảm bảo]",
+                "content": "[Đảm bảo chất lượng]"
+              }
+            ]
+          },
+          "physical": {
+            "title": "Physical Evidence (Bằng chứng vật chất)",
+            "items": [
+              {
+                "label": "[Cơ sở]",
+                "content": "[Mô tả cơ sở vật chất]"
+              },
+              {
+                "label": "[Trang thiết bị]",
+                "content": "[Danh sách thiết bị]"
+              },
+              {
+                "label": "[Không gian]",
+                "content": "[Thiết kế không gian]"
+              },
+              {
+                "label": "[Đồng phục]",
+                "content": "[Quy định đồng phục]"
+              },
+              {
+                "label": "[Tài liệu]",
+                "content": "[Tài liệu marketing]"
+              }
+            ]
+          },
+          "product": {
+            "title": "Product Service (Sản phẩm dịch vụ)",
+            "items": [
+              {
+                "label": "[Dịch vụ cơ bản]",
+                "content": "[Các dịch vụ chính]"
+              },
+              {
+                "label": "[Dịch vụ bổ sung]",
+                "content": "[Các dịch vụ phụ trợ]"
+              },
+              {
+                "label": "[Trải nghiệm]",
+                "content": "[Yếu tố trải nghiệm]"
+              },
+              {
+                "label": "[Hậu mãi]",
+                "content": "[Dịch vụ sau bán hàng]"
+              },
+              {
+                "label": "[Cam kết]",
+                "content": "[Cam kết chất lượng]"
+              }
+            ]
+          },
+          "price": {
+            "title": "Price Service (Giá dịch vụ)",
+            "items": [
+              {
+                "label": "[Cấu trúc giá]",
+                "content": "[Cách tính giá dịch vụ]"
+              },
+              {
+                "label": "[Giá trị]",
+                "content": "[Giá trị gia tăng]"
+              },
+              {
+                "label": "[Chi phí]",
+                "content": "[Cơ cấu chi phí]"
+              },
+              {
+                "label": "[Ưu đãi]",
+                "content": "[Chính sách ưu đãi]"
+              },
+              {
+                "label": "[Hoàn hủy]",
+                "content": "[Chính sách hoàn hủy]"
+              }
+            ]
+          },
+          "place": {
+            "title": "Place Service (Địa điểm dịch vụ)",
+            "items": [
+              {
+                "label": "[Vị trí]",
+                "content": "[Địa điểm cung cấp]"
+              },
+              {
+                "label": "[Không gian]",
+                "content": "[Bố trí không gian]"
+              },
+              {
+                "label": "[Phạm vi]",
+                "content": "[Phạm vi phục vụ]"
+              },
+              {
+                "label": "[Kênh]",
+                "content": "[Kênh cung cấp]"
+              },
+              {
+                "label": "[Mạng lưới]",
+                "content": "[Hệ thống chi nhánh]"
+              }
+            ]
+          },
+          "promotion": {
+            "title": "Promotion Service (Xúc tiến dịch vụ)",
+            "items": [
+              {
+                "label": "[Truyền thông]",
+                "content": "[Chiến lược truyền thông]"
+              },
+              {
+                "label": "[Khuyến mãi]",
+                "content": "[Chương trình ưu đãi]"
+              },
+              {
+                "label": "[Quan hệ]",
+                "content": "[Chăm sóc khách hàng]"
+              },
+              {
+                "label": "[Kênh]",
+                "content": "[Kênh truyền thông]"
+              },
+              {
+                "label": "[Cộng đồng]",
+                "content": "[Hoạt động cộng đồng]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+    "TEXT_CONTENT": {
+    "title": "7. PHÂN TÍCH ĐÒN BẨY KINH DOANH",
+    "sectionA": {
+      "title": "A. Đòn bẩy hoạt động (Operating Leverage)",
+      "costStructure": {
+        "title": "Phân tích cấu trúc chi phí",
+        "items": [
+          {
+            "name": "Chi phí cố định",
+            "value": "[Giá trị chi phí cố định]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]",
+              "[Chi tiết 4]"
+            ]
+          },
+          {
+            "name": "Chi phí biến đổi",
+            "value": "[Tỷ lệ phần trăm doanh thu]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Tỷ lệ chi phí",
+            "analysis": [
+              "[Phân tích 1]",
+              "[Phân tích 2]",
+              "[Phân tích 3]"
+            ]
+          },
+          {
+            "name": "Điểm hòa vốn",
+            "calculation": {
+              "formula": "[Công thức]",
+              "result": "[Kết quả]",
+              "explanation": "[Giải thích]"
+            }
+          }
+        ]
+      },
+      "operatingLeverage": {
+        "title": "Độ lớn đòn bẩy hoạt động (DOL)",
+        "items": [
+          {
+            "name": "Công thức tính",
+            "formula": "[Công thức]",
+            "explanation": "[Giải thích]"
+          },
+          {
+            "name": "Mức độ tác động",
+            "impact": [
+              "[Tác động 1]",
+              "[Tác động 2]",
+              "[Tác động 3]"
+            ]
+          },
+          {
+            "name": "Rủi ro hoạt động",
+            "assessment": [
+              "[Đánh giá 1]",
+              "[Đánh giá 2]",
+              "[Đánh giá 3]"
+            ]
+          },
+          {
+            "name": "Biện pháp kiểm soát",
+            "solutions": [
+              "[Giải pháp 1]",
+              "[Giải pháp 2]",
+              "[Giải pháp 3]",
+              "[Giải pháp 4]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Đòn bẩy tài chính (Financial Leverage)",
+      "capitalStructure": {
+        "title": "Cơ cấu nguồn vốn",
+        "items": [
+          {
+            "name": "Tỷ lệ nợ",
+            "analysis": {
+              "current": "[Tỷ lệ hiện tại]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]",
+                "[Chi tiết 3]"
+              ]
+            }
+          },
+          {
+            "name": "Chi phí sử dụng vốn",
+            "calculation": {
+              "wacc": "[WACC]",
+              "components": [
+                "[Thành phần 1]",
+                "[Thành phần 2]",
+                "[Thành phần 3]"
+              ]
+            }
+          },
+          {
+            "name": "Khả năng trả nợ",
+            "metrics": [
+              "[Chỉ số 1]",
+              "[Chỉ số 2]",
+              "[Đánh giá]"
+            ]
+          },
+          {
+            "name": "Rủi ro tài chính",
+            "assessment": [
+              "[Đánh giá 1]",
+              "[Đánh giá 2]",
+              "[Đánh giá 3]"
+            ]
+          }
+        ]
+      },
+      "financialLeverage": {
+        "title": "Độ lớn đòn bẩy tài chính (DFL)",
+        "items": [
+          {
+            "name": "Công thức tính",
+            "formula": "[Công thức]",
+            "explanation": "[Giải thích]"
+          },
+          {
+            "name": "Tác động đến cổ đông",
+            "impact": [
+              "[Tác động 1]",
+              "[Tác động 2]",
+              "[Tác động 3]"
+            ]
+          },
+          {
+            "name": "Ngưỡng an toàn",
+            "thresholds": [
+              "[Ngưỡng 1]",
+              "[Ngưỡng 2]",
+              "[Ngưỡng 3]"
+            ]
+          },
+          {
+            "name": "Chiến lược tối ưu",
+            "strategy": [
+              "[Chiến lược 1]",
+              "[Chiến lược 2]",
+              "[Chiến lược 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Đòn bẩy tổng hợp (Total Leverage)",
+      "combinedEffect": {
+        "title": "Tác động kết hợp",
+        "items": [
+          {
+            "name": "Công thức tính",
+            "formula": "[Công thức]",
+            "explanation": "[Giải thích]"
+          },
+          {
+            "name": "Mức độ rủi ro",
+            "assessment": [
+              "[Đánh giá 1]",
+              "[Đánh giá 2]",
+              "[Đánh giá 3]"
+            ]
+          },
+          {
+            "name": "Lợi ích tiềm năng",
+            "benefits": [
+              "[Lợi ích 1]",
+              "[Lợi ích 2]",
+              "[Lợi ích 3]"
+            ]
+          },
+          {
+            "name": "Chiến lược quản lý",
+            "strategy": [
+              "[Chiến lược 1]",
+              "[Chiến lược 2]",
+              "[Chiến lược 3]"
+            ]
+          }
+        ]
+      },
+      "scenarios": {
+        "title": "Phân tích kịch bản",
+        "items": [
+          {
+            "name": "Kịch bản tăng trưởng",
+            "scenario": {
+              "assumption": "[Giả định]",
+              "impact": [
+                "[Tác động 1]",
+                "[Tác động 2]",
+                "[Tác động 3]"
+              ]
+            }
+          },
+          {
+            "name": "Kịch bản suy thoái",
+            "scenario": {
+              "assumption": "[Giả định]",
+              "impact": [
+                "[Tác động 1]",
+                "[Tác động 2]",
+                "[Tác động 3]"
+              ]
+            }
+          },
+          {
+            "name": "Phân tích độ nhạy",
+            "analysis": [
+              "[Phân tích 1]",
+              "[Phân tích 2]",
+              "[Phân tích 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionD": {
+      "title": "D. Quản lý rủi ro đòn bẩy",
+      "strategies": {
+        "title": "Chiến lược kiểm soát",
+        "items": [
+          {
+            "name": "Cân đối cơ cấu chi phí",
+            "solutions": [
+              "[Giải pháp 1]",
+              "[Giải pháp 2]",
+              "[Giải pháp 3]"
+            ]
+          },
+          {
+            "name": "Quản lý nợ vay",
+            "policies": [
+              "[Chính sách 1]",
+              "[Chính sách 2]",
+              "[Chính sách 3]"
+            ]
+          },
+          {
+            "name": "Dự phòng rủi ro",
+            "measures": [
+              "[Biện pháp 1]",
+              "[Biện pháp 2]",
+              "[Biện pháp 3]"
+            ]
+          }
+        ]
+      },
+      "optimization": {
+        "title": "Tối ưu hóa đòn bẩy",
+        "items": [
+          {
+            "name": "Mục tiêu tối ưu",
+            "targets": [
+              "[Mục tiêu 1]",
+              "[Mục tiêu 2]",
+              "[Mục tiêu 3]"
+            ]
+          },
+          {
+            "name": "Giới hạn an toàn",
+            "limits": [
+              "[Giới hạn 1]",
+              "[Giới hạn 2]",
+              "[Giới hạn 3]"
+            ]
+          },
+          {
+            "name": "Cơ chế giám sát",
+            "monitoring": [
+              "[Cơ chế 1]",
+              "[Cơ chế 2]",
+              "[Cơ chế 3]"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

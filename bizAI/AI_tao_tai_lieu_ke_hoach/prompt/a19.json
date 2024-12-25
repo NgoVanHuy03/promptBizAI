@@ -1,0 +1,157 @@
+{
+  "CONTENT": {
+    "title": "3. NGÂN SÁCH MARKETING",
+    "sections": {
+      "personnel": {
+        "title": "A. Chi phí nhân sự",
+        "items": [
+          {
+            "label": "[Chi phí lương cơ bản]",
+            "content": "[Chi tiết lương theo vị trí]"
+          },
+          {
+            "label": "[Phụ cấp]",
+            "content": "[Chi tiết các loại phụ cấp]"
+          },
+          {
+            "label": "[Hoa hồng]",
+            "content": "[Chi tiết chính sách hoa hồng]"
+          },
+          {
+            "label": "[Đào tạo]",
+            "content": "[Chi tiết chi phí đào tạo]"
+          },
+          {
+            "label": "[Phúc lợi]",
+            "content": "[Chi tiết các khoản phúc lợi]"
+          }
+        ]
+      },
+      "marketResearch": {
+        "title": "B. Chi phí khảo sát thị trường",
+        "items": [
+          {
+            "label": "[Nghiên cứu định tính]",
+            "content": "[Chi tiết chi phí nghiên cứu]"
+          },
+          {
+            "label": "[Nghiên cứu định lượng]",
+            "content": "[Chi tiết chi phí khảo sát]"
+          },
+          {
+            "label": "[Tư vấn]",
+            "content": "[Chi phí thuê đơn vị tư vấn]"
+          },
+          {
+            "label": "[Thu thập dữ liệu]",
+            "content": "[Chi tiết chi phí thu thập]"
+          },
+          {
+            "label": "[Phân tích]",
+            "content": "[Chi phí phân tích báo cáo]"
+          }
+        ]
+      },
+      "advertising": {
+        "title": "C. Chi phí truyền thông quảng cáo",
+        "items": [
+          {
+            "label": "[Quảng cáo truyền thống]",
+            "content": "[Breakdown chi phí truyền thống]"
+          },
+          {
+            "label": "[Quảng cáo digital]",
+            "content": "[Breakdown chi phí digital]"
+          },
+          {
+            "label": "[PR và truyền thông]",
+            "content": "[Chi tiết chi phí PR]"
+          },
+          {
+            "label": "[Sự kiện]",
+            "content": "[Chi phí tổ chức sự kiện]"
+          },
+          {
+            "label": "[Tài liệu]",
+            "content": "[Chi phí tài liệu marketing]"
+          }
+        ]
+      },
+      "campaign": {
+        "title": "D. Chi phí chiến dịch",
+        "items": [
+          {
+            "label": "[Chiến dịch ra mắt]",
+            "content": "[Chi tiết chi phí launch]"
+          },
+          {
+            "label": "[Chiến dịch theo mùa]",
+            "content": "[Chi phí campaign theo mùa]"
+          },
+          {
+            "label": "[Khuyến mãi]",
+            "content": "[Chi tiết chi phí promotion]"
+          },
+          {
+            "label": "[Sự kiện đặc biệt]",
+            "content": "[Chi phí special events]"
+          },
+          {
+            "label": "[Đánh giá]",
+            "content": "[Chi phí evaluation]"
+          }
+        ]
+      },
+      "onlineMarketing": {
+        "title": "E. Chi phí marketing online",
+        "items": [
+          {
+            "label": "[SEO/SEM]",
+            "content": "[Chi tiết chi phí SEO/SEM]"
+          },
+          {
+            "label": "[Social Media]",
+            "content": "[Chi phí social media]"
+          },
+          {
+            "label": "[Email Marketing]",
+            "content": "[Chi phí email marketing]"
+          },
+          {
+            "label": "[Content Marketing]",
+            "content": "[Chi phí content]"
+          },
+          {
+            "label": "[Website/App]",
+            "content": "[Chi phí digital platform]"
+          }
+        ]
+      },
+      "summary": {
+        "title": "F. Tổng hợp và kiểm soát",
+        "items": [
+          {
+            "label": "[Tổng ngân sách]",
+            "content": "[Số tiền tổng]"
+          },
+          {
+            "label": "[Phân bổ]",
+            "content": "[Chi tiết phân bổ theo quý]"
+          },
+          {
+            "label": "[Dự phòng]",
+            "content": "[Số tiền dự phòng]"
+          },
+          {
+            "label": "[KPIs]",
+            "content": "[Các chỉ số KPI]"
+          },
+          {
+            "label": "[ROI]",
+            "content": "[Mục tiêu và đánh giá ROI]"
+          }
+        ]
+      }
+    }
+  }
+}

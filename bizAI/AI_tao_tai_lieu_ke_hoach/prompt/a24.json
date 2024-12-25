@@ -1,0 +1,172 @@
+{
+  "CONTENT": {
+    "title": "8. CHÍNH SÁCH PHÂN PHỐI",
+    "sections": {
+      "channelSelection": {
+        "title": "A. Lựa chọn kênh phân phối",
+        "subsections": {
+          "channelAnalysis": {
+            "title": "Phân tích kênh",
+            "items": [
+              {
+                "label": "[Kênh trực tiếp]",
+                "content": "[Liệt kê các kênh trực tiếp]"
+              },
+              {
+                "label": "[Kênh gián tiếp]",
+                "content": "[Liệt kê các kênh gián tiếp]"
+              },
+              {
+                "label": "[Kênh online]",
+                "content": "[Liệt kê các kênh online]"
+              },
+              {
+                "label": "[Kênh offline]",
+                "content": "[Liệt kê các kênh offline]"
+              },
+              {
+                "label": "[Kênh kết hợp]",
+                "content": "[Liệt kê các kênh kết hợp]"
+              }
+            ]
+          },
+          "selectionCriteria": {
+            "title": "Tiêu chí lựa chọn",
+            "items": [
+              {
+                "label": "[Độ phủ]",
+                "content": "[Mô tả độ phủ thị trường]"
+              },
+              {
+                "label": "[Chi phí]",
+                "content": "[Chi phí vận hành]"
+              },
+              {
+                "label": "[Kiểm soát]",
+                "content": "[Khả năng kiểm soát]"
+              },
+              {
+                "label": "[Phù hợp]",
+                "content": "[Mức độ phù hợp]"
+              },
+              {
+                "label": "[Hiệu quả]",
+                "content": "[Hiệu quả dự kiến]"
+              }
+            ]
+          }
+        }
+      },
+      "channelStructure": {
+        "title": "B. Cấu trúc kênh",
+        "subsections": {
+          "channelLength": {
+            "title": "Chiều dài kênh",
+            "items": [
+              {
+                "label": "[Cấp 0]",
+                "content": "[Mô tả kênh cấp 0]"
+              },
+              {
+                "label": "[Cấp 1]",
+                "content": "[Mô tả kênh cấp 1]"
+              },
+              {
+                "label": "[Cấp 2]",
+                "content": "[Mô tả kênh cấp 2]"
+              },
+              {
+                "label": "[Cấp 3]",
+                "content": "[Mô tả kênh cấp 3]"
+              },
+              {
+                "label": "[Hiệu quả]",
+                "content": "[Phân tích hiệu quả]"
+              }
+            ]
+          },
+          "channelWidth": {
+            "title": "Chiều rộng kênh",
+            "items": [
+              {
+                "label": "[Độc quyền]",
+                "content": "[Phân phối độc quyền]"
+              },
+              {
+                "label": "[Chọn lọc]",
+                "content": "[Phân phối chọn lọc]"
+              },
+              {
+                "label": "[Rộng rãi]",
+                "content": "[Phân phối rộng rãi]"
+              },
+              {
+                "label": "[Bao phủ]",
+                "content": "[Mức độ bao phủ]"
+              },
+              {
+                "label": "[QC]",
+                "content": "[Kiểm soát chất lượng]"
+              }
+            ]
+          }
+        }
+      },
+      "distributorManagement": {
+        "title": "C. Quản lý nhà phân phối",
+        "subsections": {
+          "cooperationPolicy": {
+            "title": "Chính sách hợp tác",
+            "items": [
+              {
+                "label": "[Tiêu chuẩn]",
+                "content": "[Tiêu chuẩn lựa chọn]"
+              },
+              {
+                "label": "[Điều khoản]", 
+                "content": "[Điều khoản hợp tác]"
+              },
+              {
+                "label": "[Ưu đãi]",
+                "content": "[Chính sách ưu đãi]"
+              },
+              {
+                "label": "[Trách nhiệm]",
+                "content": "[Quyền và trách nhiệm]"
+              },
+              {
+                "label": "[Đánh giá]",
+                "content": "[Tiêu chí đánh giá]"
+              }
+            ]
+          },
+          "developmentSupport": {
+            "title": "Hỗ trợ phát triển",
+            "items": [
+              {
+                "label": "[Đào tạo]",
+                "content": "[Chương trình đào tạo]" 
+              },
+              {
+                "label": "[Kỹ thuật]",
+                "content": "[Hỗ trợ kỹ thuật]"
+              },
+              {
+                "label": "[Marketing]", 
+                "content": "[Hỗ trợ marketing]"
+              },
+              {
+                "label": "[Thưởng]",
+                "content": "[Chính sách thưởng]"
+              },
+              {
+                "label": "[Phát triển]",
+                "content": "[Phát triển năng lực]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

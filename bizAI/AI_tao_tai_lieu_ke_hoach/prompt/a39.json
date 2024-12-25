@@ -1,0 +1,418 @@
+{
+    "title": "3. BÁO CÁO TÀI CHÍNH DỰ KIẾN",
+    "sectionA": {
+      "title": "A. Báo cáo kết quả kinh doanh",
+      "revenue": {
+        "title": "Doanh thu",
+        "items": [
+          {
+            "name": "Doanh thu thuần",
+            "value": "[Giá trị doanh thu]",
+            "breakdown": [
+              "[Chi tiết doanh thu 1]",
+              "[Chi tiết doanh thu 2]"
+            ]
+          },
+          {
+            "name": "Giảm trừ doanh thu",
+            "value": "[Giá trị giảm trừ]",
+            "breakdown": [
+              "[Chi tiết giảm trừ 1]",
+              "[Chi tiết giảm trừ 2]",
+              "[Chi tiết giảm trừ 3]"
+            ]
+          }
+        ]
+      },
+      "costs": {
+        "title": "Chi phí",
+        "items": [
+          {
+            "name": "Giá vốn hàng bán",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm doanh thu]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Chi phí bán hàng",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm doanh thu]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Chi phí quản lý",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm doanh thu]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Chi phí tài chính",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm doanh thu]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          }
+        ]
+      },
+      "profit": {
+        "title": "Lợi nhuận",
+        "items": [
+          {
+            "name": "Lợi nhuận gộp",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Lợi nhuận trước thuế",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm]",
+            "calculation": "[Cách tính]"
+          },
+          {
+            "name": "Lợi nhuận sau thuế",
+            "value": "[Giá trị]",
+            "percent": "[Phần trăm]",
+            "calculation": "[Cách tính]"
+          }
+        ],
+        "distribution": {
+          "title": "Phân phối lợi nhuận",
+          "items": [
+            {
+              "name": "[Quỹ 1]",
+              "value": "[Giá trị]",
+              "percent": "[Phần trăm]"
+            },
+            {
+              "name": "[Quỹ 2]",
+              "value": "[Giá trị]",
+              "percent": "[Phần trăm]"
+            },
+            {
+              "name": "[Quỹ 3]",
+              "value": "[Giá trị]",
+              "percent": "[Phần trăm]"
+            }
+          ]
+        }
+      }
+    },
+    "sectionB": {
+      "title": "B. Bảng cân đối kế toán",
+      "assets": {
+        "title": "Tài sản",
+        "currentAssets": {
+          "title": "Tài sản ngắn hạn",
+          "total": "[Tổng giá trị]",
+          "items": [
+            {
+              "name": "[Tài sản 1]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]",
+                "[Chi tiết 3]"
+              ]
+            },
+            {
+              "name": "[Tài sản 2]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            },
+            {
+              "name": "[Tài sản 3]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            },
+            {
+              "name": "[Tài sản 4]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            }
+          ]
+        },
+        "longTermAssets": {
+          "title": "Tài sản dài hạn",
+          "total": "[Tổng giá trị]",
+          "items": [
+            {
+              "name": "[Tài sản 1]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]",
+                "[Chi tiết 3]"
+              ]
+            },
+            {
+              "name": "[Tài sản 2]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            },
+            {
+              "name": "[Tài sản 3]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            }
+          ]
+        }
+      },
+      "capital": {
+        "title": "Nguồn vốn",
+        "liabilities": {
+          "title": "Nợ phải trả",
+          "total": "[Tổng giá trị]",
+          "items": [
+            {
+              "name": "[Nợ 1]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]",
+                "[Chi tiết 3]"
+              ]
+            },
+            {
+              "name": "[Nợ 2]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            }
+          ]
+        },
+        "equity": {
+          "title": "Vốn chủ sở hữu",
+          "total": "[Tổng giá trị]",
+          "items": [
+            {
+              "name": "[Vốn 1]",
+              "value": "[Giá trị]",
+              "breakdown": ["[Chi tiết]"]
+            },
+            {
+              "name": "[Vốn 2]",
+              "value": "[Giá trị]"
+            },
+            {
+              "name": "[Vốn 3]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sectionC": {
+      "title": "C. Báo cáo lưu chuyển tiền tệ",
+      "operating": {
+        "title": "Lưu chuyển từ hoạt động kinh doanh",
+        "inflow": {
+          "title": "Dòng tiền vào",
+          "items": [
+            {
+              "name": "[Thu nhập 1]",
+              "value": "[Giá trị]",
+              "note": "[Ghi chú]"
+            },
+            {
+              "name": "[Thu nhập 2]",
+              "value": "[Giá trị]"
+            }
+          ]
+        },
+        "outflow": {
+          "title": "Dòng tiền ra",
+          "items": [
+            {
+              "name": "[Chi phí 1]",
+              "value": "[Giá trị]",
+              "breakdown": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]"
+              ]
+            },
+            {
+              "name": "[Chi phí 2]",
+              "value": "[Giá trị]",
+              "breakdown": ["[Chi tiết]"]
+            }
+          ]
+        },
+        "netCash": "[Số dư]"
+      },
+      "investing": {
+        "title": "Lưu chuyển từ hoạt động đầu tư",
+        "items": [
+          {
+            "name": "[Hoạt động 1]",
+            "value": "[Giá trị]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "[Hoạt động 2]",
+            "value": "[Giá trị]"
+          },
+          {
+            "name": "[Hoạt động 3]",
+            "value": "[Giá trị]"
+          }
+        ],
+        "netCash": "[Số dư]"
+      },
+      "financing": {
+        "title": "Lưu chuyển từ hoạt động tài chính",
+        "items": [
+          {
+            "name": "[Thu 1]",
+            "value": "[Giá trị]"
+          },
+          {
+            "name": "[Thu 2]",
+            "value": "[Giá trị]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "[Chi 1]",
+            "value": "[Giá trị]"
+          },
+          {
+            "name": "[Chi 2]",
+            "value": "[Giá trị]"
+          }
+        ],
+        "netCash": "[Số dư]"
+      }
+    },
+    "sectionD": {
+      "title": "D. Các giả định tài chính",
+      "capital": {
+        "title": "Giả định về nguồn vốn",
+        "items": [
+          {
+            "name": "Cơ cấu vốn",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          },
+          {
+            "name": "Chi phí vốn",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          },
+          {
+            "name": "Khả năng huy động",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          }
+        ]
+      },
+      "revenue": {
+        "title": "Giả định về doanh thu",
+        "items": [
+          {
+            "name": "Tăng trưởng doanh thu",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          },
+          {
+            "name": "Biến động giá bán",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          },
+          {
+            "name": "Thị phần",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          }
+        ]
+      },
+      "costs": {
+        "title": "Giả định về chi phí",
+        "items": [
+          {
+            "name": "Tỷ lệ chi phí/doanh thu",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]",
+              "[Giả định 4]"
+            ]
+          },
+          {
+            "name": "Biến động giá nguyên liệu",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          },
+          {
+            "name": "Chi phí nhân công",
+            "assumptions": [
+              "[Giả định 1]",
+              "[Giả định 2]",
+              "[Giả định 3]"
+            ]
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,219 @@
+{
+    "CHART_DATA": {
+      "departments": {
+        "headcount": [
+          { "name": "[Phòng ban 1]", "count": "[X]" },
+          { "name": "[Phòng ban 2]", "count": "[X]" },
+          { "name": "[Phòng ban 3]", "count": "[X]" },
+          { "name": "[Phòng ban 4]", "count": "[X]" },
+          { "name": "[Phòng ban 5]", "count": "[X]" }
+        ],
+        "budget": [
+          { "name": "[Khoản mục 1]", "value": "[X]" },
+          { "name": "[Khoản mục 2]", "value": "[X]" },
+          { "name": "[Khoản mục 3]", "value": "[X]" },
+          { "name": "[Khoản mục 4]", "value": "[X]" }
+        ]
+      },
+      "recruitment": {
+        "positions": [
+          { "level": "[Cấp bậc 1]", "current": "[X]", "target": "[X]" },
+          { "level": "[Cấp bậc 2]", "current": "[X]", "target": "[X]" },
+          { "level": "[Cấp bậc 3]", "current": "[X]", "target": "[X]" }
+        ],
+        "skills": [
+          { "skill": "[Kỹ năng 1]", "requirement": "[X]" },
+          { "skill": "[Kỹ năng 2]", "requirement": "[X]" },
+          { "skill": "[Kỹ năng 3]", "requirement": "[X]" },
+          { "skill": "[Kỹ năng 4]", "requirement": "[X]" },
+          { "skill": "[Kỹ năng 5]", "requirement": "[X]" }
+        ]
+      },
+      "requirements": {
+        "experience": [
+          { "position": "[Vị trí 1]", "years": "[X]" },
+          { "position": "[Vị trí 2]", "years": "[X]" },
+          { "position": "[Vị trí 3]", "years": "[X]" },
+          { "position": "[Vị trí 4]", "years": "[X]" }
+        ],
+        "competencies": [
+          { "attribute": "[Năng lực 1]", "score": "[X]", "fullMark": 100 },
+          { "attribute": "[Năng lực 2]", "score": "[X]", "fullMark": 100 },
+          { "attribute": "[Năng lực 3]", "score": "[X]", "fullMark": 100 },
+          { "attribute": "[Năng lực 4]", "score": "[X]", "fullMark": 100 },
+          { "attribute": "[Năng lực 5]", "score": "[X]", "fullMark": 100 }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "7. NHÓM QUẢN LÝ VÀ NHÂN SỰ",
+      "sectionA": {
+        "title": "A. Cơ cấu quản lý doanh nghiệp",
+        "leadership": {
+          "title": "Ban lãnh đạo",
+          "positions": [
+            {
+              "title": "[Chức danh 1]",
+              "desc": "[Mô tả 1]",
+              "responsibilities": [
+                "[Trách nhiệm 1.1]",
+                "[Trách nhiệm 1.2]",
+                "[Trách nhiệm 1.3]"
+              ]
+            },
+            {
+              "title": "[Chức danh 2]",
+              "desc": "[Mô tả 2]",
+              "responsibilities": [
+                "[Trách nhiệm 2.1]",
+                "[Trách nhiệm 2.2]",
+                "[Trách nhiệm 2.3]"
+              ]
+            },
+            {
+              "title": "[Chức danh 3]",
+              "desc": "[Mô tả 3]",
+              "responsibilities": [
+                "[Trách nhiệm 3.1]",
+                "[Trách nhiệm 3.2]",
+                "[Trách nhiệm 3.3]"
+              ]
+            },
+            {
+              "title": "[Chức danh 4]",
+              "desc": "[Mô tả 4]",
+              "responsibilities": [
+                "[Trách nhiệm 4.1]",
+                "[Trách nhiệm 4.2]",
+                "[Trách nhiệm 4.3]"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "title": "Các phòng ban chức năng",
+          "list": [
+            {
+              "name": "[Tên phòng ban 1]",
+              "functions": [
+                "[Chức năng 1.1]",
+                "[Chức năng 1.2]",
+                "[Chức năng 1.3]"
+              ]
+            },
+            {
+              "name": "[Tên phòng ban 2]",
+              "functions": [
+                "[Chức năng 2.1]",
+                "[Chức năng 2.2]",
+                "[Chức năng 2.3]"
+              ]
+            },
+            {
+              "name": "[Tên phòng ban 3]",
+              "functions": [
+                "[Chức năng 3.1]",
+                "[Chức năng 3.2]",
+                "[Chức năng 3.3]"
+              ]
+            },
+            {
+              "name": "[Tên phòng ban 4]",
+              "functions": [
+                "[Chức năng 4.1]",
+                "[Chức năng 4.2]",
+                "[Chức năng 4.3]"
+              ]
+            }
+          ]
+        },
+        "reporting": {
+          "title": "Mối quan hệ báo cáo",
+          "structure": "[Cấu trúc tổ chức]",
+          "process": "[Quy trình báo cáo]",
+          "authority": "[Phân quyền]"
+        }
+      },
+      "sectionB": {
+        "title": "B. Vị trí đang tuyển dụng",
+        "needs": {
+          "title": "Nhu cầu tuyển dụng",
+          "management": {
+            "positions": [
+              "[Vị trí quản lý 1]",
+              "[Vị trí quản lý 2]"
+            ],
+            "quantity": "[X]",
+            "timeline": "[Thời gian]"
+          },
+          "staff": {
+            "positions": [
+              "[Vị trí nhân viên 1]",
+              "[Vị trí nhân viên 2]",
+              "[Vị trí nhân viên 3]"
+            ],
+            "quantity": "[X]",
+            "timeline": "[Thời gian]"
+          }
+        },
+        "jobDesc": {
+          "title": "Mô tả công việc",
+          "responsibilities": {
+            "management": [
+              "[Trách nhiệm quản lý 1]",
+              "[Trách nhiệm quản lý 2]",
+              "[Trách nhiệm quản lý 3]"
+            ],
+            "staff": [
+              "[Trách nhiệm nhân viên 1]",
+              "[Trách nhiệm nhân viên 2]",
+              "[Trách nhiệm nhân viên 3]"
+            ]
+          },
+          "benefits": [
+            "[Quyền lợi 1]",
+            "[Quyền lợi 2]",
+            "[Quyền lợi 3]",
+            "[Quyền lợi 4]"
+          ]
+        }
+      },
+      "sectionC": {
+        "title": "C. Tiêu chí ứng viên",
+        "professional": {
+          "title": "Yêu cầu chuyên môn",
+          "education": {
+            "management": "[Yêu cầu học vấn quản lý]",
+            "staff": "[Yêu cầu học vấn nhân viên]"
+          },
+          "experience": {
+            "management": "[Yêu cầu kinh nghiệm quản lý]",
+            "staff": "[Yêu cầu kinh nghiệm nhân viên]"
+          },
+          "skills": [
+            "[Kỹ năng 1]",
+            "[Kỹ năng 2]",
+            "[Kỹ năng 3]"
+          ]
+        },
+        "personal": {
+          "title": "Yêu cầu cá nhân",
+          "qualities": [
+            "[Phẩm chất 1]",
+            "[Phẩm chất 2]",
+            "[Phẩm chất 3]"
+          ],
+          "softSkills": [
+            "[Kỹ năng mềm 1]",
+            "[Kỹ năng mềm 2]",
+            "[Kỹ năng mềm 3]"
+          ],
+          "workAbility": [
+            "[Khả năng làm việc 1]",
+            "[Khả năng làm việc 2]",
+            "[Khả năng làm việc 3]"
+          ]
+        }
+      }
+    }
+  }

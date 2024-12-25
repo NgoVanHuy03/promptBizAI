@@ -1,0 +1,237 @@
+{
+  "CONTENT": {
+      "title": "3. LỰA CHỌN ĐỊA ĐIỂM",
+      "sections": {
+        "decisionFactors": {
+          "title": "A. Các yếu tố quyết định",
+          "subsections": {
+            "marketProximity": {
+              "title": "Vị trí gần thị trường tiêu thụ",
+              "items": [
+                {
+                  "label": "[Yếu tố 1]",
+                  "content": "[Chi tiết về khoảng cách đến các điểm tiêu thụ]"
+                },
+                {
+                  "label": "[Yếu tố 2]",
+                  "content": "[Chi tiết về chi phí vận chuyển]"
+                },
+                {
+                  "label": "[Yếu tố 3]",
+                  "content": "[Chi tiết về thời gian giao hàng]"
+                },
+                {
+                  "label": "[Yếu tố 4]",
+                  "content": "[Chi tiết về khả năng phục vụ]"
+                }
+              ]
+            },
+            "supplierProximity": {
+              "title": "Vị trí gần nguồn nguyên liệu",
+              "items": [
+                {
+                  "label": "[Yếu tố 1]",
+                  "content": "[Chi tiết về nguồn cung ứng]"
+                },
+                {
+                  "label": "[Yếu tố 2]",
+                  "content": "[Chi tiết về chi phí đầu vào]"
+                },
+                {
+                  "label": "[Yếu tố 3]",
+                  "content": "[Chi tiết về độ ổn định nguồn cung]"
+                },
+                {
+                  "label": "[Yếu tố 4]",
+                  "content": "[Chi tiết về chất lượng nguyên liệu]"
+                }
+              ]
+            },
+            "competitorLocation": {
+              "title": "Vị trí so với đối thủ cạnh tranh",
+              "items": [
+                {
+                  "label": "[Yếu tố 1]",
+                  "content": "[Chi tiết về phân bố đối thủ]"
+                },
+                {
+                  "label": "[Yếu tố 2]",
+                  "content": "[Chi tiết về lợi thế cạnh tranh]"
+                },
+                {
+                  "label": "[Yếu tố 3]",
+                  "content": "[Chi tiết về chiến lược định vị]"
+                },
+                {
+                  "label": "[Yếu tố 4]",
+                  "content": "[Chi tiết về tác động thị trường]"
+                }
+              ]
+            }
+          }
+        },
+        "environmentalFactors": {
+          "title": "B. Yếu tố môi trường",
+          "subsections": {
+            "naturalConditions": {
+              "title": "Điều kiện tự nhiên",
+              "items": [
+                {
+                  "label": "[Điều kiện 1]",
+                  "content": "[Chi tiết về địa hình]"
+                },
+                {
+                  "label": "[Điều kiện 2]",
+                  "content": "[Chi tiết về khí hậu]"
+                },
+                {
+                  "label": "[Điều kiện 3]",
+                  "content": "[Chi tiết về tài nguyên]"
+                },
+                {
+                  "label": "[Điều kiện 4]",
+                  "content": "[Chi tiết về môi trường sinh thái]"
+                }
+              ]
+            },
+            "socialConditions": {
+              "title": "Điều kiện xã hội",
+              "items": [
+                {
+                  "label": "[Yếu tố 1]",
+                  "content": "[Chi tiết về văn hóa địa phương]"
+                },
+                {
+                  "label": "[Yếu tố 2]",
+                  "content": "[Chi tiết về phong tục tập quán]"
+                },
+                {
+                  "label": "[Yếu tố 3]",
+                  "content": "[Chi tiết về nguồn lao động]"
+                },
+                {
+                  "label": "[Yếu tố 4]",
+                  "content": "[Chi tiết về chính sách địa phương]"
+                }
+              ]
+            }
+          }
+        },
+        "infrastructure": {
+          "title": "C. Cơ sở hạ tầng",
+          "subsections": {
+            "utilities": {
+              "title": "Hệ thống tiện ích",
+              "items": [
+                {
+                  "label": "[Tiện ích 1]",
+                  "content": "[Chi tiết về cung cấp điện]"
+                },
+                {
+                  "label": "[Tiện ích 2]",
+                  "content": "[Chi tiết về cung cấp nước]"
+                },
+                {
+                  "label": "[Tiện ích 3]",
+                  "content": "[Chi tiết về xử lý chất thải]"
+                },
+                {
+                  "label": "[Tiện ích 4]",
+                  "content": "[Chi tiết về hệ thống thông tin]"
+                }
+              ]
+            },
+            "transportation": {
+              "title": "Giao thông",
+              "items": [
+                {
+                  "label": "[Giao thông 1]",
+                  "content": "[Chi tiết về đường bộ]"
+                },
+                {
+                  "label": "[Giao thông 2]",
+                  "content": "[Chi tiết về giao thông nội bộ]"
+                },
+                {
+                  "label": "[Giao thông 3]",
+                  "content": "[Chi tiết về khả năng kết nối]"
+                },
+                {
+                  "label": "[Giao thông 4]",
+                  "content": "[Chi tiết về chi phí vận chuyển]"
+                }
+              ]
+            },
+            "development": {
+              "title": "Phát triển",
+              "items": [
+                {
+                  "label": "[Phát triển 1]",
+                  "content": "[Chi tiết về diện tích hiện tại]"
+                },
+                {
+                  "label": "[Phát triển 2]",
+                  "content": "[Chi tiết về khả năng mở rộng]"
+                },
+                {
+                  "label": "[Phát triển 3]",
+                  "content": "[Chi tiết về quy hoạch tương lai]"
+                },
+                {
+                  "label": "[Phát triển 4]",
+                  "content": "[Chi tiết về chi phí đầu tư]"
+                }
+              ]
+            }
+          }
+        },
+        "selectionProcess": {
+          "title": "D. Quy trình lựa chọn",
+          "subsections": {
+            "analysis": {
+              "title": "Phân tích và đánh giá",
+              "items": [
+                {
+                  "label": "[Phân tích 1]",
+                  "content": "[Chi tiết về mục tiêu địa điểm]"
+                },
+                {
+                  "label": "[Phân tích 2]",
+                  "content": "[Chi tiết về tiêu chí lựa chọn]"
+                },
+                {
+                  "label": "[Phân tích 3]",
+                  "content": "[Chi tiết về phân tích phương án]"
+                },
+                {
+                  "label": "[Phân tích 4]",
+                  "content": "[Chi tiết về ma trận đánh giá]"
+                }
+              ]
+            },
+            "decision": {
+              "title": "Ra quyết định",
+              "items": [
+                {
+                  "label": "[Quyết định 1]",
+                  "content": "[Chi tiết về phương án tối ưu]"
+                },
+                {
+                  "label": "[Quyết định 2]",
+                  "content": "[Chi tiết về căn cứ quyết định]"
+                },
+                {
+                  "label": "[Quyết định 3]",
+                  "content": "[Chi tiết về kế hoạch triển khai]"
+                },
+                {
+                  "label": "[Quyết định 4]",
+                  "content": "[Chi tiết về dự phòng rủi ro]"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }

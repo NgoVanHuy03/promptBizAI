@@ -1,0 +1,52 @@
+{
+  "title": "3. PHÂN ĐOẠN THỊ TRƯỜNG:",
+  "sections": {
+    "geography": {
+      "title": "A. Theo vị trí địa lý:",
+      "items": [
+        "Khu vực địa lý: - [Khu vực 1]\n- [Khu vực 2]\n- [Khu vực 3]",
+        "Mật độ dân số: - [Mật độ 1]\n- [Mật độ 2]\n- [Mật độ 3]",
+        "Đặc điểm khí hậu: - [Đặc điểm 1]\n- [Đặc điểm 2]\n- [Đặc điểm 3]",
+        "Điều kiện tự nhiên: - [Điều kiện 1]\n- [Điều kiện 2]\n- [Điều kiện 3]"
+      ]
+    },
+    "social": {
+      "title": "B. Theo đặc điểm xã hội:",
+      "items": [
+        "Độ tuổi: - [Độ tuổi 1]\n- [Độ tuổi 2]\n- [Độ tuổi 3]",
+        "Thu nhập: - [Thu nhập 1]\n- [Thu nhập 2]\n- [Thu nhập 3]",
+        "Nghề nghiệp: - [Nghề nghiệp 1]\n- [Nghề nghiệp 2]\n- [Nghề nghiệp 3]",
+        "Trình độ học vấn: - [Trình độ 1]\n- [Trình độ 2]\n- [Trình độ 3]",
+        "Giới tính: - [Giới tính 1]\n- [Giới tính 2]\n- [Giới tính 3]"
+      ]
+    },
+    "behavior": {
+      "title": "C. Theo hành vi/thái độ:",
+      "items": [
+        "Mức độ trung thành: - [Mức độ 1]\n- [Mức độ 2]\n- [Mức độ 3]",
+        "Tần suất sử dụng: - [Tần suất 1]\n- [Tần suất 2]\n- [Tần suất 3]",
+        "Thái độ với sản phẩm: - [Thái độ 1]\n- [Thái độ 2]\n- [Thái độ 3]",
+        "Mức độ quan tâm: - [Quan tâm 1]\n- [Quan tâm 2]\n- [Quan tâm 3]"
+      ]
+    },
+    "psychology": {
+      "title": "D. Theo đặc điểm tâm lý:",
+      "items": [
+        "Phong cách sống: - [Phong cách 1]\n- [Phong cách 2]\n- [Phong cách 3]",
+        "Sở thích cá nhân: - [Sở thích 1]\n- [Sở thích 2]\n- [Sở thích 3]",
+        "Giá trị cá nhân: - [Giá trị 1]\n- [Giá trị 2]\n- [Giá trị 3]",
+        "Động cơ mua hàng: - [Động cơ 1]\n- [Động cơ 2]\n- [Động cơ 3]"
+      ]
+    },
+    "purchasing": {
+      "title": "E. Theo hành vi mua hàng:",
+      "items": [
+        "Thời điểm mua hàng: - [Thời điểm 1]\n- [Thời điểm 2]\n- [Thời điểm 3]",
+        "Địa điểm mua hàng: - [Địa điểm 1]\n- [Địa điểm 2]\n- [Địa điểm 3]",
+        "Cách thức thanh toán: - [Cách thức 1]\n- [Cách thức 2]\n- [Cách thức 3]",
+        "Số lượng mua: - [Số lượng 1]\n- [Số lượng 2]\n- [Số lượng 3]",
+        "Mục đích sử dụng: - [Mục đích 1]\n- [Mục đích 2]\n- [Mục đích 3]"
+      ]
+    }
+  }
+}

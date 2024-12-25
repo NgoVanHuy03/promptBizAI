@@ -1,0 +1,208 @@
+{
+    "TEXT_CONTENT": {
+      "title": "2. ĐỀ XUẤT GIẢI PHÁP",
+      "sectionA": {
+        "title": "A. Sản phẩm/Dịch vụ cung cấp",
+        "overview": {
+          "title": "Mô tả tổng quan",
+          "productName": "[Tên sản phẩm/dịch vụ]",
+          "productType": "[Loại hình dịch vụ]",
+          "highlights": [
+            "[Điểm nổi bật 1: Thời gian]",
+            "[Điểm nổi bật 2: Công nghệ]",
+            "[Điểm nổi bật 3: Chất lượng]"
+          ]
+        },
+        "features": {
+          "title": "Tính năng chính",
+          "items": [
+            {
+              "name": "[Tên tính năng 1]",
+              "desc": "[Mô tả chi tiết tính năng 1]"
+            },
+            {
+              "name": "[Tên tính năng 2]",
+              "desc": "[Mô tả chi tiết tính năng 2]"
+            },
+            {
+              "name": "[Tên tính năng 3]",
+              "desc": "[Mô tả chi tiết tính năng 3]"
+            }
+          ]
+        },
+        "benefits": {
+          "title": "Lợi ích mang lại",
+          "items": [
+            "[Lợi ích 1: Tiết kiệm thời gian]",
+            "[Lợi ích 2: Tiết kiệm chi phí]",
+            "[Lợi ích 3: Đảm bảo vệ sinh]",
+            "[Lợi ích 4: Trải nghiệm người dùng]"
+          ]
+        }
+      },
+      "sectionB": {
+        "title": "B. Cách thức giải quyết vấn đề",
+        "process": {
+          "title": "Quy trình thực hiện",
+          "steps": [
+            {
+              "name": "[Bước 1]",
+              "desc": "[Mô tả bước 1]"
+            },
+            {
+              "name": "[Bước 2]",
+              "desc": "[Mô tả bước 2]"
+            },
+            {
+              "name": "[Bước 3]",
+              "desc": "[Mô tả bước 3]"
+            }
+          ]
+        },
+        "technology": {
+          "title": "Công nghệ/phương pháp sử dụng",
+          "items": [
+            {
+              "name": "[Tên công nghệ 1]",
+              "desc": "[Mô tả công nghệ 1]"
+            },
+            {
+              "name": "[Tên công nghệ 2]",
+              "desc": "[Mô tả công nghệ 2]"
+            },
+            {
+              "name": "[Tên công nghệ 3]",
+              "desc": "[Mô tả công nghệ 3]"
+            }
+          ]
+        },
+        "effectiveness": {
+          "title": "Hiệu quả giải quyết",
+          "items": [
+            "[Hiệu quả 1: Thời gian]",
+            "[Hiệu quả 2: Chi phí]",
+            "[Hiệu quả 3: Sự hài lòng]"
+          ]
+        }
+      },
+      "sectionC": {
+        "title": "C. Tính khả thi của giải pháp",
+        "resources": {
+          "title": "Nguồn lực thực hiện",
+          "human": {
+            "title": "Nguồn lực con người",
+            "items": [
+              "[Nhân lực 1: Số lượng + vị trí]",
+              "[Nhân lực 2: Số lượng + vị trí]",
+              "[Nhân lực 3: Số lượng + vị trí]"
+            ]
+          },
+          "physical": {
+            "title": "Nguồn lực vật chất",
+            "items": [
+              "[Cơ sở vật chất 1]",
+              "[Cơ sở vật chất 2]",
+              "[Cơ sở vật chất 3]"
+            ]
+          },
+          "financial": {
+            "title": "Nguồn lực tài chính",
+            "items": [
+              "[Chi phí 1: Loại + số tiền]",
+              "[Chi phí 2: Loại + số tiền]",
+              "[Chi phí 3: Loại + số tiền]"
+            ]
+          }
+        },
+        "timeline": {
+          "title": "Thời gian triển khai",
+          "phases": [
+            {
+              "name": "[Tên giai đoạn 1]",
+              "duration": "[Thời gian]",
+              "tasks": "[Công việc chính]"
+            },
+            {
+              "name": "[Tên giai đoạn 2]",
+              "duration": "[Thời gian]",
+              "tasks": "[Công việc chính]"
+            },
+            {
+              "name": "[Tên giai đoạn 3]",
+              "duration": "[Thời gian]",
+              "tasks": "[Công việc chính]"
+            }
+          ]
+        }
+      }
+    },
+    "CHART_DATA": {
+      "features": [
+        {
+          "subject": "[Tiêu chí 1]",
+          "value": "[X]"
+        },
+        {
+          "subject": "[Tiêu chí 2]",
+          "value": "[X]"
+        },
+        {
+          "subject": "[Tiêu chí 3]",
+          "value": "[X]"
+        },
+        {
+          "subject": "[Tiêu chí 4]",
+          "value": "[X]"
+        },
+        {
+          "subject": "[Tiêu chí 5]",
+          "value": "[X]"
+        }
+      ],
+      "processEfficiency": [
+        {
+          "name": "[Chỉ số 1]",
+          "before": "[X]",
+          "after": "[X]"
+        },
+        {
+          "name": "[Chỉ số 2]",
+          "before": "[X]",
+          "after": "[X]"
+        },
+        {
+          "name": "[Chỉ số 3]",
+          "before": "[X]",
+          "after": "[X]"
+        }
+      ],
+      "resourceAllocation": [
+        {
+          "name": "[Nguồn lực 1]",
+          "value": "[X]"
+        },
+        {
+          "name": "[Nguồn lực 2]",
+          "value": "[X]"
+        },
+        {
+          "name": "[Nguồn lực 3]",
+          "value": "[X]"
+        }
+      ],
+      "timeline": [
+        {
+          "phase": "[Giai đoạn 1]",
+          "duration": "[X]"
+        },
+        {
+          "phase": "[Giai đoạn 2]",
+          "duration": "[X]"
+        },
+        {
+          "phase": "[Giai đoạn 3]",
+          "duration": "[X]"
+        }
+      ]
+    }
+  }

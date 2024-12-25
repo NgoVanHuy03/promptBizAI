@@ -1,0 +1,266 @@
+{
+  "TEXT_CONTENT": {
+    "title": "4. KẾ HOẠCH CÔNG VIỆC",
+    "sectionA": {
+      "title": "A. Kế hoạch công việc 3 năm",
+      "firstYear": {
+        "title": "Năm thứ nhất",
+        "quarters": [
+          {
+            "period": "Quý 1",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 1]",
+              "[Nhiệm vụ 2 quý 1]",
+              "[Nhiệm vụ 3 quý 1]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 1]",
+              "[KPI 2 quý 1]",
+              "[KPI 3 quý 1]"
+            ]
+          },
+          {
+            "period": "Quý 2",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 2]",
+              "[Nhiệm vụ 2 quý 2]",
+              "[Nhiệm vụ 3 quý 2]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 2]",
+              "[KPI 2 quý 2]",
+              "[KPI 3 quý 2]"
+            ]
+          },
+          {
+            "period": "Quý 3",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 3]",
+              "[Nhiệm vụ 2 quý 3]",
+              "[Nhiệm vụ 3 quý 3]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 3]",
+              "[KPI 2 quý 3]",
+              "[KPI 3 quý 3]"
+            ]
+          },
+          {
+            "period": "Quý 4",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 4]",
+              "[Nhiệm vụ 2 quý 4]",
+              "[Nhiệm vụ 3 quý 4]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 4]",
+              "[KPI 2 quý 4]",
+              "[KPI 3 quý 4]"
+            ]
+          }
+        ]
+      },
+      "secondYear": {
+        "title": "Năm thứ hai",
+        "quarters": [
+          {
+            "period": "Quý 1",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 1 năm 2]",
+              "[Nhiệm vụ 2 quý 1 năm 2]",
+              "[Nhiệm vụ 3 quý 1 năm 2]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 1 năm 2]",
+              "[KPI 2 quý 1 năm 2]",
+              "[KPI 3 quý 1 năm 2]"
+            ]
+          },
+          {
+            "period": "Quý 2",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 2 năm 2]",
+              "[Nhiệm vụ 2 quý 2 năm 2]",
+              "[Nhiệm vụ 3 quý 2 năm 2]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 2 năm 2]",
+              "[KPI 2 quý 2 năm 2]",
+              "[KPI 3 quý 2 năm 2]"
+            ]
+          },
+          {
+            "period": "Quý 3",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 3 năm 2]",
+              "[Nhiệm vụ 2 quý 3 năm 2]",
+              "[Nhiệm vụ 3 quý 3 năm 2]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 3 năm 2]",
+              "[KPI 2 quý 3 năm 2]",
+              "[KPI 3 quý 3 năm 2]"
+            ]
+          },
+          {
+            "period": "Quý 4",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 4 năm 2]",
+              "[Nhiệm vụ 2 quý 4 năm 2]",
+              "[Nhiệm vụ 3 quý 4 năm 2]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 4 năm 2]",
+              "[KPI 2 quý 4 năm 2]",
+              "[KPI 3 quý 4 năm 2]"
+            ]
+          }
+        ]
+      },
+      "thirdYear": {
+        "title": "Năm thứ ba",
+        "quarters": [
+          {
+            "period": "Quý 1",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 1 năm 3]",
+              "[Nhiệm vụ 2 quý 1 năm 3]",
+              "[Nhiệm vụ 3 quý 1 năm 3]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 1 năm 3]",
+              "[KPI 2 quý 1 năm 3]",
+              "[KPI 3 quý 1 năm 3]"
+            ]
+          },
+          {
+            "period": "Quý 2",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 2 năm 3]",
+              "[Nhiệm vụ 2 quý 2 năm 3]",
+              "[Nhiệm vụ 3 quý 2 năm 3]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 2 năm 3]",
+              "[KPI 2 quý 2 năm 3]",
+              "[KPI 3 quý 2 năm 3]"
+            ]
+          },
+          {
+            "period": "Quý 3",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 3 năm 3]",
+              "[Nhiệm vụ 2 quý 3 năm 3]",
+              "[Nhiệm vụ 3 quý 3 năm 3]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 3 năm 3]",
+              "[KPI 2 quý 3 năm 3]",
+              "[KPI 3 quý 3 năm 3]"
+            ]
+          },
+          {
+            "period": "Quý 4",
+            "tasks": [
+              "[Nhiệm vụ 1 quý 4 năm 3]",
+              "[Nhiệm vụ 2 quý 4 năm 3]",
+              "[Nhiệm vụ 3 quý 4 năm 3]"
+            ],
+            "kpis": [
+              "[KPI 1 quý 4 năm 3]",
+              "[KPI 2 quý 4 năm 3]",
+              "[KPI 3 quý 4 năm 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Kế hoạch chi tiết năm đầu tiên",
+      "quarter1": {
+        "title": "Quý 1",
+        "months": [
+          {
+            "period": "Tháng 1",
+            "tasks": [
+              "[Nhiệm vụ 1 tháng 1]",
+              "[Nhiệm vụ 2 tháng 1]",
+              "[Nhiệm vụ 3 tháng 1]"
+            ],
+            "kpis": [
+              "[KPI 1 tháng 1]",
+              "[KPI 2 tháng 1]",
+              "[KPI 3 tháng 1]"
+            ]
+          },
+          {
+            "period": "Tháng 2-3",
+            "tasks": [
+              "[Nhiệm vụ 1 tháng 2-3]",
+              "[Nhiệm vụ 2 tháng 2-3]",
+              "[Nhiệm vụ 3 tháng 2-3]"
+            ],
+            "kpis": [
+              "[KPI 1 tháng 2-3]",
+              "[KPI 2 tháng 2-3]",
+              "[KPI 3 tháng 2-3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Kế hoạch chi tiết tháng đầu tiên theo tuần",
+      "week1": {
+        "title": "Tuần 1",
+        "days": [
+          {
+            "day": "Thứ 2",
+            "tasks": [
+              "[Nhiệm vụ 1 thứ 2]",
+              "[Nhiệm vụ 2 thứ 2]",
+              "[Nhiệm vụ 3 thứ 2]"
+            ]
+          },
+          {
+            "day": "Thứ 3-4",
+            "tasks": [
+              "[Nhiệm vụ 1 thứ 3-4]",
+              "[Nhiệm vụ 2 thứ 3-4]",
+              "[Nhiệm vụ 3 thứ 3-4]"
+            ]
+          },
+          {
+            "day": "Thứ 5-6",
+            "tasks": [
+              "[Nhiệm vụ 1 thứ 5-6]",
+              "[Nhiệm vụ 2 thứ 5-6]",
+              "[Nhiệm vụ 3 thứ 5-6]"
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "title": "Đánh giá và điều chỉnh",
+        "items": [
+          {
+            "aspect": "Họp giao ban",
+            "details": "[Chi tiết họp giao ban]"
+          },
+          {
+            "aspect": "Báo cáo tiến độ",
+            "details": "[Chi tiết báo cáo tiến độ]"
+          },
+          {
+            "aspect": "Giải quyết vấn đề",
+            "details": "[Chi tiết giải quyết vấn đề]"
+          },
+          {
+            "aspect": "Điều chỉnh kế hoạch",
+            "details": "[Chi tiết điều chỉnh kế hoạch]"
+          }
+        ]
+      }
+    }
+  }
+}

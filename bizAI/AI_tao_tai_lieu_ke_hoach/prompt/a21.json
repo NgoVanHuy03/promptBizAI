@@ -1,0 +1,188 @@
+{
+  "CONTENT": {
+    "title": "5. CHÍNH SÁCH SẢN PHẨM",
+    "sections": {
+      "core": {
+        "title": "A. Sản phẩm cốt lõi",
+        "items": [
+          {
+            "label": "[Công dụng chính]",
+            "content": "[Mô tả công dụng chính của sản phẩm]"
+          },
+          {
+            "label": "[Lợi ích cơ bản]",
+            "content": "[Các lợi ích chính]"
+          },
+          {
+            "label": "[Nhu cầu đáp ứng]",
+            "content": "[Các nhu cầu được đáp ứng]"
+          },
+          {
+            "label": "[Giá trị cốt lõi]",
+            "content": "[Các giá trị cốt lõi]"
+          },
+          {
+            "label": "[Đối tượng]",
+            "content": "[Mô tả đối tượng sử dụng]"
+          }
+        ]
+      },
+      "actual": {
+        "title": "B. Sản phẩm hiện thực",
+        "subsections": {
+          "quality": {
+            "title": "Chất lượng",
+            "items": [
+              {
+                "label": "[Tiêu chuẩn]",
+                "content": "[Các tiêu chuẩn áp dụng]"
+              },
+              {
+                "label": "[Kiểm soát]",
+                "content": "[Quy trình kiểm soát]"
+              },
+              {
+                "label": "[Chứng nhận]",
+                "content": "[Danh sách chứng nhận]"
+              }
+            ]
+          },
+          "attributes": {
+            "title": "Thuộc tính",
+            "items": [
+              {
+                "label": "[Kỹ thuật]",
+                "content": "[Thông số kỹ thuật]"
+              },
+              {
+                "label": "[Tính năng]",
+                "content": "[Các tính năng]"
+              },
+              {
+                "label": "[Kích thước]",
+                "content": "[Quy cách sản phẩm]"
+              }
+            ]
+          },
+          "design": {
+            "title": "Thiết kế và bao bì",
+            "items": [
+              {
+                "label": "[Thiết kế]",
+                "content": "[Mô tả thiết kế]"
+              },
+              {
+                "label": "[Bao bì]",
+                "content": "[Mô tả bao bì]"
+              },
+              {
+                "label": "[Nhãn mác]",
+                "content": "[Thông tin nhãn mác]"
+              }
+            ]
+          }
+        }
+      },
+      "additional": {
+        "title": "C. Sản phẩm bổ sung",
+        "items": [
+          {
+            "label": "[Tiền bán]",
+            "content": "[Dịch vụ trước bán]"
+          },
+          {
+            "label": "[Hậu mãi]",
+            "content": "[Dịch vụ sau bán]"
+          },
+          {
+            "label": "[Đi kèm]",
+            "content": "[Sản phẩm kèm theo]"
+          },
+          {
+            "label": "[Bảo hành]",
+            "content": "[Chính sách bảo hành]"
+          },
+          {
+            "label": "[Hỗ trợ]",
+            "content": "[Dịch vụ hỗ trợ]"
+          }
+        ]
+      },
+      "brand": {
+        "title": "D. Nhãn hiệu sản phẩm",
+        "items": [
+          {
+            "label": "[Tên]",
+            "content": "[Tên thương hiệu]"
+          },
+          {
+            "label": "[Logo]",
+            "content": "[Mô tả logo]"
+          },
+          {
+            "label": "[Slogan]",
+            "content": "[Slogan thương hiệu]"
+          },
+          {
+            "label": "[Định vị]",
+            "content": "[Định vị thương hiệu]"
+          },
+          {
+            "label": "[Bảo hộ]",
+            "content": "[Chính sách bảo hộ]"
+          }
+        ]
+      },
+      "quality": {
+        "title": "E. Chất lượng sản phẩm",
+        "items": [
+          {
+            "label": "[Tiêu chuẩn]",
+            "content": "[Tiêu chuẩn áp dụng]"
+          },
+          {
+            "label": "[Quy trình]",
+            "content": "[Quy trình sản xuất]"
+          },
+          {
+            "label": "[Hệ thống]",
+            "content": "[Hệ thống quản lý]"
+          },
+          {
+            "label": "[Kiểm tra]",
+            "content": "[Quy trình kiểm tra]"
+          },
+          {
+            "label": "[Cải tiến]",
+            "content": "[Phương pháp cải tiến]"
+          }
+        ]
+      },
+      "service": {
+        "title": "F. Dịch vụ khách hàng",
+        "items": [
+          {
+            "label": "[Tư vấn]",
+            "content": "[Dịch vụ tư vấn]"
+          },
+          {
+            "label": "[Giải đáp]",
+            "content": "[Kênh giải đáp]"
+          },
+          {
+            "label": "[Khiếu nại]",
+            "content": "[Xử lý khiếu nại]"
+          },
+          {
+            "label": "[Chăm sóc]",
+            "content": "[Chương trình chăm sóc]"
+          },
+          {
+            "label": "[Đánh giá]",
+            "content": "[Phương pháp đánh giá]"
+          }
+        ]
+      }
+    }
+  }
+}

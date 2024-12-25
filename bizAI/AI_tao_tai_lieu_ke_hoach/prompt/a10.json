@@ -1,0 +1,89 @@
+{
+  "PEST_DATA":{
+    "title": "1. PHÂN TÍCH MÔI TRƯỜNG VĨ MÔ (PEST)",
+    "political": {
+      "title": "A. Môi trường chính trị - pháp lý (Political)",
+      "sections": {
+        "politics": {
+          "title": "Yếu tố chính trị",
+          "items": [
+            "[Tình hình chính trị]",
+            "[Chính sách quản lý]",
+            "[Quan hệ quốc tế]"
+          ]
+        },
+        "legal": {
+          "title": "Yếu tố pháp lý",
+          "items": [
+            "[Luật và quy định]",
+            "[Chính sách thuế]",
+            "[Quy định ngành]"
+          ]
+        }
+      }
+    },
+    "economic": {
+      "title": "B. Môi trường kinh tế (Economic)",
+      "sections": {
+        "macro": {
+          "title": "Các chỉ số vĩ mô",
+          "items": [
+            "[Tốc độ tăng trưởng]",
+            "[Tỷ lệ lạm phát]",
+            "[Tỷ giá hối đoái]"
+          ]
+        },
+        "market": {
+          "title": "Yếu tố thị trường",
+          "items": [
+            "[Thu nhập bình quân]",
+            "[Tỷ lệ thất nghiệp]",
+            "[Lãi suất ngân hàng]"
+          ]
+        }
+      }
+    },
+    "social": {
+      "title": "C. Môi trường xã hội (Social)",
+      "sections": {
+        "demographics": {
+          "title": "Yếu tố nhân khẩu học",
+          "items": [
+            "[Cơ cấu dân số]",
+            "[Phân bố dân cư]",
+            "[Tỷ lệ đô thị hóa]"
+          ]
+        },
+        "culture": {
+          "title": "Yếu tố văn hóa - xã hội",
+          "items": [
+            "[Lối sống]",
+            "[Thói quen tiêu dùng]",
+            "[Xu hướng xã hội]"
+          ]
+        }
+      }
+    },
+    "technological": {
+      "title": "D. Môi trường công nghệ (Technological)",
+      "sections": {
+        "trends": {
+          "title": "Xu hướng công nghệ",
+          "items": [
+            "[Công nghệ mới]",
+            "[Mức độ ứng dụng]",
+            "[Tốc độ thay đổi]"
+          ]
+        },
+        "impact": {
+          "title": "Ảnh hưởng đến ngành",
+          "items": [
+            "[Cơ hội]",
+            "[Thách thức]",
+            "[Chi phí]"
+          ]
+        }
+      }
+    }
+  }
+}

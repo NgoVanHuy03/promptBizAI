@@ -1,0 +1,199 @@
+{
+    "RISK_CONTROL_DATA" :{
+    "title": "4. BIỆN PHÁP KIỂM SOÁT RỦI RO",
+    "sections": [
+      {
+        "id": "A",
+        "title": "Né tránh rủi ro",
+        "categories": [
+          {
+            "name": "Các trường hợp áp dụng",
+            "items": [
+              {
+                "name": "[Trường hợp 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Trường hợp 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Trường hợp 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Trường hợp 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          },
+          {
+            "name": "Phương pháp thực hiện",
+            "items": [
+              {
+                "name": "[Phương pháp 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Phương pháp 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Phương pháp 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Phương pháp 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "title": "Chuyển giao rủi ro",
+        "categories": [
+          {
+            "name": "Hình thức chuyển giao",
+            "items": [
+              {
+                "name": "[Hình thức 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Hình thức 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Hình thức 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Hình thức 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          },
+          {
+            "name": "Quy trình thực hiện",
+            "items": [
+              {
+                "name": "[Quy trình 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Quy trình 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Quy trình 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Quy trình 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "title": "Tài trợ rủi ro",
+        "categories": [
+          {
+            "name": "Nguồn tài trợ",
+            "items": [
+              {
+                "name": "[Nguồn 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Nguồn 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Nguồn 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Nguồn 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          },
+          {
+            "name": "Kế hoạch sử dụng",
+            "items": [
+              {
+                "name": "[Kế hoạch 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Kế hoạch 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Kế hoạch 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Kế hoạch 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "title": "Chấp nhận rủi ro",
+        "categories": [
+          {
+            "name": "Đánh giá khả năng chấp nhận",
+            "items": [
+              {
+                "name": "[Đánh giá 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Đánh giá 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Đánh giá 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Đánh giá 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          },
+          {
+            "name": "Biện pháp giảm thiểu",
+            "items": [
+              {
+                "name": "[Biện pháp 1]",
+                "status": "[Trạng thái 1]"
+              },
+              {
+                "name": "[Biện pháp 2]",
+                "status": "[Trạng thái 2]"
+              },
+              {
+                "name": "[Biện pháp 3]",
+                "status": "[Trạng thái 3]"
+              },
+              {
+                "name": "[Biện pháp 4]",
+                "status": "[Trạng thái 4]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

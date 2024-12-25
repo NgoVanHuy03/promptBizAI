@@ -1,0 +1,164 @@
+{
+    "CHART_DATA": {
+      "customerSegments": {
+        "segment1": {
+          "demographics": [
+            { "attribute": "[Tiêu chí 1]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 2]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 3]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 4]", "value": "[X]", "fullMark": 100 }
+          ],
+          "proportion": "[X]"
+        },
+        "segment2": {
+          "demographics": [
+            { "attribute": "[Tiêu chí 1]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 2]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 3]", "value": "[X]", "fullMark": 100 },
+            { "attribute": "[Tiêu chí 4]", "value": "[X]", "fullMark": 100 }
+          ],
+          "proportion": "[X]"
+        }
+      },
+      "customerBehavior": {
+        "frequency": [
+          { "name": "[Tần suất 1]", "value": "[X]" },
+          { "name": "[Tần suất 2]", "value": "[X]" },
+          { "name": "[Tần suất 3]", "value": "[X]" },
+          { "name": "[Tần suất 4]", "value": "[X]" }
+        ],
+        "decisionFactors": [
+          { "factor": "[Yếu tố 1]", "score": "[X]" },
+          { "factor": "[Yếu tố 2]", "score": "[X]" },
+          { "factor": "[Yếu tố 3]", "score": "[X]" },
+          { "factor": "[Yếu tố 4]", "score": "[X]" }
+        ],
+        "loyalty": {
+          "retention": [
+            { "month": "[T1]", "rate": "[X]" },
+            { "month": "[T2]", "rate": "[X]" },
+            { "month": "[T3]", "rate": "[X]" },
+            { "month": "[T4]", "rate": "[X]" },
+            { "month": "[T5]", "rate": "[X]" },
+            { "month": "[T6]", "rate": "[X]" }
+          ]
+        }
+      },
+      "marketSize": {
+        "growth": [
+          { "year": "[Năm 1]", "value": "[X]" },
+          { "year": "[Năm 2]", "value": "[X]" },
+          { "year": "[Năm 3]", "value": "[X]" },
+          { "year": "[Năm 4]", "value": "[X]" }
+        ],
+        "share": [
+          { "name": "[Phần 1]", "value": "[X]" },
+          { "name": "[Phần 2]", "value": "[X]" }
+        ]
+      },
+      "targeting": {
+        "channels": [
+          { "name": "[Kênh 1]", "value": "[X]" },
+          { "name": "[Kênh 2]", "value": "[X]" },
+          { "name": "[Kênh 3]", "value": "[X]" },
+          { "name": "[Kênh 4]", "value": "[X]" }
+        ],
+        "conversion": [
+          { "stage": "[Giai đoạn 1]", "value": "[X]" },
+          { "stage": "[Giai đoạn 2]", "value": "[X]" },
+          { "stage": "[Giai đoạn 3]", "value": "[X]" },
+          { "stage": "[Giai đoạn 4]", "value": "[X]" }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "4. THỊ TRƯỜNG MỤC TIÊU",
+      "sectionA": {
+        "title": "A. Xác định và phân tích khách hàng",
+        "segments": {
+          "title": "Phân khúc khách hàng",
+          "segment1": {
+            "name": "[Tên phân khúc 1]",
+            "age": "[Độ tuổi 1]",
+            "income": "[Thu nhập 1]",
+            "occupation": "[Nghề nghiệp 1]",
+            "interests": "[Sở thích 1]"
+          },
+          "segment2": {
+            "name": "[Tên phân khúc 2]",
+            "age": "[Độ tuổi 2]",
+            "income": "[Thu nhập 2]",
+            "occupation": "[Nghề nghiệp 2]",
+            "interests": "[Sở thích 2]"
+          }
+        },
+        "behavior": {
+          "title": "Hành vi khách hàng",
+          "habits": [
+            "[Thói quen 1]",
+            "[Thói quen 2]",
+            "[Thói quen 3]",
+            "[Thói quen 4]"
+          ],
+          "frequency": "[Tần suất trung bình]",
+          "factors": [
+            "[Yếu tố 1]",
+            "[Yếu tố 2]",
+            "[Yếu tố 3]",
+            "[Yếu tố 4]"
+          ],
+          "loyalty": "[Tỷ lệ khách hàng quay lại]"
+        }
+      },
+      "sectionB": {
+        "title": "B. Quy mô thị trường",
+        "total": {
+          "title": "Thị trường tổng thể",
+          "customers": "[Số khách hàng tiềm năng]",
+          "value": "[Giá trị thị trường]",
+          "growth": "[Tốc độ tăng trưởng]"
+        },
+        "target": {
+          "title": "Thị trường mục tiêu",
+          "customers": "[Số khách hàng mục tiêu]",
+          "share": "[Thị phần]",
+          "revenue": "[Doanh thu kỳ vọng]"
+        }
+      },
+      "sectionC": {
+        "title": "C. Phương pháp xác định khách hàng lý tưởng",
+        "criteria": {
+          "title": "Tiêu chí lựa chọn",
+          "items": [
+            {
+              "name": "[Tiêu chí 1]",
+              "desc": "[Mô tả 1]"
+            },
+            {
+              "name": "[Tiêu chí 2]",
+              "desc": "[Mô tả 2]"
+            },
+            {
+              "name": "[Tiêu chí 3]",
+              "desc": "[Mô tả 3]"
+            },
+            {
+              "name": "[Tiêu chí 4]",
+              "desc": "[Mô tả 4]"
+            }
+          ]
+        },
+        "process": {
+          "title": "Quy trình tiếp cận",
+          "channels": [
+            "[Kênh 1]",
+            "[Kênh 2]",
+            "[Kênh 3]",
+            "[Kênh 4]"
+          ],
+          "cost": "[Chi phí tiếp cận]",
+          "conversion": "[Tỷ lệ chuyển đổi]"
+        }
+      }
+    }
+  }

@@ -1,0 +1,47 @@
+{
+  "MARKET_STRATEGY_DATA":{
+    "title": "4. LỰA CHỌN THỊ TRƯỜNG MỤC TIÊU",
+    "sections": {
+      "concentration": {
+        "title": "A. Chiến lược tập trung hóa",
+        "items": [
+          "Phân khúc mục tiêu: - [Mô tả 1]\n- [Mô tả 2]\n- [Mô tả 3]",
+          "Lý do lựa chọn: - [Lý do 1]\n- [Lý do 2]\n- [Lý do 3]\n- [Lý do 4]",
+          "Quy mô phân khúc: - [Số lượng khách hàng]\n- [Giá trị thị trường]",
+          "Tiềm năng phát triển: - [Tỷ lệ tăng trưởng]\n- [Xu hướng phát triển]\n- [Cơ hội mở rộng]",
+          "Nguồn lực phục vụ: - [Nguồn lực 1]\n- [Nguồn lực 2]\n- [Nguồn lực 3]"
+        ]
+      },
+      "productSpecialization": {
+        "title": "B. Chiến lược chuyên môn hóa sản phẩm",
+        "items": [
+          "Dòng sản phẩm chuyên biệt: - [Sản phẩm 1]\n- [Sản phẩm 2]\n- [Sản phẩm 3]",
+          "Các phân khúc nhắm đến: - [Phân khúc 1]\n- [Phân khúc 2]\n- [Phân khúc 3]",
+          "Lợi thế cạnh tranh: - [Lợi thế 1]\n- [Lợi thế 2]\n- [Lợi thế 3]",
+          "Khả năng thích ứng: - [Khả năng 1]\n- [Khả năng 2]\n- [Khả năng 3]",
+          "Hiệu quả kinh tế: - [Chỉ tiêu 1]\n- [Chỉ tiêu 2]"
+        ]
+      },
+      "marketSpecialization": {
+        "title": "C. Chiến lược chuyên môn hóa thị trường",
+        "items": [
+          "Nhóm khách hàng mục tiêu: - [Đặc điểm 1]\n- [Đặc điểm 2]\n- [Đặc điểm 3]",
+          "Nhu cầu đặc thù: - [Nhu cầu 1]\n- [Nhu cầu 2]\n- [Nhu cầu 3]\n- [Nhu cầu 4]",
+          "Danh mục sản phẩm: - [Danh mục 1]\n- [Danh mục 2]\n- [Danh mục 3]\n- [Danh mục 4]",
+          "Kênh phân phối: - [Kênh 1]\n- [Kênh 2]\n- [Kênh 3]",
+          "Chiến lược marketing: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]"
+        ]
+      },
+      "overall": {
+        "title": "D. Chiến lược thị trường tổng thể",
+        "items": [
+          "Phạm vi thị trường: - [Phạm vi 1]\n- [Phạm vi 2]\n- [Phạm vi 3]",
+          "Nguồn lực triển khai: - [Nguồn lực 1]\n- [Nguồn lực 2]\n- [Nguồn lực 3]",
+          "Chiến lược cạnh tranh: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]",
+          "Rủi ro tiềm ẩn: - [Rủi ro 1]\n- [Rủi ro 2]\n- [Rủi ro 3]",
+          "Kế hoạch phát triển: - [Giai đoạn 1]\n- [Giai đoạn 2]\n- [Giai đoạn 3]"
+        ]
+      }
+    }
+  }
+}

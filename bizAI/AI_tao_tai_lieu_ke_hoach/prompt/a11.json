@@ -1,0 +1,133 @@
+{
+  "INDUSTRY_DATA":{
+    "title": "2. PHÂN TÍCH ĐẶC TRƯNG NGÀNH",
+    "sections": {
+      "structure": {
+        "title": "A. Cấu trúc ngành",
+        "items": [
+          {
+            "label": "[Chỉ số 1]",
+            "content": "[Quy mô và tăng trưởng]"
+          },
+          {
+            "label": "[Chỉ số 2]",
+            "content": "[Số lượng và phân bố doanh nghiệp]"
+          },
+          {
+            "label": "[Chỉ số 3]",
+            "content": "[Cấu trúc thị phần]"
+          },
+          {
+            "label": "[Chỉ số 4]",
+            "content": "[Mô tả chuỗi giá trị]"
+          }
+        ]
+      },
+      "competition": {
+        "title": "B. Mức độ và bản chất cạnh tranh",
+        "items": [
+          {
+            "label": "[Tiêu chí 1]",
+            "content": "[Số lượng đối thủ]"
+          },
+          {
+            "label": "[Tiêu chí 2]",
+            "content": "[Mức độ tập trung thị trường]"
+          },
+          {
+            "label": "[Tiêu chí 3]",
+            "content": "[Chiến lược cạnh tranh]"
+          },
+          {
+            "label": "[Tiêu chí 4]",
+            "content": "[Đánh giá cường độ cạnh tranh]"
+          }
+        ]
+      },
+      "profitability": {
+        "title": "C. Khả năng thu lợi",
+        "items": [
+          {
+            "label": "[Chỉ tiêu 1]",
+            "content": "[Tỷ suất lợi nhuận]"
+          },
+          {
+            "label": "[Chỉ tiêu 2]",
+            "content": "[Phân tích chi phí]"
+          },
+          {
+            "label": "[Chỉ tiêu 3]",
+            "content": "[Hiệu quả vốn]"
+          },
+          {
+            "label": "[Chỉ tiêu 4]",
+            "content": "[Dự báo tăng trưởng]"
+          }
+        ]
+      },
+      "barriers": {
+        "title": "D. Rào cản gia nhập",
+        "items": [
+          {
+            "label": "[Rào cản 1]",
+            "content": "[Yêu cầu về vốn]"
+          },
+          {
+            "label": "[Rào cản 2]",
+            "content": "[Yêu cầu về công nghệ]"
+          },
+          {
+            "label": "[Rào cản 3]",
+            "content": "[Yêu cầu về kênh phân phối]"
+          },
+          {
+            "label": "[Rào cản 4]",
+            "content": "[Yêu cầu về pháp lý]"
+          }
+        ]
+      },
+      "trends": {
+        "title": "E. Xu hướng ngành",
+        "items": [
+          {
+            "label": "[Xu hướng 1]",
+            "content": "[Xu hướng công nghệ]"
+          },
+          {
+            "label": "[Xu hướng 2]",
+            "content": "[Xu hướng thị trường]"
+          },
+          {
+            "label": "[Xu hướng 3]",
+            "content": "[Xu hướng sản phẩm]"
+          },
+          {
+            "label": "[Xu hướng 4]",
+            "content": "[Xu hướng khách hàng]"
+          }
+        ]
+      },
+      "prospects": {
+        "title": "F. Triển vọng dài hạn",
+        "items": [
+          {
+            "label": "[Triển vọng 1]",
+            "content": "[Tiềm năng tăng trưởng]"
+          },
+          {
+            "label": "[Triển vọng 2]",
+            "content": "[Thách thức]"
+          },
+          {
+            "label": "[Triển vọng 3]",
+            "content": "[Cơ hội]"
+          },
+          {
+            "label": "[Triển vọng 4]",
+            "content": "[Rủi ro]"
+          }
+        ]
+      }
+    }
+  }
+}

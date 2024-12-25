@@ -1,0 +1,197 @@
+{
+  "CONTENT": {
+    "title": "9. CHÍNH SÁCH TRUYỀN THÔNG",
+    "sections": {
+      "advertising": {
+        "title": "A. Quảng cáo",
+        "subsections": {
+          "channels": {
+            "title": "Kênh quảng cáo",
+            "items": [
+              {
+                "label": "[Digital]",
+                "content": "[Phân bổ ngân sách digital]"
+              },
+              {
+                "label": "[Truyền thống]",
+                "content": "[Các kênh truyền thống]"
+              },
+              {
+                "label": "[Outdoor]",
+                "content": "[Các hình thức outdoor]"
+              },
+              {
+                "label": "[Social]",
+                "content": "[Các nền tảng social]"
+              },
+              {
+                "label": "[PR]",
+                "content": "[Hoạt động PR]"
+              }
+            ]
+          },
+          "content": {
+            "title": "Nội dung quảng cáo",
+            "items": [
+              {
+                "label": "[Thông điệp]",
+                "content": "[Key message]"
+              },
+              {
+                "label": "[Hình ảnh]",
+                "content": "[Brand image]"
+              },
+              {
+                "label": "[Target]",
+                "content": "[Target audience]"
+              },
+              {
+                "label": "[Ngân sách]",
+                "content": "[Budget allocation]"
+              },
+              {
+                "label": "[KPIs]",
+                "content": "[Các chỉ tiêu KPI]"
+              }
+            ]
+          }
+        }
+      },
+      "promotion": {
+        "title": "B. Khuyến mãi",
+        "subsections": {
+          "programs": {
+            "title": "Chương trình khuyến mãi",
+            "items": [
+              {
+                "label": "[Giảm giá]",
+                "content": "[Chi tiết giảm giá]"
+              },
+              {
+                "label": "[Quà tặng]",
+                "content": "[Hình thức tặng quà]"
+              },
+              {
+                "label": "[Tích điểm]",
+                "content": "[Chương trình tích điểm]"
+              },
+              {
+                "label": "[Combo]",
+                "content": "[Các gói combo]"
+              },
+              {
+                "label": "[Mùa vụ]",
+                "content": "[Khuyến mãi theo mùa]"
+              }
+            ]
+          },
+          "management": {
+            "title": "Quản lý chương trình",
+            "items": [
+              {
+                "label": "[Thời gian]",
+                "content": "[Thời gian áp dụng]"
+              },
+              {
+                "label": "[Điều kiện]",
+                "content": "[Điều kiện áp dụng]"
+              },
+              {
+                "label": "[Ngân sách]",
+                "content": "[Phân bổ ngân sách]"
+              },
+              {
+                "label": "[Đo lường]",
+                "content": "[Phương pháp đo lường]"
+              },
+              {
+                "label": "[Điều chỉnh]",
+                "content": "[Cách thức điều chỉnh]"
+              }
+            ]
+          }
+        }
+      },
+      "salesCommunication": {
+        "title": "C. Giao tiếp bán hàng",
+        "subsections": {
+          "directSales": {
+            "title": "Bán hàng trực tiếp",
+            "items": [
+              {
+                "label": "[Quy trình]",
+                "content": "[Các bước bán hàng]"
+              },
+              {
+                "label": "[Kỹ năng]",
+                "content": "[Kỹ năng tư vấn]"
+              },
+              {
+                "label": "[Xử lý]",
+                "content": "[Xử lý từ chối]"
+              },
+              {
+                "label": "[CSKH]",
+                "content": "[Chăm sóc khách hàng]"
+              },
+              {
+                "label": "[Theo dõi]",
+                "content": "[Follow-up]"
+              }
+            ]
+          },
+          "tools": {
+            "title": "Công cụ hỗ trợ",
+            "items": [
+              {
+                "label": "[Tài liệu]",
+                "content": "[Danh sách tài liệu]"
+              },
+              {
+                "label": "[Demo]",
+                "content": "[Công cụ demo]"
+              },
+              {
+                "label": "[Báo giá]",
+                "content": "[Hệ thống báo giá]"
+              },
+              {
+                "label": "[Hợp đồng]",
+                "content": "[Các loại hợp đồng]"
+              },
+              {
+                "label": "[CRM]",
+                "content": "[Phần mềm CRM]"
+              }
+            ]
+          },
+          "training": {
+            "title": "Đào tạo nhân viên",
+            "items": [
+              {
+                "label": "[Chương trình]",
+                "content": "[Nội dung đào tạo]"
+              },
+              {
+                "label": "[Tần suất]",
+                "content": "[Thời gian đào tạo]"
+              },
+              {
+                "label": "[Đánh giá]",
+                "content": "[Phương pháp đánh giá]"
+              },
+              {
+                "label": "[Khen thưởng]",
+                "content": "[Chính sách khen thưởng]"
+              },
+              {
+                "label": "[Phát triển]",
+                "content": "[Lộ trình phát triển]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

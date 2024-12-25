@@ -1,0 +1,207 @@
+{
+    "CONTENT": {
+      "title": "2. CHIẾN LƯỢC MARKETING",
+      "sections": {
+        "ansoffMatrix": {
+          "title": "A. Ma trận Ansoff",
+          "marketPenetration": {
+            "title": "Thâm nhập thị trường",
+            "items": [
+              {
+                "label": "[Sản phẩm hiện tại]",
+                "content": "[Mô tả chi tiết sản phẩm]"
+              },
+              {
+                "label": "[Thị trường hiện tại]",
+                "content": "[Mô tả đối tượng khách hàng]"
+              },
+              {
+                "label": "[Chiến lược thực hiện]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Mục tiêu tăng trưởng]",
+                "content": "[Chỉ tiêu cụ thể]"
+              }
+            ]
+          },
+          "marketDevelopment": {
+            "title": "Phát triển thị trường",
+            "items": [
+              {
+                "label": "[Thị trường mới]",
+                "content": "[Mô tả thị trường mục tiêu]"
+              },
+              {
+                "label": "[Tiềm năng phát triển]",
+                "content": "[Đánh giá tiềm năng]"
+              },
+              {
+                "label": "[Chiến lược mở rộng]",
+                "content": "[Chi tiết kế hoạch]"
+              },
+              {
+                "label": "[Nguồn lực cần thiết]",
+                "content": "[Danh sách nguồn lực]"
+              }
+            ]
+          },
+          "productDevelopment": {
+            "title": "Phát triển sản phẩm",
+            "items": [
+              {
+                "label": "[Sản phẩm mới]",
+                "content": "[Mô tả sản phẩm]"
+              },
+              {
+                "label": "[Đối tượng mục tiêu]",
+                "content": "[Mô tả khách hàng]"
+              },
+              {
+                "label": "[Chiến lược phát triển]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Thời gian triển khai]",
+                "content": "[Lộ trình cụ thể]"
+              }
+            ]
+          },
+          "diversification": {
+            "title": "Đa dạng hóa",
+            "items": [
+              {
+                "label": "[Hướng đa dạng hóa]",
+                "content": "[Chi tiết định hướng]"
+              },
+              {
+                "label": "[Rủi ro và cơ hội]",
+                "content": "[Phân tích SWOT]"
+              },
+              {
+                "label": "[Chiến lược thực hiện]",
+                "content": "[Chi tiết triển khai]"
+              },
+              {
+                "label": "[Mục tiêu dài hạn]",
+                "content": "[Chỉ tiêu cụ thể]"
+              }
+            ]
+          }
+        },
+        "productLifecycle": {
+          "title": "B. Chu kỳ sống sản phẩm",
+          "introduction": {
+            "title": "Giai đoạn giới thiệu",
+            "items": [
+              {
+                "label": "[Chiến lược marketing]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Ngân sách dự kiến]",
+                "content": "[Chi tiết ngân sách]"
+              },
+              {
+                "label": "[Mục tiêu thị phần]",
+                "content": "[Chỉ tiêu cụ thể]"
+              }
+            ]
+          },
+          "growth": {
+            "title": "Giai đoạn tăng trưởng",
+            "items": [
+              {
+                "label": "[Chiến lược mở rộng]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Chính sách giá]",
+                "content": "[Chi tiết chính sách]"
+              },
+              {
+                "label": "[Kênh phân phối]",
+                "content": "[Mô tả kênh]"
+              }
+            ]
+          },
+          "maturity": {
+            "title": "Giai đoạn bão hòa",
+            "items": [
+              {
+                "label": "[Chiến lược duy trì]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Chính sách cạnh tranh]",
+                "content": "[Chi tiết chính sách]"
+              },
+              {
+                "label": "[Biện pháp kích cầu]",
+                "content": "[Chi tiết biện pháp]"
+              }
+            ]
+          },
+          "decline": {
+            "title": "Giai đoạn suy thoái",
+            "items": [
+              {
+                "label": "[Chiến lược tái sinh]",
+                "content": "[Chi tiết chiến lược]"
+              },
+              {
+                "label": "[Phương án thay thế]",
+                "content": "[Chi tiết phương án]"
+              },
+              {
+                "label": "[Quyết định rút lui]",
+                "content": "[Điều kiện cụ thể]"
+              }
+            ]
+          }
+        },
+        "marketEntry": {
+          "title": "C. Thời gian thâm nhập thị trường",
+          "items": [
+            {
+              "label": "[Thời điểm gia nhập]",
+              "content": "[Chi tiết thời gian]"
+            },
+            {
+              "label": "[Lộ trình triển khai]",
+              "content": "[Chi tiết lộ trình]"
+            },
+            {
+              "label": "[Điều kiện thị trường]",
+              "content": "[Đánh giá tình hình]"
+            },
+            {
+              "label": "[Nguồn lực sẵn sàng]",
+              "content": "[Đánh giá nguồn lực]"
+            }
+          ]
+        },
+        "location": {
+          "title": "D. Vị trí địa lý",
+          "items": [
+            {
+              "label": "[Khu vực mục tiêu]",
+              "content": "[Mô tả vị trí]"
+            },
+            {
+              "label": "[Tiêu chí lựa chọn]",
+              "content": "[Chi tiết tiêu chí]"
+            },
+            {
+              "label": "[Chiến lược phủ sóng]",
+              "content": "[Chi tiết chiến lược]"
+            },
+            {
+              "label": "[Kế hoạch mở rộng]",
+              "content": "[Chi tiết kế hoạch]"
+            }
+          ]
+        }
+      }
+    }
+  }

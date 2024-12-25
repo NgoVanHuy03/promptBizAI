@@ -1,0 +1,76 @@
+{
+  "ADVANTAGE_ANALYSIS_DATA":{
+    "title": "7. NHẬN DIỆN LỢI THẾ CẠNH TRANH",
+    "sections": {
+      "competitorBenefits": {
+        "title": "A. Phân tích lợi ích từ đối thủ",
+        "items": [
+          "Lợi ích sản phẩm: - [Lợi ích 1]\n- [Lợi ích 2]\n- [Lợi ích 3]\n- [Lợi ích 4]",
+          "Giá trị cộng thêm: - [Giá trị 1]\n- [Giá trị 2]\n- [Giá trị 3]\n- [Giá trị 4]",
+          "Chính sách khách hàng: - [Chính sách 1]\n- [Chính sách 2]\n- [Chính sách 3]\n- [Chính sách 4]",
+          "Điểm mạnh nổi bật: - [Điểm mạnh 1]\n- [Điểm mạnh 2]\n- [Điểm mạnh 3]\n- [Điểm mạnh 4]",
+          "Điểm yếu tồn tại: - [Điểm yếu 1]\n- [Điểm yếu 2]\n- [Điểm yếu 3]\n- [Điểm yếu 4]"
+        ]
+      },
+      "companyBenefits": {
+        "title": "B. Phân tích lợi ích doanh nghiệp cung cấp",
+        "items": [
+          "Lợi ích sản phẩm: - [Lợi ích 1]\n- [Lợi ích 2]\n- [Lợi ích 3]\n- [Lợi ích 4]",
+          "Giá trị cộng thêm: - [Giá trị 1]\n- [Giá trị 2]\n- [Giá trị 3]\n- [Giá trị 4]",
+          "Chính sách khách hàng: - [Chính sách 1]\n- [Chính sách 2]\n- [Chính sách 3]\n- [Chính sách 4]",
+          "Điểm mạnh nổi bật: - [Điểm mạnh 1]\n- [Điểm mạnh 2]\n- [Điểm mạnh 3]\n- [Điểm mạnh 4]",
+          "Điểm yếu tồn tại: - [Điểm yếu 1]\n- [Điểm yếu 2]\n- [Điểm yếu 3]\n- [Điểm yếu 4]"
+        ]
+      },
+      "differentiation": {
+        "title": "C. Xác định điểm khác biệt",
+        "items": [
+          "Khác biệt về sản phẩm: - [Khác biệt 1]\n- [Khác biệt 2]\n- [Khác biệt 3]\n- [Khác biệt 4]",
+          "Khác biệt về giá: - [Khác biệt 1]\n- [Khác biệt 2]\n- [Khác biệt 3]\n- [Khác biệt 4]",
+          "Khác biệt về dịch vụ: - [Khác biệt 1]\n- [Khác biệt 2]\n- [Khác biệt 3]\n- [Khác biệt 4]",
+          "Khác biệt về công nghệ: - [Khác biệt 1]\n- [Khác biệt 2]\n- [Khác biệt 3]\n- [Khác biệt 4]",
+          "Khác biệt về thương hiệu: - [Khác biệt 1]\n- [Khác biệt 2]\n- [Khác biệt 3]\n- [Khác biệt 4]"
+        ]
+      },
+      "awareness": {
+        "title": "D. Đánh giá mức độ nhận biết của khách hàng",
+        "items": [
+          "Nhận biết thương hiệu: - [Loại 1]: [X]%\n- [Loại 2]: [X]%\n- [Loại 3]: [X]%\n- [Loại 4]: [X]%",
+          "Hiểu biết về sản phẩm: - [Khía cạnh 1]: [X]%\n- [Khía cạnh 2]: [X]%\n- [Khía cạnh 3]: [X]%\n- [Khía cạnh 4]: [X]%",
+          "Đánh giá chất lượng: - [Mức 1]: [X]%\n- [Mức 2]: [X]%\n- [Mức 3]: [X]%\n- [Mức 4]: [X]%",
+          "Mức độ hài lòng: - [Mức 1]: [X]%\n- [Mức 2]: [X]%\n- [Mức 3]: [X]%\n- [Mức 4]: [X]%",
+          "Ý định mua lại: - [Mức 1]: [X]%\n- [Mức 2]: [X]%\n- [Mức 3]: [X]%\n- [Mức 4]: [X]%"
+        ]
+      },
+      "sustainable": {
+        "title": "E. Xác định lợi thế cạnh tranh bền vững",
+        "items": [
+          "Nguồn gốc lợi thế: - [Nguồn gốc 1]\n- [Nguồn gốc 2]\n- [Nguồn gốc 3]\n- [Nguồn gốc 4]",
+          "Tính bền vững: - [Yếu tố 1]\n- [Yếu tố 2]\n- [Yếu tố 3]\n- [Yếu tố 4]",
+          "Khả năng duy trì: - [Giải pháp 1]\n- [Giải pháp 2]\n- [Giải pháp 3]\n- [Giải pháp 4]",
+          "Rủi ro thay thế: - [Rủi ro 1]\n- [Rủi ro 2]\n- [Rủi ro 3]\n- [Rủi ro 4]",
+          "Chiến lược bảo vệ: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]"
+        ]
+      },
+      "swot": {
+        "title": "F. Phân tích SWOT lợi thế cạnh tranh",
+        "items": [
+          "Điểm mạnh (S): - [S1]\n- [S2]\n- [S3]\n- [S4]",
+          "Điểm yếu (W): - [W1]\n- [W2]\n- [W3]\n- [W4]",
+          "Cơ hội (O): - [O1]\n- [O2]\n- [O3]\n- [O4]",
+          "Thách thức (T): - [T1]\n- [T2]\n- [T3]\n- [T4]"
+        ]
+      },
+      "tows": {
+        "title": "G. Chiến lược TOWS",
+        "items": [
+          "Chiến lược SO: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]",
+          "Chiến lược ST: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]",
+          "Chiến lược WO: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]",
+          "Chiến lược WT: - [Chiến lược 1]\n- [Chiến lược 2]\n- [Chiến lược 3]\n- [Chiến lược 4]",
+          "Lộ trình thực hiện: - [Giai đoạn 1]\n- [Giai đoạn 2]\n- [Giai đoạn 3]\n- [Giai đoạn 4]"
+        ]
+      }
+    }
+  }
+}

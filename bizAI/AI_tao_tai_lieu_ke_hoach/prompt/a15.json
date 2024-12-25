@@ -1,0 +1,187 @@
+{
+    "title": "6. PHÂN TÍCH KHÁCH HÀNG",
+    "sections": [
+      {
+        "id": "A",
+        "title": "Khách hàng cá nhân",
+        "items": [
+          {
+            "name": "Đặc điểm nhân khẩu học",
+            "status": "[Chi tiết về đặc điểm dân số]"
+          },
+          {
+            "name": "Mức thu nhập",
+            "status": "[Thông tin về thu nhập]"
+          },
+          {
+            "name": "Hành vi mua hàng",
+            "status": "[Chi tiết hành vi mua hàng]"
+          },
+          {
+            "name": "Giá trị trung bình/đơn hàng",
+            "status": "[Giá trị đơn hàng]"
+          },
+          {
+            "name": "Tần suất mua hàng",
+            "status": "[Thông tin tần suất]"
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "title": "Khách hàng doanh nghiệp",
+        "items": [
+          {
+            "name": "Quy mô doanh nghiệp",
+            "status": "[Thông tin quy mô]"
+          },
+          {
+            "name": "Ngành nghề hoạt động",
+            "status": "[Chi tiết ngành nghề]"
+          },
+          {
+            "name": "Nhu cầu đặc thù",
+            "status": "[Chi tiết nhu cầu]"
+          },
+          {
+            "name": "Quy trình mua hàng",
+            "status": "[Thông tin quy trình]"
+          },
+          {
+            "name": "Ngân sách mua hàng",
+            "status": "[Chi tiết ngân sách]"
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "title": "Khách hàng nhóm mua",
+        "items": [
+          {
+            "name": "Đặc điểm nhóm",
+            "status": "[Chi tiết đặc điểm]"
+          },
+          {
+            "name": "Quy mô nhóm",
+            "status": "[Thông tin quy mô]"
+          },
+          {
+            "name": "Động cơ mua chung",
+            "status": "[Chi tiết động cơ]"
+          },
+          {
+            "name": "Người ra quyết định",
+            "status": "[Thông tin quyết định]"
+          },
+          {
+            "name": "Tần suất mua",
+            "status": "[Chi tiết tần suất]"
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "title": "Khách hàng VIP",
+        "items": [
+          {
+            "name": "Tiêu chí phân loại VIP",
+            "status": "[Chi tiết tiêu chí]"
+          },
+          {
+            "name": "Đặc quyền VIP",
+            "status": "[Chi tiết đặc quyền]"
+          },
+          {
+            "name": "Giá trị mang lại",
+            "status": "[Chi tiết giá trị]"
+          },
+          {
+            "name": "Chính sách chăm sóc",
+            "status": "[Chi tiết chính sách]"
+          },
+          {
+            "name": "Tỷ lệ duy trì",
+            "status": "[Thông tin tỷ lệ]"
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "title": "Khách hàng lẻ",
+        "items": [
+          {
+            "name": "Đặc điểm chung",
+            "status": "[Chi tiết đặc điểm]"
+          },
+          {
+            "name": "Giá trị đơn hàng",
+            "status": "[Thông tin giá trị]"
+          },
+          {
+            "name": "Tần suất mua",
+            "status": "[Chi tiết tần suất]"
+          },
+          {
+            "name": "Kênh mua hàng",
+            "status": "[Thông tin kênh]"
+          },
+          {
+            "name": "Chiến lược phục vụ",
+            "status": "[Chi tiết chiến lược]"
+          }
+        ]
+      },
+      {
+        "id": "F",
+        "title": "Đặc điểm và thói quen mua hàng",
+        "items": [
+          {
+            "name": "Thời điểm mua",
+            "status": "[Chi tiết thời điểm]"
+          },
+          {
+            "name": "Địa điểm mua",
+            "status": "[Thông tin địa điểm]"
+          },
+          {
+            "name": "Phương thức thanh toán",
+            "status": "[Chi tiết thanh toán]"
+          },
+          {
+            "name": "Yếu tố quyết định",
+            "status": "[Chi tiết yếu tố]"
+          },
+          {
+            "name": "Mức độ trung thành",
+            "status": "[Thông tin mức độ]"
+          }
+        ]
+      },
+      {
+        "id": "G",
+        "title": "Nhu cầu và mong muốn cụ thể",
+        "items": [
+          {
+            "name": "Nhu cầu cơ bản",
+            "status": "[Chi tiết nhu cầu]"
+          },
+          {
+            "name": "Mong muốn đặc biệt",
+            "status": "[Chi tiết mong muốn]"
+          },
+          {
+            "name": "Xu hướng thay đổi",
+            "status": "[Chi tiết xu hướng]"
+          },
+          {
+            "name": "Mức độ hài lòng",
+            "status": "[Thông tin hài lòng]"
+          },
+          {
+            "name": "Đề xuất cải thiện",
+            "status": "[Chi tiết đề xuất]"
+          }
+        ]
+      }
+    ]
+  }

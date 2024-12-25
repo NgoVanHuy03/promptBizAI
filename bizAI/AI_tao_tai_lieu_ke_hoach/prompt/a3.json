@@ -1,0 +1,166 @@
+{
+    "CHART_DATA": {
+      "revenue": {
+        "sources": [
+          { "name": "[Nguồn doanh thu 1]", "value": "[X]" },
+          { "name": "[Nguồn doanh thu 2]", "value": "[X]" },
+          { "name": "[Nguồn doanh thu 3]", "value": "[X]" }
+        ],
+        "forecast": [
+          { "year": "[Năm 1]", "amount": "[X]", "growth": "[X]" },
+          { "year": "[Năm 2]", "amount": "[X]", "growth": "[X]" },
+          { "year": "[Năm 3]", "amount": "[X]", "growth": "[X]" }
+        ],
+        "monthlyTrend": [
+          { "month": "[1]", "value": "[X]" },
+          { "month": "[2]", "value": "[X]" },
+          { "month": "[3]", "value": "[X]" },
+          { "month": "[4]", "value": "[X]" },
+          { "month": "[5]", "value": "[X]" },
+          { "month": "[6]", "value": "[X]" }
+        ]
+      },
+      "costs": {
+        "fixed": [
+          { "name": "[Chi phí cố định 1]", "value": "[X]" },
+          { "name": "[Chi phí cố định 2]", "value": "[X]" },
+          { "name": "[Chi phí cố định 3]", "value": "[X]" },
+          { "name": "[Chi phí cố định 4]", "value": "[X]" }
+        ],
+        "variable": [
+          { "name": "[Chi phí biến đổi 1]", "value": "[X]" },
+          { "name": "[Chi phí biến đổi 2]", "value": "[X]" },
+          { "name": "[Chi phí biến đổi 3]", "value": "[X]" },
+          { "name": "[Chi phí biến đổi 4]", "value": "[X]" }
+        ],
+        "yearly": [
+          { "year": "[Năm 1]", "amount": "[X]" },
+          { "year": "[Năm 2]", "amount": "[X]" },
+          { "year": "[Năm 3]", "amount": "[X]" }
+        ]
+      },
+      "profitAnalysis": [
+        { "year": "[Năm 1]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+        { "year": "[Năm 2]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+        { "year": "[Năm 3]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" }
+      ],
+      "pricing": {
+        "comparison": [
+          { "category": "[Loại cửa hàng 1]", "price": "[X]" },
+          { "category": "[Loại cửa hàng 2]", "price": "[X]" },
+          { "category": "[Loại cửa hàng 3]", "price": "[X]" }
+        ],
+        "margin": [
+          { "category": "[Thành phần 1]", "value": "[X]" },
+          { "category": "[Thành phần 2]", "value": "[X]" },
+          { "category": "[Thành phần 3]", "value": "[X]" }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "3. MÔ HÌNH KINH DOANH",
+      "sectionA": {
+        "title": "A. Phương thức tạo doanh thu",
+        "revenue": {
+          "title": "Nguồn doanh thu chính",
+          "sources": [
+            {
+              "name": "[Nguồn doanh thu 1]",
+              "desc": "[Mô tả nguồn doanh thu 1]"
+            },
+            {
+              "name": "[Nguồn doanh thu 2]",
+              "desc": "[Mô tả nguồn doanh thu 2]"
+            },
+            {
+              "name": "[Nguồn doanh thu 3]",
+              "desc": "[Mô tả nguồn doanh thu 3]"
+            }
+          ]
+        },
+        "payment": {
+          "title": "Cách thức thu tiền",
+          "methods": [
+            "[Phương thức thanh toán 1]",
+            "[Phương thức thanh toán 2]",
+            "[Phương thức thanh toán 3]",
+            "[Phương thức thanh toán 4]"
+          ],
+          "cycle": "[Chu kỳ thu tiền]",
+          "policy": "[Chính sách công nợ]"
+        }
+      },
+      "sectionB": {
+        "title": "B. Chi phí sản xuất và bán hàng",
+        "fixedCosts": {
+          "title": "Chi phí cố định",
+          "desc": [
+            {
+              "name": "[Chi phí cố định 1]",
+              "detail": "[Chi tiết chi phí 1]"
+            },
+            {
+              "name": "[Chi phí cố định 2]",
+              "detail": "[Chi tiết chi phí 2]"
+            },
+            {
+              "name": "[Chi phí cố định 3]",
+              "detail": "[Chi tiết chi phí 3]"
+            },
+            {
+              "name": "[Chi phí cố định 4]",
+              "detail": "[Chi tiết chi phí 4]"
+            }
+          ]
+        },
+        "variableCosts": {
+          "title": "Chi phí biến đổi",
+          "desc": [
+            {
+              "name": "[Chi phí biến đổi 1]",
+              "detail": "[Chi tiết chi phí 1]"
+            },
+            {
+              "name": "[Chi phí biến đổi 2]",
+              "detail": "[Chi tiết chi phí 2]"
+            },
+            {
+              "name": "[Chi phí biến đổi 3]",
+              "detail": "[Chi tiết chi phí 3]"
+            },
+            {
+              "name": "[Chi phí biến đổi 4]",
+              "detail": "[Chi tiết chi phí 4]"
+            }
+          ]
+        }
+      },
+      "sectionC": {
+        "title": "C. Cơ cấu giá bán",
+        "pricing": {
+          "title": "Phương pháp định giá",
+          "cost": "[Công thức tính giá thành]",
+          "margin": "[Biên lợi nhuận mục tiêu]",
+          "comparison": "[So sánh giá]"
+        },
+        "policy": {
+          "title": "Chính sách giá",
+          "discount": [
+            "[Chính sách giảm giá 1]",
+            "[Chính sách giảm giá 2]",
+            "[Chính sách giảm giá 3]"
+          ],
+          "promotion": [
+            "[Chương trình khuyến mãi 1]",
+            "[Chương trình khuyến mãi 2]",
+            "[Chương trình khuyến mãi 3]"
+          ],
+          "adjustment": [
+            "[Chính sách điều chỉnh 1]",
+            "[Chính sách điều chỉnh 2]",
+            "[Chính sách điều chỉnh 3]"
+          ]
+        }
+      }
+    }
+  }

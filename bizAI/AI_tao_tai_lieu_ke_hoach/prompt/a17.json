@@ -1,0 +1,57 @@
+{
+  "SMART_OBJECTIVES_DATA":{
+    "title": "1. MỤC TIÊU MARKETING (SMART)",
+    "sections": {
+      "specific": {
+        "title": "A. Mục tiêu cụ thể (Specific)",
+        "items": [
+          "Thị phần mục tiêu: - [Chỉ tiêu thị phần]\n- [Mục tiêu tăng trưởng]\n- [Vị trí thương hiệu]",
+          "Doanh số dự kiến: - Q1: [X]\n- Q2: [X]\n- Q3: [X]\n- Q4: [X]",
+          "Số lượng khách hàng mới: - [Mục tiêu khách mới]\n- [Tỷ lệ active]\n- [Tỷ lệ recurring]",
+          "Tỷ lệ chuyển đổi: - Online: [X]%\n- Offline: [X]%\n- Loyalty: [X]%",
+          "Độ phủ thị trường: - [Phạm vi địa lý]\n- [Số điểm bán]\n- [Độ phủ sóng]"
+        ]
+      },
+      "measurable": {
+        "title": "B. Mục tiêu đo lường được (Measurable)",
+        "items": [
+          "Chỉ số KPI chính: - [KPI 1]\n- [KPI 2]\n- [KPI 3]\n- [KPI 4]",
+          "Công cụ đo lường: - [Công cụ 1]\n- [Công cụ 2]\n- [Công cụ 3]\n- [Công cụ 4]",
+          "Tần suất đánh giá: - Daily: [X]\n- Weekly: [X]\n- Monthly: [X]\n- Quarterly: [X]",
+          "Người chịu trách nhiệm: - [Vị trí 1]: [X]\n- [Vị trí 2]: [X]\n- [Vị trí 3]: [X]\n- [Vị trí 4]: [X]",
+          "Phương pháp theo dõi: - [Phương pháp 1]\n- [Phương pháp 2]\n- [Phương pháp 3]\n- [Phương pháp 4]"
+        ]
+      },
+      "achievable": {
+        "title": "C. Mục tiêu khả thi (Achievable)",
+        "items": [
+          "Nguồn lực hiện có: - [Ngân sách]\n- [Nhân sự]\n- [Cơ sở vật chất]\n- [Công nghệ]",
+          "Khả năng thực hiện: - [Yếu tố 1]\n- [Yếu tố 2]\n- [Yếu tố 3]\n- [Yếu tố 4]",
+          "Điều kiện cần thiết: - [Điều kiện 1]\n- [Điều kiện 2]\n- [Điều kiện 3]\n- [Điều kiện 4]",
+          "Rủi ro tiềm ẩn: - [Rủi ro 1]\n- [Rủi ro 2]\n- [Rủi ro 3]\n- [Rủi ro 4]",
+          "Giải pháp hỗ trợ: - [Giải pháp 1]\n- [Giải pháp 2]\n- [Giải pháp 3]\n- [Giải pháp 4]"
+        ]
+      },
+      "realistic": {
+        "title": "D. Mục tiêu thực tế (Realistic)",
+        "items": [
+          "Phù hợp thị trường: - [Yếu tố 1]\n- [Yếu tố 2]\n- [Yếu tố 3]",
+          "Phù hợp năng lực: - [Khả năng 1]\n- [Khả năng 2]\n- [Khả năng 3]",
+          "Phù hợp ngân sách: - [Chỉ tiêu 1]\n- [Chỉ tiêu 2]\n- [Chỉ tiêu 3]",
+          "Phù hợp xu hướng: - [Xu hướng 1]\n- [Xu hướng 2]\n- [Xu hướng 3]",
+          "Tính khả thi: - [Đánh giá 1]\n- [Đánh giá 2]\n- [Đánh giá 3]"
+        ]
+      },
+      "timebound": {
+        "title": "E. Mục tiêu có thời hạn (Time-bound)",
+        "items": [
+          "Thời gian bắt đầu: - Preparation: [X]\n- Soft launch: [X]\n- Official launch: [X]",
+          "Thời gian kết thúc: - Phase 1: [X]\n- Phase 2: [X]\n- Evaluation: [X]",
+          "Các mốc quan trọng: - M1: [X]\n- M2: [X]\n- M3: [X]\n- M4: [X]",
+          "Lộ trình thực hiện: - [Giai đoạn 1]: [X]\n- [Giai đoạn 2]: [X]\n- [Giai đoạn 3]: [X]\n- [Giai đoạn 4]: [X]",
+          "Đánh giá định kỳ: - Weekly: [X]\n- Monthly: [X]\n- Quarterly: [X]\n- Yearly: [X]"
+        ]
+      }
+    }
+  }
+}

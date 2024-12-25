@@ -1,0 +1,212 @@
+{
+"TEXT_CONTENT": {
+    "title": "3. PHƯƠNG PHÁP TÍNH LƯƠNG",
+    "sectionA": {
+      "title": "A. Trả công theo thời gian",
+      "basicSalary": {
+        "title": "Lương thời gian cơ bản",
+        "formulas": [
+          {
+            "name": "Lương ngày",
+            "formula": "[Công thức tính lương ngày]"
+          },
+          {
+            "name": "Lương tuần",
+            "formula": "[Công thức tính lương tuần]"
+          },
+          {
+            "name": "Lương tháng",
+            "formula": "[Công thức tính lương tháng]"
+          }
+        ]
+      },
+      "appliedFor": {
+        "title": "Áp dụng cho",
+        "positions": [
+          {
+            "role": "Nhân viên hành chính",
+            "rules": "[Quy tắc áp dụng cho nhân viên hành chính]"
+          },
+          {
+            "role": "Nhân viên quản lý",
+            "rules": "[Quy tắc áp dụng cho nhân viên quản lý]"
+          },
+          {
+            "role": "Nhân viên kỹ thuật",
+            "rules": "[Quy tắc áp dụng cho nhân viên kỹ thuật]"
+          }
+        ]
+      },
+      "calculation": {
+        "title": "Cách tính",
+        "methods": [
+          {
+            "aspect": "Thời gian làm việc",
+            "measurement": "[Phương pháp đo lường thời gian]"
+          },
+          {
+            "aspect": "Hệ số lương",
+            "measurement": "[Cách xác định hệ số lương]"
+          },
+          {
+            "aspect": "Phụ cấp theo giờ",
+            "measurement": "[Chi tiết phụ cấp theo giờ]"
+          },
+          {
+            "aspect": "Làm thêm giờ",
+            "measurement": "[Quy định làm thêm giờ]"
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Trả công theo sản phẩm",
+      "productNorms": {
+        "title": "Định mức sản phẩm",
+        "items": [
+          {
+            "aspect": "Đơn giá sản phẩm",
+            "details": "[Chi tiết đơn giá sản phẩm]"
+          },
+          {
+            "aspect": "Tiêu chuẩn chất lượng",
+            "details": "[Chi tiết tiêu chuẩn chất lượng]"
+          },
+          {
+            "aspect": "Định mức thời gian",
+            "details": "[Chi tiết định mức thời gian]"
+          },
+          {
+            "aspect": "Điều kiện áp dụng",
+            "details": "[Chi tiết điều kiện áp dụng]"
+          }
+        ]
+      },
+      "calculation": {
+        "title": "Cách tính",
+        "methods": [
+          {
+            "aspect": "Số lượng sản phẩm",
+            "formula": "[Phương pháp tính số lượng]"
+          },
+          {
+            "aspect": "Đơn giá",
+            "formula": "[Cách xác định đơn giá]"
+          },
+          {
+            "aspect": "Thưởng vượt định mức",
+            "formula": "[Cách tính thưởng vượt mức]"
+          },
+          {
+            "aspect": "Phạt không đạt chất lượng",
+            "formula": "[Cách tính phạt chất lượng]"
+          }
+        ]
+      },
+      "appliedFor": {
+        "title": "Áp dụng cho",
+        "positions": [
+          {
+            "role": "Công nhân sản xuất",
+            "details": "[Chi tiết áp dụng cho công nhân]"
+          },
+          {
+            "role": "Nhân viên bán hàng",
+            "details": "[Chi tiết áp dụng cho nhân viên bán hàng]"
+          },
+          {
+            "role": "Lao động thời vụ",
+            "details": "[Chi tiết áp dụng cho lao động thời vụ]"
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Trả lương theo hệ thống 3P",
+      "position": {
+        "title": "Position (Vị trí)",
+        "items": [
+          {
+            "aspect": "Bảng mô tả công việc",
+            "details": "[Chi tiết mô tả công việc]"
+          },
+          {
+            "aspect": "Hệ số vị trí",
+            "details": "[Chi tiết hệ số vị trí]"
+          },
+          {
+            "aspect": "Yêu cầu năng lực",
+            "details": "[Chi tiết yêu cầu năng lực]"
+          },
+          {
+            "aspect": "Mức lương cơ sở",
+            "details": "[Chi tiết mức lương cơ sở]"
+          }
+        ]
+      },
+      "person": {
+        "title": "Person (Cá nhân)",
+        "items": [
+          {
+            "aspect": "Trình độ chuyên môn",
+            "details": "[Chi tiết trình độ chuyên môn]"
+          },
+          {
+            "aspect": "Kinh nghiệm",
+            "details": "[Chi tiết kinh nghiệm]"
+          },
+          {
+            "aspect": "Kỹ năng đặc biệt",
+            "details": "[Chi tiết kỹ năng đặc biệt]"
+          },
+          {
+            "aspect": "Đóng góp cá nhân",
+            "details": "[Chi tiết đóng góp cá nhân]"
+          }
+        ]
+      },
+      "performance": {
+        "title": "Performance (Hiệu quả)",
+        "items": [
+          {
+            "aspect": "KPIs cá nhân",
+            "details": "[Chi tiết KPIs cá nhân]"
+          },
+          {
+            "aspect": "Đánh giá định kỳ",
+            "details": "[Chi tiết đánh giá định kỳ]"
+          },
+          {
+            "aspect": "Thưởng hiệu quả",
+            "details": "[Chi tiết thưởng hiệu quả]"
+          },
+          {
+            "aspect": "Điều chỉnh lương",
+            "details": "[Chi tiết điều chỉnh lương]"
+          }
+        ]
+      },
+      "calculation": {
+        "title": "Công thức tính",
+        "formulas": [
+          {
+            "aspect": "Lương cơ bản",
+            "formula": "[Công thức tính lương cơ bản]"
+          },
+          {
+            "aspect": "Hệ số điều chỉnh",
+            "formula": "[Công thức tính hệ số điều chỉnh]"
+          },
+          {
+            "aspect": "Thưởng hiệu quả",
+            "formula": "[Công thức tính thưởng hiệu quả]"
+          },
+          {
+            "aspect": "Tổng thu nhập",
+            "formula": "[Công thức tính tổng thu nhập]"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+    "TEXT_CONTENT": {
+    "title": "6. DỰ BÁO NHU CẦU VỐN",
+    "sectionA": {
+      "title": "A. Lập bảng cân đối kế toán mẫu",
+      "currentAssets": {
+        "title": "Tài sản ngắn hạn dự kiến",
+        "items": [
+          {
+            "name": "Tiền và tương đương tiền",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Các khoản phải thu",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Hàng tồn kho",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Tài sản ngắn hạn khác",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Tổng nhu cầu",
+            "amount": "[Tổng số tiền]",
+            "note": "[Ghi chú]"
+          }
+        ]
+      },
+      "longTermAssets": {
+        "title": "Tài sản dài hạn dự kiến",
+        "items": [
+          {
+            "name": "Tài sản cố định",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Đầu tư dài hạn",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Chi phí trả trước dài hạn",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Tổng nhu cầu",
+            "amount": "[Tổng số tiền]",
+            "note": "[Ghi chú]"
+          }
+        ]
+      },
+      "capital": {
+        "title": "Nguồn vốn dự kiến",
+        "items": [
+          {
+            "name": "Nợ ngắn hạn",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Nợ dài hạn",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]"
+            ]
+          },
+          {
+            "name": "Vốn chủ sở hữu",
+            "amount": "[Số tiền]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Tổng nguồn vốn",
+            "amount": "[Tổng số tiền]",
+            "note": "[Ghi chú]"
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Phân tích chu kỳ vốn",
+      "businessCycle": {
+        "title": "Chu kỳ kinh doanh",
+        "items": [
+          {
+            "name": "Kỳ mua hàng",
+            "days": "[Số ngày]",
+            "description": "[Mô tả]"
+          },
+          {
+            "name": "Kỳ tồn kho",
+            "days": "[Số ngày]",
+            "description": "[Mô tả]"
+          },
+          {
+            "name": "Kỳ thu tiền",
+            "days": "[Số ngày]",
+            "description": "[Mô tả]"
+          },
+          {
+            "name": "Tổng chu kỳ",
+            "days": "[Tổng số ngày]",
+            "calculation": "[Cách tính]"
+          }
+        ]
+      },
+      "workingCapital": {
+        "title": "Nhu cầu vốn lưu động",
+        "fixedCapital": {
+          "title": "Vốn cố định",
+          "items": [
+            {
+              "name": "Đầu tư ban đầu",
+              "amount": "[Số tiền]",
+              "details": [
+                "[Chi tiết 1]",
+                "[Chi tiết 2]",
+                "[Chi tiết 3]"
+              ]
+            },
+            {
+              "name": "Mở rộng sản xuất",
+              "amount": "[Số tiền]",
+              "timeline": "[Thời gian]"
+            },
+            {
+              "name": "Đổi mới công nghệ",
+              "amount": "[Số tiền]",
+              "timeline": "[Thời gian]"
+            }
+          ]
+        },
+        "workingCapital": {
+          "title": "Vốn lưu động",
+          "items": [
+            {
+              "name": "Dự trữ nguyên vật liệu",
+              "amount": "[Số tiền]",
+              "cycle": "[Chu kỳ]"
+            },
+            {
+              "name": "Công nợ phải thu",
+              "amount": "[Số tiền]",
+              "cycle": "[Chu kỳ]"
+            }
+          ]
+        }
+      },
+      "timingNeeds": {
+        "title": "Thời điểm nhu cầu vốn",
+        "phases": [
+          {
+            "name": "[Giai đoạn 1]",
+            "amount": "[Số tiền]",
+            "period": "[Thời kỳ]",
+            "usage": [
+              "[Mục đích 1]",
+              "[Mục đích 2]"
+            ]
+          },
+          {
+            "name": "[Giai đoạn 2]",
+            "amount": "[Số tiền]",
+            "period": "[Thời kỳ]",
+            "usage": [
+              "[Mục đích 1]",
+              "[Mục đích 2]"
+            ]
+          },
+          {
+            "name": "[Giai đoạn 3]",
+            "amount": "[Số tiền]",
+            "period": "[Thời kỳ]",
+            "usage": [
+              "[Mục đích 1]",
+              "[Mục đích 2]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Giải pháp tài trợ",
+      "shortTerm": {
+        "title": "Nguồn tài trợ ngắn hạn",
+        "items": [
+          {
+            "name": "Tín dụng thương mại",
+            "amount": "[Số tiền]",
+            "terms": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]",
+              "[Điều khoản 3]"
+            ]
+          },
+          {
+            "name": "Vay ngắn hạn",
+            "amount": "[Số tiền]",
+            "terms": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]",
+              "[Điều khoản 3]"
+            ]
+          },
+          {
+            "name": "Chiết khấu công nợ",
+            "amount": "[Số tiền]",
+            "terms": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]"
+            ]
+          }
+        ]
+      },
+      "longTerm": {
+        "title": "Nguồn tài trợ dài hạn",
+        "items": [
+          {
+            "name": "Vốn cổ phần",
+            "amount": "[Số tiền]",
+            "structure": [
+              "[Cơ cấu 1]",
+              "[Cơ cấu 2]"
+            ]
+          },
+          {
+            "name": "Vay dài hạn",
+            "amount": "[Số tiền]",
+            "terms": [
+              "[Điều khoản 1]",
+              "[Điều khoản 2]",
+              "[Điều khoản 3]"
+            ]
+          },
+          {
+            "name": "Lợi nhuận giữ lại",
+            "amount": "[Số tiền]",
+            "policy": [
+              "[Chính sách 1]",
+              "[Chính sách 2]"
+            ]
+          }
+        ]
+      },
+      "efficiency": {
+        "title": "Phân tích hiệu quả",
+        "items": [
+          {
+            "name": "Chi phí vốn",
+            "calculation": "[Công thức]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]"
+            ]
+          },
+          {
+            "name": "Rủi ro tài chính",
+            "assessment": [
+              "[Đánh giá 1]",
+              "[Đánh giá 2]",
+              "[Đánh giá 3]"
+            ]
+          },
+          {
+            "name": "Khả năng trả nợ",
+            "analysis": [
+              "[Phân tích 1]",
+              "[Phân tích 2]",
+              "[Phân tích 3]"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

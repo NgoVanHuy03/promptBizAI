@@ -1,0 +1,302 @@
+{
+    "TEXT_CONTENT": {
+    "title": "5. XÁC ĐỊNH ĐIỂM HÒA VỐN",
+    "sectionA": {
+      "title": "A. Phân loại chi phí",
+      "fixedCosts": {
+        "title": "Chi phí cố định",
+        "items": [
+          {
+            "name": "Chi phí cố định trực tiếp",
+            "value": "[Giá trị chi phí cố định trực tiếp]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]",
+              "[Chi tiết 4]"
+            ]
+          },
+          {
+            "name": "Chi phí cố định gián tiếp",
+            "value": "[Giá trị chi phí cố định gián tiếp]",
+            "breakdown": [
+              "[Chi tiết 1]",
+              "[Chi tiết 2]",
+              "[Chi tiết 3]",
+              "[Chi tiết 4]"
+            ]
+          },
+          {
+            "name": "Tổng chi phí cố định",
+            "value": "[Tổng chi phí]",
+            "calculation": "[Cách tính tổng chi phí]"
+          },
+          {
+            "name": "Biến động theo thời gian",
+            "forecast": [
+              "[Dự báo Q1-Q2]",
+              "[Dự báo Q3]",
+              "[Dự báo Q4]",
+              "[Dự báo năm sau]"
+            ]
+          }
+        ]
+      },
+      "variableCosts": {
+        "title": "Chi phí biến đổi",
+        "items": [
+          {
+            "name": "Chi phí biến đổi theo sản phẩm",
+            "breakdown": {
+              "coffee": {
+                "name": "[Tên sản phẩm 1]",
+                "avgCost": "[Chi phí trung bình]",
+                "details": [
+                  "[Chi tiết 1]",
+                  "[Chi tiết 2]",
+                  "[Chi tiết 3]",
+                  "[Chi tiết 4]"
+                ]
+              },
+              "tea": {
+                "name": "[Tên sản phẩm 2]",
+                "avgCost": "[Chi phí trung bình]",
+                "details": [
+                  "[Chi tiết 1]",
+                  "[Chi tiết 2]",
+                  "[Chi tiết 3]",
+                  "[Chi tiết 4]"
+                ]
+              }
+            }
+          },
+          {
+            "name": "Tỷ lệ chi phí biến đổi/doanh thu",
+            "value": "[Tỷ lệ phần trăm]",
+            "breakdown": [
+              "[Chi tiết tỷ lệ 1]",
+              "[Chi tiết tỷ lệ 2]",
+              "[Chi tiết tỷ lệ 3]"
+            ]
+          },
+          {
+            "name": "Xu hướng biến động",
+            "trends": [
+              "[Xu hướng 1]",
+              "[Xu hướng 2]",
+              "[Xu hướng 3]"
+            ]
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Tính toán điểm hòa vốn",
+      "quantityAnalysis": {
+        "title": "Theo số lượng",
+        "items": [
+          {
+            "name": "Công thức tính",
+            "formula": {
+              "text": "[Công thức]",
+              "variables": [
+                "[Biến 1]",
+                "[Biến 2]",
+                "[Biến 3]"
+              ]
+            }
+          },
+          {
+            "name": "Kết quả tính toán",
+            "result": "[Kết quả]",
+            "calculation": "[Chi tiết tính toán]"
+          },
+          {
+            "name": "Thời gian đạt điểm hòa vốn",
+            "timeline": {
+              "estimate": "[Ước tính thời gian]",
+              "phases": [
+                "[Giai đoạn 1]",
+                "[Giai đoạn 2]",
+                "[Giai đoạn 3]",
+                "[Giai đoạn 4]"
+              ]
+            }
+          },
+          {
+            "name": "Biên an toàn",
+            "value": "[Tỷ lệ]",
+            "explanation": "[Giải thích]"
+          }
+        ]
+      },
+      "revenueAnalysis": {
+        "title": "Theo doanh thu",
+        "items": [
+          {
+            "name": "Công thức tính",
+            "formula": {
+              "text": "[Công thức]",
+              "variables": [
+                "[Biến 1]",
+                "[Biến 2]"
+              ]
+            }
+          },
+          {
+            "name": "Kết quả tính toán",
+            "result": "[Kết quả]",
+            "calculation": "[Chi tiết tính toán]"
+          },
+          {
+            "name": "Tỷ lệ đóng góp biên",
+            "value": "[Tỷ lệ]",
+            "explanation": "[Giải thích]"
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Phân tích điểm hòa vốn",
+      "factors": {
+        "title": "Các yếu tố ảnh hưởng",
+        "items": [
+          {
+            "name": "Biến động giá bán",
+            "impact": [
+              "[Tác động 1]",
+              "[Tác động 2]",
+              "[Tác động 3]"
+            ]
+          },
+          {
+            "name": "Thay đổi chi phí",
+            "impact": [
+              "[Tác động 1]",
+              "[Tác động 2]",
+              "[Tác động 3]"
+            ]
+          },
+          {
+            "name": "Cơ cấu sản phẩm",
+            "impact": [
+              "[Tác động 1]",
+              "[Tác động 2]",
+              "[Tác động 3]"
+            ]
+          }
+        ]
+      },
+      "scenarios": {
+        "title": "Kịch bản phân tích",
+        "items": [
+          {
+            "name": "Kịch bản lạc quan",
+            "details": {
+              "assumptions": [
+                "[Giả định 1]",
+                "[Giả định 2]",
+                "[Giả định 3]"
+              ],
+              "breakeven": {
+                "point": "[Số lượng]",
+                "time": "[Thời gian]"
+              }
+            }
+          },
+          {
+            "name": "Kịch bản cơ sở",
+            "details": {
+              "assumptions": [
+                "[Giả định 1]",
+                "[Giả định 2]",
+                "[Giả định 3]"
+              ],
+              "breakeven": {
+                "point": "[Số lượng]",
+                "time": "[Thời gian]"
+              }
+            }
+          },
+          {
+            "name": "Kịch bản thận trọng",
+            "details": {
+              "assumptions": [
+                "[Giả định 1]",
+                "[Giả định 2]",
+                "[Giả định 3]"
+              ],
+              "breakeven": {
+                "point": "[Số lượng]",
+                "time": "[Thời gian]"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "sectionD": {
+      "title": "D. Ứng dụng trong quản lý",
+      "businessDecisions": {
+        "title": "Quyết định kinh doanh",
+        "items": [
+          {
+            "name": "Định giá sản phẩm",
+            "strategy": [
+              "[Chiến lược 1]",
+              "[Chiến lược 2]",
+              "[Chiến lược 3]"
+            ]
+          },
+          {
+            "name": "Quy mô sản xuất",
+            "optimization": [
+              "[Tối ưu 1]",
+              "[Tối ưu 2]",
+              "[Tối ưu 3]"
+            ]
+          },
+          {
+            "name": "Chiến lược bán hàng",
+            "plans": [
+              "[Kế hoạch 1]",
+              "[Kế hoạch 2]",
+              "[Kế hoạch 3]"
+            ]
+          }
+        ]
+      },
+      "control": {
+        "title": "Kiểm soát và dự báo",
+        "items": [
+          {
+            "name": "Chỉ tiêu giám sát",
+            "metrics": [
+              "[Chỉ tiêu 1]",
+              "[Chỉ tiêu 2]",
+              "[Chỉ tiêu 3]",
+              "[Chỉ tiêu 4]"
+            ]
+          },
+          {
+            "name": "Cảnh báo sớm",
+            "thresholds": [
+              "[Ngưỡng 1]",
+              "[Ngưỡng 2]",
+              "[Ngưỡng 3]"
+            ]
+          },
+          {
+            "name": "Biện pháp điều chỉnh",
+            "actions": [
+              "[Biện pháp 1]",
+              "[Biện pháp 2]",
+              "[Biện pháp 3]",
+              "[Biện pháp 4]"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

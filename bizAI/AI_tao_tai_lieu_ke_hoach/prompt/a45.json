@@ -1,0 +1,204 @@
+{
+"RISK_IDENTIFICATION_DATA" :{
+    "title": "2. NHẬN DIỆN RỦI RO - COFFEE GARDEN",
+    "internalRisks": {
+      "title": "A. Rủi ro từ môi trường bên trong",
+      "categories": [
+        {
+          "name": "Rủi ro về con người",
+          "risks": [
+            {
+              "name": "[Rủi ro nhân sự 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro nhân sự 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro nhân sự 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro nhân sự 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro vận hành",
+          "risks": [
+            {
+              "name": "[Rủi ro vận hành 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro vận hành 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro vận hành 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro vận hành 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro tài chính nội bộ",
+          "risks": [
+            {
+              "name": "[Rủi ro tài chính 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro tài chính 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro tài chính 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro tài chính 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro quản trị",
+          "risks": [
+            {
+              "name": "[Rủi ro quản trị 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro quản trị 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro quản trị 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro quản trị 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        }
+      ]
+    },
+    "externalRisks": {
+      "title": "B. Rủi ro từ bên ngoài",
+      "categories": [
+        {
+          "name": "Rủi ro thị trường",
+          "risks": [
+            {
+              "name": "[Rủi ro thị trường 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro thị trường 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro thị trường 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro thị trường 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro kinh tế",
+          "risks": [
+            {
+              "name": "[Rủi ro kinh tế 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro kinh tế 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro kinh tế 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro kinh tế 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro pháp lý",
+          "risks": [
+            {
+              "name": "[Rủi ro pháp lý 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro pháp lý 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro pháp lý 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro pháp lý 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro tự nhiên",
+          "risks": [
+            {
+              "name": "[Rủi ro tự nhiên 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro tự nhiên 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro tự nhiên 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro tự nhiên 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        },
+        {
+          "name": "Rủi ro địa phương",
+          "risks": [
+            {
+              "name": "[Rủi ro địa phương 1]",
+              "status": "[Trạng thái 1]"
+            },
+            {
+              "name": "[Rủi ro địa phương 2]",
+              "status": "[Trạng thái 2]"
+            },
+            {
+              "name": "[Rủi ro địa phương 3]",
+              "status": "[Trạng thái 3]"
+            },
+            {
+              "name": "[Rủi ro địa phương 4]",
+              "status": "[Trạng thái 4]"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

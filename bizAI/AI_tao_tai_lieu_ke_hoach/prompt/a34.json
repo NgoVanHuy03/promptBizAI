@@ -1,0 +1,285 @@
+{
+"TEXT_CONTENT": {
+    "title": "2. NỘI DUNG KẾ HOẠCH NHÂN SỰ - COFFEE GARDEN",
+    "sectionA": {
+      "title": "A. Tổ chức bộ máy quản trị",
+      "functions": {
+        "title": "Phân tích hoạt động chức năng",
+        "items": [
+          {
+            "name": "Hoạt động sản xuất/vận hành",
+            "desc": "[Chi tiết hoạt động sản xuất và vận hành]"
+          },
+          {
+            "name": "Hoạt động marketing/bán hàng",
+            "desc": "[Chi tiết hoạt động marketing và bán hàng]"
+          },
+          {
+            "name": "Hoạt động tài chính/kế toán",
+            "desc": "[Chi tiết hoạt động tài chính và kế toán]"
+          },
+          {
+            "name": "Hoạt động hành chính/nhân sự",
+            "desc": "[Chi tiết hoạt động hành chính và nhân sự]"
+          },
+          {
+            "name": "Hoạt động R&D",
+            "desc": "[Chi tiết hoạt động R&D]"
+          }
+        ]
+      },
+      "structure": {
+        "title": "Thiết kế cơ cấu tổ chức",
+        "model": "[Mô hình tổ chức theo chức năng]",
+        "departments": [
+          {
+            "name": "Quản lý cửa hàng",
+            "functions": "[Chi tiết chức năng quản lý cửa hàng]"
+          },
+          {
+            "name": "Bộ phận pha chế",
+            "functions": "[Chi tiết chức năng pha chế]"
+          },
+          {
+            "name": "Bộ phận phục vụ",
+            "functions": "[Chi tiết chức năng phục vụ]"
+          },
+          {
+            "name": "Bộ phận thu ngân",
+            "functions": "[Chi tiết chức năng thu ngân]"
+          }
+        ]
+      }
+    },
+    "sectionB": {
+      "title": "B. Chính sách nhân sự",
+      "recruitment": {
+        "title": "Tuyển dụng",
+        "headcount": [
+          {
+            "position": "Quản lý cửa hàng",
+            "count": 1
+          },
+          {
+            "position": "Barista chính",
+            "count": 2
+          },
+          {
+            "position": "Barista phụ",
+            "count": 2
+          },
+          {
+            "position": "Nhân viên phục vụ",
+            "count": 4
+          },
+          {
+            "position": "Thu ngân",
+            "count": 2
+          }
+        ],
+        "process": [
+          "[Bước 1 của quy trình tuyển dụng]",
+          "[Bước 2 của quy trình tuyển dụng]",
+          "[Bước 3 của quy trình tuyển dụng]",
+          "[Bước 4 của quy trình tuyển dụng]",
+          "[Bước 5 của quy trình tuyển dụng]"
+        ]
+      },
+      "training": {
+        "title": "Đào tạo và phát triển",
+        "programs": [
+          {
+            "name": "Đào tạo nhân viên mới",
+            "duration": "[Thời gian đào tạo]",
+            "content": "[Nội dung đào tạo nhân viên mới]"
+          },
+          {
+            "name": "Đào tạo barista",
+            "duration": "[Thời gian đào tạo]",
+            "content": "[Nội dung đào tạo barista]"
+          },
+          {
+            "name": "Đào tạo quản lý",
+            "duration": "[Thời gian đào tạo]",
+            "content": "[Nội dung đào tạo quản lý]"
+          }
+        ]
+      },
+      "jobDesign": {
+        "title": "Thiết kế công việc và quy định chức năng",
+        "items": [
+          {
+            "name": "Bản mô tả công việc",
+            "content": "[Chi tiết bản mô tả công việc]"
+          },
+          {
+            "name": "Tiêu chuẩn thực hiện",
+            "content": "[Chi tiết tiêu chuẩn thực hiện]"
+          },
+          {
+            "name": "Quy trình làm việc",
+            "content": "[Chi tiết quy trình làm việc]"
+          },
+          {
+            "name": "Phân quyền trách nhiệm",
+            "content": "[Chi tiết phân quyền trách nhiệm]"
+          }
+        ]
+      }
+    },
+    "sectionC": {
+      "title": "C. Chính sách động lực",
+      "evaluation": {
+        "title": "Đánh giá nhân viên",
+        "metrics": [
+          {
+            "criteria": "KPIs bán hàng",
+            "weight": 30,
+            "desc": "[Chi tiết đánh giá KPIs bán hàng]"
+          },
+          {
+            "criteria": "Chất lượng công việc",
+            "weight": 25,
+            "desc": "[Chi tiết đánh giá chất lượng công việc]"
+          },
+          {
+            "criteria": "Thái độ làm việc",
+            "weight": 25,
+            "desc": "[Chi tiết đánh giá thái độ làm việc]"
+          },
+          {
+            "criteria": "Tuân thủ nội quy",
+            "weight": 20,
+            "desc": "[Chi tiết đánh giá tuân thủ nội quy]"
+          }
+        ],
+        "cycle": "[Chu kỳ đánh giá]"
+      },
+      "compensation": {
+        "title": "Chế độ thù lao",
+        "structure": [
+          {
+            "type": "Lương cơ bản",
+            "details": "[Chi tiết lương cơ bản]"
+          },
+          {
+            "type": "Thưởng hiệu quả",
+            "details": "[Chi tiết thưởng hiệu quả]"
+          },
+          {
+            "type": "Phụ cấp",
+            "details": "[Chi tiết phụ cấp]"
+          },
+          {
+            "type": "Tip",
+            "details": "[Chi tiết tip]"
+          }
+        ]
+      },
+      "benefits": {
+        "title": "Phúc lợi",
+        "items": [
+          {
+            "name": "Bảo hiểm",
+            "desc": "[Chi tiết bảo hiểm]"
+          },
+          {
+            "name": "Nghỉ phép",
+            "desc": "[Chi tiết nghỉ phép]"
+          },
+          {
+            "name": "Chăm sóc sức khỏe",
+            "desc": "[Chi tiết chăm sóc sức khỏe]"
+          },
+          {
+            "name": "Hoạt động team building",
+            "desc": "[Chi tiết hoạt động team building]"
+          }
+        ]
+      }
+    },
+    "sectionD": {
+      "title": "D. Chi phí nhân sự",
+      "baseSalary": {
+        "title": "Thù lao cơ bản",
+        "breakdown": [
+          {
+            "position": "Quản lý cửa hàng",
+            "salary": "[Mức lương]",
+            "quantity": 1,
+            "total": "[Tổng chi phí]"
+          },
+          {
+            "position": "Barista chính",
+            "salary": "[Mức lương]",
+            "quantity": 2,
+            "total": "[Tổng chi phí]"
+          },
+          {
+            "position": "Barista phụ",
+            "salary": "[Mức lương]",
+            "quantity": 2,
+            "total": "[Tổng chi phí]"
+          },
+          {
+            "position": "Nhân viên phục vụ",
+            "salary": "[Mức lương]",
+            "quantity": 4,
+            "total": "[Tổng chi phí]"
+          },
+          {
+            "position": "Thu ngân",
+            "salary": "[Mức lương]",
+            "quantity": 2,
+            "total": "[Tổng chi phí]"
+          }
+        ]
+      },
+      "incentives": {
+        "title": "Các khoản khuyến khích",
+        "items": [
+          {
+            "type": "Thưởng KPI",
+            "calculation": "[Cách tính thưởng KPI]",
+            "estimatedTotal": "[Ước tính tổng thưởng KPI]"
+          },
+          {
+            "type": "Thưởng doanh số",
+            "calculation": "[Cách tính thưởng doanh số]", 
+            "estimatedTotal": "[Ước tính tổng thưởng doanh số]"
+          },
+          {
+            "type": "Thưởng đột xuất",
+            "calculation": "[Cách tính thưởng đột xuất]",
+            "estimatedTotal": "[Ước tính tổng thưởng đột xuất]"
+          }
+        ]
+      },
+      "benefits": {
+        "title": "Chế độ phúc lợi",
+        "items": [
+          {
+            "type": "Bảo hiểm xã hội",
+            "cost": "[Chi phí BHXH]",
+            "estimatedTotal": "[Ước tính tổng BHXH]"
+          },
+          {
+            "type": "Phụ cấp ăn ca",
+            "cost": "[Chi phí ăn ca]",
+            "estimatedTotal": "[Ước tính tổng ăn ca]"
+          },
+          {
+            "type": "Chi phí đào tạo",
+            "cost": "[Chi phí đào tạo]",
+            "estimatedTotal": "[Ước tính tổng đào tạo]"
+          },
+          {
+            "type": "Team building",
+            "cost": "[Chi phí team building]",
+            "estimatedTotal": "[Ước tính tổng team building]"
+          }
+        ]
+      }
+    }
+  }
+}

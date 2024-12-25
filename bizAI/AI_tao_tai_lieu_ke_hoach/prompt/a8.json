@@ -1,0 +1,174 @@
+{
+    "CHART_DATA": {
+      "profitLoss": {
+        "revenue": {
+          "breakdown": [
+            { "name": "[Nguồn doanh thu 1]", "value": "[X]" },
+            { "name": "[Nguồn doanh thu 2]", "value": "[X]" },
+            { "name": "[Nguồn doanh thu 3]", "value": "[X]" }
+          ],
+          "trend": [
+            { "month": "[T1]", "value": "[X]" },
+            { "month": "[T2]", "value": "[X]" },
+            { "month": "[T3]", "value": "[X]" },
+            { "month": "[T4]", "value": "[X]" },
+            { "month": "[T5]", "value": "[X]" },
+            { "month": "[T6]", "value": "[X]" }
+          ]
+        },
+        "costs": [
+          { "category": "[Loại chi phí 1]", "value": "[X]" },
+          { "category": "[Loại chi phí 2]", "value": "[X]" },
+          { "category": "[Loại chi phí 3]", "value": "[X]" }
+        ],
+        "profitability": [
+          { "month": "[T1]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+          { "month": "[T2]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+          { "month": "[T3]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+          { "month": "[T4]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+          { "month": "[T5]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" },
+          { "month": "[T6]", "revenue": "[X]", "cost": "[X]", "profit": "[X]" }
+        ]
+      },
+      "cashFlow": {
+        "inflows": [
+          { "source": "[Nguồn 1]", "value": "[X]" },
+          { "source": "[Nguồn 2]", "value": "[X]" },
+          { "source": "[Nguồn 3]", "value": "[X]" }
+        ],
+        "outflows": [
+          { "category": "[Khoản mục 1]", "value": "[X]" },
+          { "category": "[Khoản mục 2]", "value": "[X]" },
+          { "category": "[Khoản mục 3]", "value": "[X]" }
+        ],
+        "netFlow": [
+          { "month": "[T1]", "value": "[X]" },
+          { "month": "[T2]", "value": "[X]" },
+          { "month": "[T3]", "value": "[X]" },
+          { "month": "[T4]", "value": "[X]" },
+          { "month": "[T5]", "value": "[X]" },
+          { "month": "[T6]", "value": "[X]" }
+        ]
+      },
+      "balanceSheet": {
+        "assets": [
+          { "category": "[Loại tài sản 1]", "value": "[X]" },
+          { "category": "[Loại tài sản 2]", "value": "[X]" },
+          { "category": "[Loại tài sản 3]", "value": "[X]" },
+          { "category": "[Loại tài sản 4]", "value": "[X]" }
+        ],
+        "liabilities": [
+          { "category": "[Khoản nợ 1]", "value": "[X]" },
+          { "category": "[Khoản nợ 2]", "value": "[X]" },
+          { "category": "[Khoản nợ 3]", "value": "[X]" }
+        ]
+      },
+      "ratios": {
+        "profitability": [
+          { "name": "[Tỷ số 1]", "value": "[X]" },
+          { "name": "[Tỷ số 2]", "value": "[X]" },
+          { "name": "[Tỷ số 3]", "value": "[X]" }
+        ],
+        "efficiency": [
+          { "name": "[Chỉ số 1]", "value": "[X]" },
+          { "name": "[Chỉ số 2]", "value": "[X]" },
+          { "name": "[Chỉ số 3]", "value": "[X]" }
+        ]
+      }
+    },
+    "TEXT_CONTENT": {
+      "title": "8. TÓM TẮT TÀI CHÍNH",
+      "sectionA": {
+        "title": "A. Báo cáo lãi lỗ",
+        "revenue": {
+          "title": "Doanh thu",
+          "details": {
+            "net": "[Doanh thu thuần]",
+            "growth": "[Tăng trưởng]",
+            "analysis": "[Phân tích]"
+          }
+        },
+        "costs": {
+          "title": "Chi phí",
+          "details": {
+            "cogs": "[Giá vốn hàng bán]",
+            "operating": "[Chi phí hoạt động]",
+            "financial": "[Chi phí tài chính]"
+          }
+        },
+        "profit": {
+          "title": "Lợi nhuận",
+          "details": {
+            "gross": "[Lợi nhuận gộp]",
+            "beforeTax": "[Lợi nhuận trước thuế]",
+            "afterTax": "[Lợi nhuận sau thuế]"
+          }
+        }
+      },
+      "sectionB": {
+        "title": "B. Dòng tiền",
+        "inflow": {
+          "title": "Dòng tiền vào",
+          "details": {
+            "operating": "[Hoạt động kinh doanh]",
+            "investment": "[Hoạt động đầu tư]",
+            "financial": "[Hoạt động tài chính]"
+          }
+        },
+        "outflow": {
+          "title": "Dòng tiền ra",
+          "details": {
+            "operating": "[Chi phí hoạt động]",
+            "investment": "[Chi phí đầu tư]",
+            "financial": "[Chi phí tài chính]"
+          }
+        },
+        "net": {
+          "title": "Dòng tiền thuần",
+          "details": {
+            "opening": "[Số dư đầu kỳ]",
+            "movement": "[Biến động]",
+            "closing": "[Số dư cuối kỳ]"
+          }
+        }
+      },
+      "sectionC": {
+        "title": "C. Bảng cân đối kế toán",
+        "assets": {
+          "title": "Tài sản",
+          "details": {
+            "current": "[Tài sản ngắn hạn]",
+            "fixed": "[Tài sản dài hạn]",
+            "total": "[Tổng tài sản]"
+          }
+        },
+        "capital": {
+          "title": "Nguồn vốn",
+          "details": {
+            "debt": "[Nợ phải trả]",
+            "equity": "[Vốn chủ sở hữu]",
+            "total": "[Tổng nguồn vốn]"
+          }
+        }
+      },
+      "sectionD": {
+        "title": "D. Các tỷ lệ tài chính",
+        "profitability": {
+          "title": "Khả năng sinh lời",
+          "details": {
+            "roe": "[ROE]",
+            "roa": "[ROA]",
+            "margin": "[Tỷ suất lợi nhuận]"
+          }
+        },
+        "efficiency": {
+          "title": "Hiệu quả hoạt động",
+          "details": {
+            "assetTurnover": "[Vòng quay tài sản]",
+            "inventoryTurnover": "[Vòng quay hàng tồn kho]",
+            "receivableDays": "[Số ngày phải thu]"
+          }
+        }
+      }
+    }
+  }
